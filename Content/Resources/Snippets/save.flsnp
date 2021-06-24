@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="69" MadCap:lastWidth="624">
+    <head>
+        <link href="../Stylesheets/MAIN Styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <ol class="steps" style="margin-bottom: 0;">
+            <li><i>Click or tap</i> the <b>Save</b>&#160;button  to keep any changes. </li>
+        </ol>
+        <blockquote class="Steps" style="margin-bottom: 0;margin-top: 0;">
+            <p style="margin-bottom: 0;"><b>OR</b>
+            </p>
+        </blockquote>
+        <ol class="steps" MadCap:continue="true" style="margin-bottom: 13px;">
+            <li><i>Click or tap</i> the <b>Back</b> button to abandon any changes and close the tool.</li>
+        </ol>
+    </body>
+</html>

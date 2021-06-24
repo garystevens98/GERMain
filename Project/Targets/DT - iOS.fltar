@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="New Target"
+  Type="PDF"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  ConditionTagExpression="include[Default.Admin or Default.ALL or Default.Generic or Default.HC or Default.iOS or Default.PrintOnly or Default.Windows8 or Default.WM] exclude[Default.Analytics or Default.Android or Default.CHATS or Default.combined or Default.CPM or Default.EWRAP or Default.HAVBED or Default.IC or Default.MIEMSS2 or &quot;Default.Perk Tracker&quot; or Default.SubAdmin or Default.WebOnly] "
+  conditions="Default.HC,Default.PrintOnly"
+  MasterStylesheet="/Content/Resources/Stylesheets/MAIN Styles.css"
+  MasterToc="/Project/TOCs/Decedent Tracking.fltoc">
+  <PDF
+    DownsampleImages="false"
+    ImageCompression="Automatic"
+    ShowUsedBookmarks="false" />
+  <PrintedOutput
+    MultiDocOutput="false" />
+</CatapultTarget>

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="New Target"
+  Type="WebHelp2"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  DefaultUrl="/Content/Index2.htm"
+  ConditionTagExpression="include[Default.Admin or Default.ALL or Default.Analytics or Default.Android or Default.CHATS or Default.CPM or Default.EWRAP or Default.Generic or Default.HAVBED or Default.HC or Default.IC or Default.iOS or &quot;Default.Shelter Tracking&quot; or Default.WebOnly or Default.Windows8 or Default.WM] exclude[Default.combined or Default.MIEMSS2 or &quot;Default.Perk Tracker&quot; or Default.PrintOnly or Default.SubAdmin] "
+  Skin="/Project/Skins/Copy of DefaultHTML5.flskn"
+  GenerateWebSafeImages="false"
+  ServerEnabled="false"
+  MasterPage="/Content/Resources/MasterPages/NewPage.flmsp"
+  Medium="non-print"
+  PreCompileScaledImages="false"
+  PartialWordSearch="true"
+  SearchDatabaseChunkSize="100000"
+  PreMergeSearchDatabase="false"
+  MasterToc="/Project/TOCs/Generic HC4 HTML.fltoc">
+  <PrintedOutput
+    CollapseMargins="true" />
+  <Destinations>
+    <Destination
+      Link="/Project/Destinations/MyDestination.fldes" />
+  </Destinations>
+  <Variables>
+    <Variable
+      Name="MyVariables/HC Version">4.5</Variable>
+  </Variables>
+  <MetaTags
+    Enabled="false" />
+</CatapultTarget>

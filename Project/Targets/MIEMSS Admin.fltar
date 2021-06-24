@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="New Target"
+  Type="PDF"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  ConditionTagExpression="include[Default.Admin or Default.combined or Default.MIEMSS2 or Default.PrintOnly] exclude[Default.ALL or Default.Android or Default.EWRAP or Default.Generic or Default.HC or Default.IC or Default.iOS or Default.SubAdmin or Default.WebOnly or Default.Windows8 or Default.WM] "
+  conditions="Default.HC,Default.PrintOnly"
+  MasterStylesheet="/Content/Resources/Stylesheets/MAIN Styles.css"
+  MasterToc="/Project/TOCs/MIEMSS.fltoc">
+  <PDF
+    DownsampleImages="false"
+    ImageCompression="Automatic"
+    ShowUsedBookmarks="false" />
+  <PrintedOutput
+    MultiDocOutput="false" />
+</CatapultTarget>

@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="637" MadCap:lastWidth="626">
+    <head>
+        <link href="../Resources/Stylesheets/MAIN Styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <h2 MadCap:autonum="1 - 1: ">Cell and Pager Providers</h2>
+        <p style="color: #000000;">The Cell and Providers tools allow an Admin to build the list from which users will select the carrier that provides service for the users' cell phone or alphanumeric pager. &#160;The process for creating and managing providers is the same for both. &#160;The section below details working with Cell providers; the process for managing Pager providers is exactly the same. </p>
+        <p style="text-decoration: none;">To manage cell providers, as shown in <MadCap:xref href="#Cell_Providers" class="figures">FIGURE 1-1</MadCap:xref>:</p>
+        <ol class="steps">
+            <li><i>Click or tap</i> on the <b>Notifications &amp; Templates</b> icon.</li>
+            <li><i>Click or tap</i> on the <b>Cell Providers</b> icon under the <b>Manage My Notifications</b> section.</li>
+        </ol>
+        <p class="noafter">
+            <img src="../Resources/Images/admin/note-cell.png" class="newwindows" />
+        </p>
+        <p class="Figuretest" MadCap:autonum=" FIGURE 1-1: "><a name="Cell_Providers"></a>Cell Providers</p>
+        <p>
+            <MadCap:xref href="#Cell" class="figures">FIGURE 1-2</MadCap:xref> shows Providers already in the system and are listed by carrier name, along with the e-mail format that will be used to send text messages to users who select that carrier.</p>
+        <p class="noafter">
+            <img src="../Resources/Images/admin/cell1.png" class="newwindows" />
+        </p>
+        <p class="Figuretest" MadCap:autonum=" FIGURE 1-2: "><a name="Cell"></a>Cell Providers List</p>
+        <h3 MadCap:autonum="1 - 1.1 ">Creating a New Cell Provider</h3>
+        <p style="text-decoration: none;">To create a new cell provider, as shown in <MadCap:xref href="#Create_New_Cell_Provider_Button" class="figures">FIGURE 1-3</MadCap:xref>:</p>
+        <ol class="steps">
+            <li><i>Click or tap</i> the <b>Create New Cell Provider</b> button.</li>
+        </ol>
+        <p class="noafter">
+            <img src="../Resources/Images/admin/createcellprov.png" class="newwindows" />
+        </p>
+        <p class="Figuretest" MadCap:autonum=" FIGURE 1-3: "><a name="Create_New_Cell_Provider_Button"></a>Create New Cell Provider Button</p>
+        <p>The <b>Create New Cell Provider</b> tool will display, as shown in <MadCap:xref href="#Create_New_Cell_Provider_Dialog" class="figures">FIGURE 1-4</MadCap:xref>.</p>
+        <ol class="steps">
+            <li><i>Enter</i> a <b>Name</b>.</li>
+            <li><i>Enter</i> an <b>Email Format</b>.</li>
+        </ol>
+        <p class="noafter">
+            <img src="../Resources/Images/admin/cell2.png" class="newwindows" />
+        </p>
+        <p class="Figuretest" MadCap:autonum=" FIGURE 1-4: "><a name="Create_New_Cell_Provider_Dialog"></a>Create New Cell Provider Dialog</p>
+        <table style="width: 100%;border-spacing: 2px 2px;border-left-style: solid;border-left-width: 0px;border-left-color: #d3d3d3;border-right-style: solid;border-right-width: 0px;border-right-color: #d3d3d3;border-top-style: outset;border-top-width: 2px;border-top-color: #d3d3d3;border-bottom-style: outset;border-bottom-width: 1px;border-bottom-color: #d3d3d3;">
+            <col style="width: 77px;" />
+            <col />
+            <tbody>
+                <tr>
+                    <td class="Note">&#160;</td>
+                    <td class="callout">
+                        <p><b>Note:</b> Knowing which <b>Email Format</b> to use: </p>
+                        <p>These formats are volatile due to changes in cell providers (mergers, etc.), so it is not practical to maintain a list in this document.  Many web sites list the available SMS email formats. These lists can be found online by using a web search (e.g. Google) with a query similar to the following:</p>
+                        <p>"<b>SMS email provider list</b>"</p>
+                        <p>The search will return a list of links, some of which will contain lists of email formats. </p>
+                        <p>The format may be shown in various ways. The examples below show some possible representations for the "Alltel" cell provider. Notice that all of these formats end with "@message.Alltel.com".</p>
+                        <p class="nobefore" style="font-weight: bold;">mobile#@message.Alltel.com</p>
+                        <p class="nobefore" style="font-weight: bold;">n@message.Alltel.com</p>
+                        <p style="font-weight: bold;">10DigitNumber@message.Alltel.com</p>
+                        <p>When adding the <b>Email Format</b> to HC Standard<sup>®</sup>, replace any text appearing before the "@" with "{0}". The resulting format should look like the following example:</p>
+                        <p style="font-weight: bold;">{0}@message.Alltel.com</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p style="margin-top: 13px;text-decoration: none;page-break-before: always;">To exit the cell providers' tool, as shown in <MadCap:xref href="#Save_and_Back_buttons" class="figures">FIGURE 1-5</MadCap:xref>:</p>
+        <MadCap:snippetBlock src="../Resources/Snippets/save.flsnp" />
+        <p class="noafter">
+            <img src="../Resources/Images/admin/cell-save.png" class="newwindows" />
+        </p>
+        <p class="Figuretest" MadCap:autonum=" FIGURE 1-5: "><a name="Save_and_Back_buttons"></a>Save and Back buttons</p>
+        <h3 MadCap:autonum="1 - 1.2 ">Other Cell Provider Action(s)</h3>
+        <p>One other action, delete, may be performed with cell providers. </p>
+        <p style="text-decoration: none;">To perform this action on one or more cell providers, as shown in <MadCap:xref href="#Actions_Button" class="figures">FIGURE 1-6</MadCap:xref>:</p>
+        <MadCap:snippetBlock src="../Resources/Snippets/actions.flsnp" />
+        <p class="noafter">
+            <img src="../Resources/Images/admin/cell-actions.png" class="newwindows" />
+        </p>
+        <p class="Figuretest" MadCap:autonum=" FIGURE 1-6: "><a name="Actions_Button"></a>Actions Button</p>
+        <p><i>Select</i> the desired action and follow the prompt,as shown in <MadCap:xref href="#Cell_Providers-_Other_Actions" class="figures">FIGURE 1-7</MadCap:xref>.</p>
+        <ol style="margin-bottom: 13px;">
+            <li><b>Delete</b> remove the provider from the system.</li>
+        </ol>
+        <p class="noafter">
+            <img src="../Resources/Images/admin/delete action.png" class="newwindowsdialog" MadCap:mediastyle="@media print { max-width: 50%; }" />
+        </p>
+        <p class="Figuretest" MadCap:autonum=" FIGURE 1-7: "><a name="Cell_Providers-_Other_Actions"></a>Cell Providers- Other Actions</p>
+    </body>
+</html>

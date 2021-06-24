@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="TDH Patient Archive">
+    <TocEntry
+      Title="Cover Page"
+      Link="/Content/Patient Archive/Cover Page.htm"
+      BreakType="pageLayout"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Acknowledgements-TDH"
+      Link="/Content/Patient Archive/Acknowledgements-TDH.htm"
+      BreakType="pageLayout"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Table of Contents"
+      Link="/Content/Client TOC.htm"
+      ReplaceMergeNode="false"
+      ComputeToc="false"
+      PageType="normal"
+      PageNumber="1"
+      PageNumberReset="continue"
+      StartSection="false"
+      VolumeNumberReset="same"
+      SectionNumberReset="continue"
+      ChapterNumberReset="continue"
+      conditions="Default.PrintOnly"
+      BreakType="pageLayout"
+      PageLayout="/Content/Resources/PageLayouts/Default.flpgl"></TocEntry>
+    <TocEntry
+      Title="Roles in HC Standard®"
+      Link="/Content/Patient Archive/Who Should Use It.htm"
+      BreakType="chapter"
+      PageType="title"
+      StartSection="false"
+      PageNumberReset="reset"
+      PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
+      PageNumber="1"
+      ChapterNumberReset="reset"
+      ChapterNumber="1"
+      SectionNumberReset="continue"
+      VolumeNumberReset="same" />
+    <TocEntry
+      Title="Archive Patient Data"
+      Link="/Content/Patient Archive/TDH - Archive.htm"
+      BreakType="chapter"
+      StartSection="false"
+      PageNumberReset="continue"
+      SectionNumberReset="continue"
+      VolumeNumberReset="same"
+      ChapterNumberReset="continue"
+      PageType="title"
+      PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl" />
+    <TocEntry
+      Title="Granting Access to Patient Archive Workspace"
+      Link="/Content/Patient Archive/addaccess.htm"
+      BreakType="chapter"
+      PageType="title"
+      StartSection="false"
+      PageNumberReset="continue"
+      PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl" />
+  </TocEntry>
+</CatapultToc>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="New Target"
+  Type="PDF"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  ConditionTagExpression="include[Default.combined or Default.Generic or Default.HC or Default.IC or Default.PrintOnly] exclude[Default.Admin or Default.ALL or Default.Analytics or Default.Android or Default.CHATS or Default.CPM or Default.EWRAP or Default.HAVBED or Default.iOS or Default.MIEMSS2 or &quot;Default.Perk Tracker&quot; or Default.SubAdmin or Default.WebOnly or Default.Windows8 or Default.WM] "
+  conditions="Default.HC,Default.PrintOnly"
+  MasterStylesheet="/Content/Resources/Stylesheets/MAIN Styles.css"
+  MasterToc="/Project/TOCs/Illinois.fltoc">
+  <PDF
+    DownsampleImages="false"
+    ImageCompression="Automatic" />
+  <Destinations>
+    <Destination
+      Link="/Project/Destinations/websitepdfs.fldes" />
+  </Destinations>
+</CatapultTarget>

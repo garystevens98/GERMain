@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="New Target"
+  Type="WebHelp2"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  ConditionTagExpression="include[Default.Admin or Default.ALL or Default.HC or Default.IC or Default.WebOnly]exclude[Default.SubAdmin or Default.combined or Default.PrintOnly]"
+  Skin="/Project/Skins/HTML5 - Top Navigation.flskn"
+  UseDeviceWidth="true"
+  MasterPage="/Content/Resources/MasterPages/NewPage.flmsp"
+  ServerEnabled="true"
+  PreCompileScaledImages="false"
+  PartialWordSearch="true"
+  MasterToc="/Project/TOCs/New Web.fltoc"
+  DefaultUrl="/Content/Index2.htm">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true" />
+</CatapultTarget>

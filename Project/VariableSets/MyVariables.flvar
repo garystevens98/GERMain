@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+  <Variable
+    Comment=""
+    Name="CompanyName">Global Emergency Resources</Variable>
+  <Variable
+    Comment=""
+    Name="PhoneNumber">1-866-404-6911</Variable>
+  <Variable
+    Name="Figures"
+    Comment="Sets Figure Numbering for objects"
+    Definition="Some text">CF: FIGURE {chapnum}-{n+}:</Variable>
+  <Variable
+    Name="HC Version"
+    Comment="HC version for doc"
+    Definition="Some text">4.5</Variable>
+</CatapultVariableSet>

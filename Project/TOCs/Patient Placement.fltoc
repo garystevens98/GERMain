@@ -1,0 +1,205 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="HC Patient Placement"
+    ChapterNumberReset="reset"
+    ChapterNumber="1"
+    StartSection="false"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same">
+    <TocEntry
+      Title="Cover Page"
+      Link="/Content/Patient Placement/Cover Page.htm"
+      conditions="Default.PrintOnly"
+      StartSection="false"
+      PageType="title"
+      PageNumber="1"
+      PageNumberReset="continue"
+      VolumeNumberReset="same"
+      SectionNumberReset="continue"
+      ChapterNumberReset="continue"
+      ReplaceMergeNode="false"
+      PageLayout="/Content/Resources/PageLayouts/Default.flpgl"
+      BreakType="chapter" />
+    <TocEntry
+      Title="Legal &amp; License Information"
+      Link="/Content/Patient Placement/Acknowledgements-TDH.htm"
+      VolumeNumberReset="same"
+      SectionNumberReset="continue"
+      ChapterNumberReset="continue"
+      conditions="Default.PrintOnly"
+      BreakType="pageLayout"
+      PageLayout="/Content/Resources/PageLayouts/Default.flpgl"
+      StartSection="false"></TocEntry>
+    <TocEntry
+      Title="Table of Contents"
+      Link="/Content/Client TOC.htm"
+      ReplaceMergeNode="false"
+      ComputeToc="false"
+      PageType="normal"
+      PageNumber="1"
+      PageNumberReset="continue"
+      StartSection="false"
+      VolumeNumberReset="same"
+      SectionNumberReset="continue"
+      ChapterNumberReset="continue"
+      conditions="Default.PrintOnly"
+      BreakType="pageLayout"
+      PageLayout="/Content/Resources/PageLayouts/Default.flpgl"></TocEntry>
+    <TocEntry
+      Title="blank page"
+      Link="/Content/blank page.htm"
+      conditions="Default.PrintOnly"
+      StartSection="false" />
+    <TocEntry
+      Title="Getting Started with HC Patient Placement"
+      BreakType="chapter"
+      PageNumberReset="reset"
+      StartSection="false"
+      PageNumber="1"
+      SectionNumberReset="continue"
+      VolumeNumberReset="same"
+      ChapterNumberReset="reset"
+      ChapterNumber="1">
+      <TocEntry
+        Title="Getting Started with HC Standard®Patient Placement"
+        Link="/Content/Patient Placement/Get Started with PT.htm"
+        BreakType="pageLayout"
+        PageNumberReset="reset"
+        PageType="title"
+        StartSection="false"
+        PageNumber="1"
+        PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
+        ChapterNumberReset="reset"
+        ChapterNumber="1"
+        SectionNumberReset="continue"
+        VolumeNumberReset="same" />
+      <TocEntry
+        Title="Logging In to HC Patient Placement"
+        Link="/Content/Patient Placement/Log In.htm"
+        BreakType="none"
+        PageType="title"
+        StartSection="false"
+        PageNumberReset="continue"
+        PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
+        SectionNumberReset="continue"
+        VolumeNumberReset="same"
+        ChapterNumberReset="continue" />
+    </TocEntry>
+    <TocEntry
+      Title="Evacuating Facilities"
+      BreakType="chapter"
+      PageType="title"
+      StartSection="false"
+      PageNumberReset="continue"
+      PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
+      Link="/Content/Patient Placement/Evacuating Facilities/evacpatients.htm">
+      <TocEntry
+        Title="Create Patients"
+        Link="/Content/Patient Placement/Evacuating Facilities/Create Patient.htm"
+        BreakType="none"
+        PageType="title"
+        StartSection="false"
+        PageNumberReset="continue"
+        PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl" />
+      <TocEntry
+        Title="View Patients"
+        Link="/Content/Patient Placement/Evacuating Facilities/Viewpatients.htm" />
+      <TocEntry
+        Title="Transport Patients"
+        Link="/Content/Patient Placement/Evacuating Facilities/Transport Patients.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Receiving Facilities"
+      BreakType="chapter"
+      PageType="title"
+      StartSection="false"
+      PageNumberReset="continue"
+      PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
+      Link="/Content/Patient Placement/Receiving Facilities/Receiving Fac.htm">
+      <TocEntry
+        Title="State Wide Requests"
+        Link="/Content/Patient Placement/Receiving Facilities/Statewide Requests.htm" />
+      <TocEntry
+        Title="My Facility"
+        Link="/Content/Patient Placement/Receiving Facilities/My Facility.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="EMS"
+      BreakType="chapter"
+      PageType="title"
+      StartSection="false"
+      PageNumberReset="continue"
+      PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
+      Link="/Content/Patient Placement/EMS/EMS.htm">
+      <TocEntry
+        Title="View Patients"
+        Link="/Content/Patient Placement/EMS/View Patients.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Public Health"
+      BreakType="chapter"
+      PageType="title"
+      Link="/Content/Patient Placement/Public Health/PH.htm"
+      StartSection="false"
+      PageNumberReset="continue"
+      PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl">
+      <TocEntry
+        Title="View Patients"
+        Link="/Content/Patient Placement/Public Health/Transport Boards.htm" />
+      <TocEntry
+        Title="Placement Boards"
+        Link="/Content/Patient Placement/Public Health/Placement Boards.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Common Actions"
+      Link="/Content/Patient Placement/Common Actions_1.htm"
+      BreakType="chapter"
+      PageType="title"
+      StartSection="false"
+      PageNumberReset="continue"
+      PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
+      SectionNumberReset="continue"
+      VolumeNumberReset="same"
+      ChapterNumberReset="continue">
+      <TocEntry
+        Title="Editting Records"
+        Link="/Content/Patient Placement/Editting Records.htm"
+        BreakType="none"
+        PageType="title"
+        StartSection="false"
+        PageNumberReset="continue"
+        PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
+        SectionNumberReset="continue"
+        VolumeNumberReset="same"
+        ChapterNumberReset="continue"></TocEntry>
+      <TocEntry
+        Title="Deleting Records"
+        Link="/Content/Patient Placement/Deleting Records.htm"
+        BreakType="none"
+        PageType="title"
+        StartSection="false"
+        PageNumberReset="continue"
+        PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
+        SectionNumberReset="continue"
+        VolumeNumberReset="same"
+        ChapterNumberReset="continue" />
+      <TocEntry
+        Title="Using Quick Filters"
+        Link="/Content/Patient Placement/Quick Filters.htm" />
+      <TocEntry
+        Title="Using Display"
+        Link="/Content/Patient Placement/Display.htm" />
+      <TocEntry
+        Title="Sorting and Filtering Records"
+        Link="/Content/Patient Placement/Sorting Patients.htm" />
+      <TocEntry
+        Title="Upload CSV File"
+        Link="/Content/Patient Placement/CSV Upload.htm" />
+      <TocEntry
+        Title="Grid Actions"
+        Link="/Content/Patient Placement/Grid Actions.htm" />
+    </TocEntry>
+  </TocEntry>
+</CatapultToc>

@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="HC Decedent Tracking for iOS"
+    conditions="Default.iOS"
+    ReplaceMergeNode="false"
+    BreakType="none"
+    PageNumberReset="reset"
+    PageNumber="83"
+    StartSection="false"
+    ChapterNumberReset="reset"
+    ChapterNumber="1"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same">
+    <TocEntry
+      Title="Cover Page"
+      Link="/Content/Decedent Tracking/iOS/Cover Page.htm"
+      conditions="Default.PrintOnly"
+      StartSection="false" />
+    <TocEntry
+      Title="HC Standard® Administrator Manual"
+      Link="/Content/Decedent Tracking/iOS/Acknowledgements.htm"
+      conditions="Default.PrintOnly"
+      StartSection="false" />
+    <TocEntry
+      Title="TOC"
+      Link="/Content/Client TOC.htm"
+      BreakType="chapter"
+      StartSection="false"
+      PageLayout="/Content/Resources/PageLayouts/Default.flpgl"
+      conditions="Default.PrintOnly"
+      PageNumberReset="continue"></TocEntry>
+    <TocEntry
+      Title="Decedent Tracking Overview"
+      Link="/Content/Decedent Tracking/iOS/RT Overview.htm"
+      StartChapter="true"
+      PageNumber="1"
+      PageNumberReset="reset"
+      StartSection="false"
+      PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
+      ChapterNumberReset="reset"
+      ChapterNumber="1"
+      SectionNumberReset="continue"
+      VolumeNumberReset="same" />
+    <TocEntry
+      Title="Getting Started with HC Mobile"
+      Link="/Content/Decedent Tracking/iOS/Using PTS.htm"
+      StartChapter="true"
+      PageNumber="1"
+      PageNumberReset="continue"
+      StartSection="false"
+      PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl" />
+    <TocEntry
+      Title="Field Operations Module"
+      Link="/Content/Decedent Tracking/iOS/Field Ops.htm"
+      BreakType="chapter"
+      StartSection="false"
+      PageNumberReset="continue"
+      SectionNumberReset="continue"
+      VolumeNumberReset="same"
+      ChapterNumberReset="continue"
+      PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl" />
+    <TocEntry
+      Title="Working with Decedents and Body Parts"
+      Link="/Content/Decedent Tracking/iOS/Working with decedents.htm"
+      PageNumber="1"
+      PageNumberReset="continue"
+      StartSection="false"
+      PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
+      BreakType="none" />
+    <TocEntry
+      Title="Working with Groups"
+      Link="/Content/Decedent Tracking/iOS/Working with Groups.htm"
+      VolumeNumberReset="continue"
+      SectionNumberReset="continue"
+      ChapterNumberReset="continue"
+      BreakType="none"
+      StartSection="false"
+      PageNumberReset="continue"
+      ComputeToc="false"
+      ReplaceMergeNode="false"
+      PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl" />
+    <TocEntry
+      Title="Mortuary Operations Module"
+      Link="/Content/Decedent Tracking/iOS/Mortuary Ops.htm"
+      BreakType="chapter"
+      StartSection="false"
+      PageNumberReset="continue"
+      SectionNumberReset="continue"
+      VolumeNumberReset="same"
+      ChapterNumberReset="continue"
+      PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl" />
+    <TocEntry
+      Title="Working with Intake Procedure"
+      Link="/Content/Decedent Tracking/iOS/Intake.htm" />
+    <TocEntry
+      Title="Working with Morgue Operations"
+      Link="/Content/Decedent Tracking/iOS/Morgue.htm" />
+    <TocEntry
+      Title="Transport Operations Module"
+      Link="/Content/Decedent Tracking/iOS/Transport Ops.htm"
+      BreakType="chapter"
+      StartSection="false"
+      PageNumberReset="continue"
+      PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl" />
+    <TocEntry
+      Title="Working with Transport Operations"
+      Link="/Content/Decedent Tracking/iOS/Log Transport.htm" />
+    <TocEntry
+      Title="Application Settings"
+      Link="/Content/PTS/iOS/Settings.htm"
+      BreakType="chapter"
+      StartSection="false"
+      PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
+      PageNumberReset="continue" />
+  </TocEntry>
+</CatapultToc>

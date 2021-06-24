@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultProject Version="1" MasterStylesheet="/Content/Resources/Stylesheets/MAIN Styles.css" MasterPageLayout="/Content/Resources/PageLayouts/Default.flpgl" xml:lang="en-us" SourceControlBound="true" Comment="This template contains a minimum number of content and project files, including a single topic. It is the best choice for those who want to begin with a skeleton project." MasterToc="/Project/TOCs/Master.fltoc" IncludePattern="*.png;*.jpg;*.flmsp;*.css;*.fltar;*.flvar;*.flskn" AutoExcludeNonTaggedFiles="false" IncludeLinkedFiles="true" DeleteStale="false" DeleteUnreferenced="false" AutoSync="true" LastImport="2018-07-10T13:40:24.8226335-04:00" SourceControlProviderType="Git">
+    <Files>
+        <Url Source="file:///C:/Users/saguy/OneDrive/One Drive Documents/madcaptest/Herschel/Herschel.flprj" AbsoluteSource="file:///C:/Users/saguy/OneDrive/One Drive Documents/madcaptest/Herschel/Herschel.flprj" />
+    </Files>
+    <ExcludedFiles />
+    <CollectedSourceFiles>
+        <Url Source="../../../OneDrive/One Drive Documents/madcaptest/Herschel/Content/Resources/Images/Home/Facebook-Icon-White.png" AbsoluteSource="file:///C:/Users/saguy/OneDrive/One Drive Documents/madcaptest/Herschel/Content/Resources/Images/Home/Facebook-Icon-White.png" />
+        <Url Source="../../../OneDrive/One Drive Documents/madcaptest/Herschel/Content/Resources/Images/Home/Hero-Background.jpg" AbsoluteSource="file:///C:/Users/saguy/OneDrive/One Drive Documents/madcaptest/Herschel/Content/Resources/Images/Home/Hero-Background.jpg" />
+        <Url Source="../../../OneDrive/One Drive Documents/madcaptest/Herschel/Content/Resources/Images/Home/hero-image.png" AbsoluteSource="file:///C:/Users/saguy/OneDrive/One Drive Documents/madcaptest/Herschel/Content/Resources/Images/Home/hero-image.png" />
+        <Url Source="../../../OneDrive/One Drive Documents/madcaptest/Herschel/Content/Resources/Images/Home/icon-circle1.png" AbsoluteSource="file:///C:/Users/saguy/OneDrive/One Drive Documents/madcaptest/Herschel/Content/Resources/Images/Home/icon-circle1.png" />
+        <Url Source="../../../OneDrive/One Drive Documents/madcaptest/Herschel/Content/Resources/Images/Home/icon-circle2.png" AbsoluteSource="file:///C:/Users/saguy/OneDrive/One Drive Documents/madcaptest/Herschel/Content/Resources/Images/Home/icon-circle2.png" />
+        <Url Source="../../../OneDrive/One Drive Documents/madcaptest/Herschel/Content/Resources/Images/Home/icon-search.png" AbsoluteSource="file:///C:/Users/saguy/OneDrive/One Drive Documents/madcaptest/Herschel/Content/Resources/Images/Home/icon-search.png" />
+        <Url Source="../../../OneDrive/One Drive Documents/madcaptest/Herschel/Content/Resources/Images/Home/minus.png" AbsoluteSource="file:///C:/Users/saguy/OneDrive/One Drive Documents/madcaptest/Herschel/Content/Resources/Images/Home/minus.png" />
+        <Url Source="../../../OneDrive/One Drive Documents/madcaptest/Herschel/Content/Resources/Images/Home/PlaceholderLogo-white.png" AbsoluteSource="file:///C:/Users/saguy/OneDrive/One Drive Documents/madcaptest/Herschel/Content/Resources/Images/Home/PlaceholderLogo-white.png" />
+        <Url Source="../../../OneDrive/One Drive Documents/madcaptest/Herschel/Content/Resources/Images/Home/plus.png" AbsoluteSource="file:///C:/Users/saguy/OneDrive/One Drive Documents/madcaptest/Herschel/Content/Resources/Images/Home/plus.png" />
+        <Url Source="../../../OneDrive/One Drive Documents/madcaptest/Herschel/Content/Resources/Images/Home/Product-1.png" AbsoluteSource="file:///C:/Users/saguy/OneDrive/One Drive Documents/madcaptest/Herschel/Content/Resources/Images/Home/Product-1.png" />
+        <Url Source="../../../OneDrive/One Drive Documents/madcaptest/Herschel/Content/Resources/Images/Home/Product-2.png" AbsoluteSource="file:///C:/Users/saguy/OneDrive/One Drive Documents/madcaptest/Herschel/Content/Resources/Images/Home/Product-2.png" />
+        <Url Source="../../../OneDrive/One Drive Documents/madcaptest/Herschel/Content/Resources/Images/Home/Product-3.png" AbsoluteSource="file:///C:/Users/saguy/OneDrive/One Drive Documents/madcaptest/Herschel/Content/Resources/Images/Home/Product-3.png" />
+        <Url Source="../../../OneDrive/One Drive Documents/madcaptest/Herschel/Content/Resources/Images/Home/Twitter-Icon-White_40x40.png" AbsoluteSource="file:///C:/Users/saguy/OneDrive/One Drive Documents/madcaptest/Herschel/Content/Resources/Images/Home/Twitter-Icon-White_40x40.png" />
+        <Url Source="../../../OneDrive/One Drive Documents/madcaptest/Herschel/Content/Resources/MasterPages/HomePage.flmsp" AbsoluteSource="file:///C:/Users/saguy/OneDrive/One Drive Documents/madcaptest/Herschel/Content/Resources/MasterPages/HomePage.flmsp" />
+        <Url Source="../../../OneDrive/One Drive Documents/madcaptest/Herschel/Content/Resources/MasterPages/OtherTopics.flmsp" AbsoluteSource="file:///C:/Users/saguy/OneDrive/One Drive Documents/madcaptest/Herschel/Content/Resources/MasterPages/OtherTopics.flmsp" />
+        <Url Source="../../../OneDrive/One Drive Documents/madcaptest/Herschel/Content/Resources/Stylesheets/Styles.css" AbsoluteSource="file:///C:/Users/saguy/OneDrive/One Drive Documents/madcaptest/Herschel/Content/Resources/Stylesheets/Styles.css" />
+        <Url Source="../../../OneDrive/One Drive Documents/madcaptest/Herschel/Content/Resources/TableStyles/Basic.css" AbsoluteSource="file:///C:/Users/saguy/OneDrive/One Drive Documents/madcaptest/Herschel/Content/Resources/TableStyles/Basic.css" />
+        <Url Source="../../../OneDrive/One Drive Documents/madcaptest/Herschel/Project/Skins/HTML5 - Side Navigation Skin.flskn" AbsoluteSource="file:///C:/Users/saguy/OneDrive/One Drive Documents/madcaptest/Herschel/Project/Skins/HTML5 - Side Navigation Skin.flskn" />
+        <Url Source="../../../OneDrive/One Drive Documents/madcaptest/Herschel/Project/Skins/Toolbar.flskn" AbsoluteSource="file:///C:/Users/saguy/OneDrive/One Drive Documents/madcaptest/Herschel/Project/Skins/Toolbar.flskn" />
+        <Url Source="../../../OneDrive/One Drive Documents/madcaptest/Herschel/Project/Targets/HTML5 - Side Navigation.fltar" AbsoluteSource="file:///C:/Users/saguy/OneDrive/One Drive Documents/madcaptest/Herschel/Project/Targets/HTML5 - Side Navigation.fltar" />
+        <Url Source="../../../OneDrive/One Drive Documents/madcaptest/Herschel/Project/VariableSets/General.flvar" AbsoluteSource="file:///C:/Users/saguy/OneDrive/One Drive Documents/madcaptest/Herschel/Project/VariableSets/General.flvar" />
+        <Url Source="../../../OneDrive/One Drive Documents/madcaptest/Herschel/Project/TOCs/SideNav.fltoc" AbsoluteSource="file:///C:/Users/saguy/OneDrive/One Drive Documents/madcaptest/Herschel/Project/TOCs/SideNav.fltoc" />
+        <Url Source="../../../OneDrive/One Drive Documents/madcaptest/Herschel/Content/Article Template.htm" AbsoluteSource="file:///C:/Users/saguy/OneDrive/One Drive Documents/madcaptest/Herschel/Content/Article Template.htm" />
+        <Url Source="../../../OneDrive/One Drive Documents/madcaptest/Herschel/Content/Release Notes.htm" AbsoluteSource="file:///C:/Users/saguy/OneDrive/One Drive Documents/madcaptest/Herschel/Content/Release Notes.htm" />
+        <Url Source="../../../OneDrive/One Drive Documents/madcaptest/Herschel/Content/System Requirements.htm" AbsoluteSource="file:///C:/Users/saguy/OneDrive/One Drive Documents/madcaptest/Herschel/Content/System Requirements.htm" />
+        <Url Source="../../../OneDrive/One Drive Documents/madcaptest/Herschel/Content/Home.htm" AbsoluteSource="file:///C:/Users/saguy/OneDrive/One Drive Documents/madcaptest/Herschel/Content/Home.htm" />
+    </CollectedSourceFiles>
+    <SkippedSourceFiles />
+    <GeneratedFiles>
+        <Url Source="Content/Resources/Images/Home/Facebook-Icon-White.png" TimeStamp="7/10/2018 1:31:43 PM" />
+        <Url Source="Content/Resources/Images/Home/Hero-Background.jpg" TimeStamp="7/10/2018 1:31:43 PM" />
+        <Url Source="Content/Resources/Images/Home/hero-image.png" TimeStamp="7/10/2018 1:31:43 PM" />
+        <Url Source="Content/Resources/Images/Home/icon-circle1.png" TimeStamp="7/10/2018 1:31:43 PM" />
+        <Url Source="Content/Resources/Images/Home/icon-circle2.png" TimeStamp="7/10/2018 1:31:43 PM" />
+        <Url Source="Content/Resources/Images/Home/icon-search.png" TimeStamp="7/10/2018 1:31:43 PM" />
+        <Url Source="Content/Resources/Images/Home/minus.png" TimeStamp="7/10/2018 1:31:43 PM" />
+        <Url Source="Content/Resources/Images/Home/PlaceholderLogo-white.png" TimeStamp="7/10/2018 1:31:43 PM" />
+        <Url Source="Content/Resources/Images/Home/plus.png" TimeStamp="7/10/2018 1:31:43 PM" />
+        <Url Source="Content/Resources/Images/Home/Product-1.png" TimeStamp="7/10/2018 1:31:43 PM" />
+        <Url Source="Content/Resources/Images/Home/Product-2.png" TimeStamp="7/10/2018 1:31:43 PM" />
+        <Url Source="Content/Resources/Images/Home/Product-3.png" TimeStamp="7/10/2018 1:31:43 PM" />
+        <Url Source="Content/Resources/Images/Home/Twitter-Icon-White_40x40.png" TimeStamp="7/10/2018 1:31:43 PM" />
+        <Url Source="Content/Resources/MasterPages/HomePage.flmsp" TimeStamp="7/10/2018 1:31:43 PM" />
+        <Url Source="Content/Resources/MasterPages/OtherTopics.flmsp" TimeStamp="7/10/2018 1:31:43 PM" />
+        <Url Source="Content/Resources/Stylesheets/Styles.css" TimeStamp="7/10/2018 1:31:43 PM" />
+        <Url Source="Content/Resources/TableStyles/Basic.css" TimeStamp="7/10/2018 1:31:43 PM" />
+        <Url Source="Project/Skins/HTML5 - Side Navigation Skin.flskn" TimeStamp="7/10/2018 1:31:43 PM" />
+        <Url Source="Project/Skins/Toolbar.flskn" TimeStamp="7/10/2018 1:31:43 PM" />
+        <Url Source="Project/Targets/HTML5 - Side Navigation.fltar" TimeStamp="7/10/2018 1:31:43 PM" />
+        <Url Source="Project/VariableSets/General.flvar" TimeStamp="7/10/2018 1:31:43 PM" />
+        <Url Source="Project/TOCs/SideNav.fltoc" TimeStamp="7/10/2018 1:31:43 PM" />
+        <Url Source="Content/Article Template.htm" TimeStamp="7/10/2018 1:31:43 PM" />
+        <Url Source="Content/Release Notes.htm" TimeStamp="7/10/2018 1:31:43 PM" />
+        <Url Source="Content/System Requirements.htm" TimeStamp="7/10/2018 1:31:43 PM" />
+        <Url Source="Content/Home.htm" TimeStamp="7/10/2018 1:31:43 PM" />
+    </GeneratedFiles>
+</CatapultProject>

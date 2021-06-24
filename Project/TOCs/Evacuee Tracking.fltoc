@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="HC Evacuee Tracking for iOS"
+    conditions="Default.iOS"
+    ReplaceMergeNode="false"
+    BreakType="none"
+    PageNumberReset="reset"
+    PageNumber="83"
+    StartSection="false"
+    ChapterNumberReset="reset"
+    ChapterNumber="1"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same">
+    <TocEntry
+      Title="Cover Page"
+      Link="/Content/Evacuee Tracking/Cover Page.htm"
+      conditions="Default.PrintOnly"
+      StartSection="false" />
+    <TocEntry
+      Title="HC Standard® Administrator Manual"
+      Link="/Content/Evacuee Tracking/Acknowledgements.htm"
+      conditions="Default.PrintOnly"
+      StartSection="false" />
+    <TocEntry
+      Title="TOC"
+      Link="/Content/Client TOC.htm"
+      BreakType="chapter"
+      StartSection="false"
+      PageLayout="/Content/Resources/PageLayouts/Default.flpgl"
+      conditions="Default.PrintOnly"
+      PageNumberReset="continue"></TocEntry>
+    <TocEntry
+      Title="blank page"
+      Link="/Content/blank page.htm"
+      conditions="Default.PrintOnly"
+      StartSection="false" />
+    <TocEntry
+      Title="Evacuee Tracking Overview"
+      Link="/Content/Evacuee Tracking/PTS Overview.htm"
+      StartChapter="true"
+      PageNumber="1"
+      PageNumberReset="reset"
+      StartSection="false"
+      PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
+      ChapterNumberReset="reset"
+      ChapterNumber="1"
+      SectionNumberReset="continue"
+      VolumeNumberReset="same" />
+    <TocEntry
+      Title="Getting Started"
+      Link="/Content/Evacuee Tracking/iOS/Using ETM.htm"
+      StartChapter="true"
+      PageNumber="1"
+      PageNumberReset="continue"
+      StartSection="false"
+      PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl" />
+    <TocEntry
+      Title="Working with Registration"
+      StartChapter="true"
+      PageNumber="1"
+      PageNumberReset="continue"
+      StartSection="false"
+      PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
+      Link="/Content/Evacuee Tracking/iOS/Working with Registration.htm" />
+    <TocEntry
+      Title="Working with Check In/Out"
+      Link="/Content/Evacuee Tracking/iOS/Working with CheckInOut.htm"
+      BreakType="chapter"
+      PageType="title"
+      StartSection="false"
+      PageNumberReset="continue"
+      PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl" />
+    <TocEntry
+      Title="Working with Groups of Patients"
+      VolumeNumberReset="continue"
+      SectionNumberReset="continue"
+      ChapterNumberReset="continue"
+      BreakType="chapter"
+      StartSection="false"
+      PageNumberReset="continue"
+      ComputeToc="false"
+      ReplaceMergeNode="false"
+      PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
+      Link="/Content/Evacuee Tracking/iOS/Working with Groups.htm" />
+    <TocEntry
+      Title="Application Settings"
+      Link="/Content/PTS/iOS/Settings.htm"
+      BreakType="chapter"
+      StartSection="false"
+      PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="HC PTS For iOS Training Videos"
+      Link="/Content/Videos/iOS PTS/Videos.htm"
+      conditions="Default.WebOnly" />
+  </TocEntry>
+</CatapultToc>

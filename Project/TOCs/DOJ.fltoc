@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="HC Patient Tracking for iOS"
+    conditions="Default.iOS"
+    ReplaceMergeNode="false"
+    BreakType="none"
+    PageNumberReset="reset"
+    PageNumber="83"
+    StartSection="false"
+    ChapterNumberReset="reset"
+    ChapterNumber="1"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same">
+    <TocEntry
+      Title="Cover Page"
+      Link="/Content/Responder Tracking/iOS/Cover Page.htm"
+      conditions="Default.PrintOnly"
+      StartSection="false" />
+    <TocEntry
+      Title="HC Standard® Administrator Manual"
+      Link="/Content/Responder Tracking/iOS/Acknowledgements.htm"
+      conditions="Default.PrintOnly"
+      StartSection="false" />
+    <TocEntry
+      Title="TOC"
+      Link="/Content/Client TOC.htm"
+      BreakType="chapter"
+      StartSection="false"
+      PageLayout="/Content/Resources/PageLayouts/Default.flpgl"
+      conditions="Default.PrintOnly"
+      PageNumberReset="continue"></TocEntry>
+    <TocEntry
+      Title="Responder Tracking Overview"
+      Link="/Content/Responder Tracking/iOS/RT Overview.htm"
+      StartChapter="true"
+      PageNumber="1"
+      PageNumberReset="reset"
+      StartSection="false"
+      PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
+      ChapterNumberReset="reset"
+      ChapterNumber="1"
+      SectionNumberReset="continue"
+      VolumeNumberReset="same" />
+    <TocEntry
+      Title="Getting Started"
+      Link="/Content/Responder Tracking/iOS/Using PTS.htm"
+      StartChapter="true"
+      PageNumber="1"
+      PageNumberReset="continue"
+      StartSection="false"
+      PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl" />
+    <TocEntry
+      Title="Working with Responders"
+      Link="/Content/Responder Tracking/iOS/Working with responders.htm"
+      StartChapter="true"
+      PageNumber="1"
+      PageNumberReset="continue"
+      StartSection="false"
+      PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"></TocEntry>
+    <TocEntry
+      Title="Working with Groups/Teams"
+      Link="/Content/Responder Tracking/iOS/Working with Groups.htm"
+      StartChapter="true"
+      PageNumber="1"
+      PageNumberReset="continue"
+      StartSection="false"
+      PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl" />
+    <TocEntry
+      Title="Application Settings"
+      Link="/Content/Responder Tracking/iOS/Settings.htm"
+      BreakType="chapter"
+      StartSection="false"
+      PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="HC PTS For iOS Training Videos"
+      Link="/Content/Videos/iOS PTS/Videos.htm"
+      conditions="Default.WebOnly" />
+  </TocEntry>
+</CatapultToc>

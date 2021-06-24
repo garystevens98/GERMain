@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="HC HAVBED"
+    conditions="Default.HAVBED"
+    ChapterNumberReset="reset"
+    ChapterNumber="1"
+    StartSection="false"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same">
+    <TocEntry
+      Title="Cover Page"
+      Link="/Content/HAVBED/IllinoisCover.htm"
+      conditions="Default.PrintOnly"
+      StartSection="false"
+      PageType="title"
+      PageNumber="1"
+      PageNumberReset="continue"
+      VolumeNumberReset="same"
+      SectionNumberReset="continue"
+      ChapterNumberReset="continue"
+      ReplaceMergeNode="false"
+      PageLayout="/Content/Resources/PageLayouts/Default.flpgl"
+      BreakType="chapter" />
+    <TocEntry
+      Title="Legal &amp; License Information"
+      Link="/Content/HAVBED/Legal &amp; License Information.htm"
+      VolumeNumberReset="same"
+      SectionNumberReset="continue"
+      ChapterNumberReset="continue"
+      conditions="Default.PrintOnly"
+      BreakType="pageLayout"
+      PageLayout="/Content/Resources/PageLayouts/Default.flpgl"
+      StartSection="false"></TocEntry>
+    <TocEntry
+      Title="Table of Contents"
+      Link="/Content/Client TOC.htm"
+      ReplaceMergeNode="false"
+      ComputeToc="false"
+      PageType="normal"
+      PageNumber="1"
+      PageNumberReset="continue"
+      StartSection="false"
+      VolumeNumberReset="same"
+      SectionNumberReset="continue"
+      ChapterNumberReset="continue"
+      conditions="Default.PrintOnly"
+      BreakType="pageLayout"
+      PageLayout="/Content/Resources/PageLayouts/Default.flpgl"></TocEntry>
+    <TocEntry
+      Title="blank page"
+      Link="/Content/blank page.htm"
+      conditions="Default.PrintOnly"
+      StartSection="false"
+      BreakType="pageLayout"
+      PageLayout="/Content/Resources/PageLayouts/Default.flpgl" />
+    <TocEntry
+      Title="Getting Started with HC Standard® HAvBED"
+      Link="/Content/HAVBED/Get Started.htm"
+      ChapterNumber="1"
+      ChapterNumberReset="reset"
+      BreakType="chapter"
+      PageType="title"
+      StartSection="false"
+      PageNumberReset="reset"
+      PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
+      SectionNumberReset="continue"
+      VolumeNumberReset="same"
+      PageNumber="1">
+      <TocEntry
+        Title="Logging In To HC Standard®"
+        Link="/Content/HAVBED/Log In.htm" />
+      <TocEntry
+        Title="Main Screen"
+        Link="/Content/HAVBED/Main Screen.htm"
+        BreakType="chapter"
+        StartSection="false"
+        PageNumberReset="continue"
+        PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
+        SectionNumberReset="continue"
+        VolumeNumberReset="same"
+        ChapterNumberReset="continue" />
+    </TocEntry>
+  </TocEntry>
+</CatapultToc>

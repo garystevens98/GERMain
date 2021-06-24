@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="New Target"
+  Type="PDF"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  ConditionTagExpression="include[Default.ALL or Default.HC or Default.IC or Default.PrintOnly] "
+  conditions="Default.HC,Default.PrintOnly"
+  Medium="print"
+  MasterStylesheet="/Content/Resources/Stylesheets/MAIN Styles.css"
+  MasterToc="/Project/TOCs/Master.fltoc">
+  <PDF
+    DownsampleImages="false"
+    ImageCompression="Automatic"
+    InitialMagnification="100" />
+  <Destinations>
+    <Destination
+      Link="/Project/Destinations/websitepdfs.fldes" />
+  </Destinations>
+</CatapultTarget>
