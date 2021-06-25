@@ -14,4 +14,8 @@
     Name="HC Version"
     Comment="HC version for doc"
     Definition="Some text">4.5</Variable>
+  <Variable
+    Name="Address 001"
+    Comment=""
+    EvaluatedDefinition="&lt;Enter new address in variable&gt;">&lt;Enter new address in variable&gt;</Variable>
 </CatapultVariableSet>
