@@ -1,0 +1,22 @@
+# -----------------------------
+# HC Help
+# by Global Emergency Response
+#    a division of CRI
+# -----------------------------
+
+trigger:
+- develop
+
+pool:
+  name: Hosted VS2017
+
+steps:
+- task: S3Upload@1
+  inputs:
+    awsCredentials: 'geraws-azure'
+    regionName: 'us-east-1'
+    bucketName: 'ger-help'
+    sourceFolder: '$(System.DefaultWorkingDirectory)'
+    globExpressions: '**'
+    targetFolder: 'develop'
+    createBucket: true
