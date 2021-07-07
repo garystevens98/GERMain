@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Shelter Tracking"
+    ChapterNumberReset="reset"
+    ChapterNumber="1"
+    StartSection="false"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same">
+    <TocEntry
+      Title="Cover Page"
+      Link="/Content/Shelter Availability/Shelter Cover.htm"
+      StartSection="false"
+      PageNumber="1"
+      PageNumberReset="continue"
+      VolumeNumberReset="same"
+      SectionNumberReset="continue"
+      ChapterNumberReset="continue"
+      ReplaceMergeNode="false"
+      PageLayout="/Content/Resources/PageLayouts/Default.flpgl"
+      BreakType="chapter" />
+    <TocEntry
+      Title="Legal &amp; License Information"
+      Link="/Content/Shelter Availability/Legal &amp; License Information.htm"
+      VolumeNumberReset="same"
+      SectionNumberReset="continue"
+      ChapterNumberReset="continue"
+      BreakType="pageLayout"
+      PageLayout="/Content/Resources/PageLayouts/Default.flpgl"
+      StartSection="false"></TocEntry>
+    <TocEntry
+      Title="Table of Contents"
+      Link="/Content/Client TOC.htm"
+      ReplaceMergeNode="false"
+      ComputeToc="false"
+      PageType="normal"
+      PageNumber="1"
+      PageNumberReset="continue"
+      StartSection="false"
+      VolumeNumberReset="same"
+      SectionNumberReset="continue"
+      ChapterNumberReset="continue"
+      BreakType="chapter"></TocEntry>
+    <TocEntry
+      Title="blank page"
+      Link="/Content/blank page.htm"
+      StartSection="false" />
+    <TocEntry
+      Title="Getting Started with HC Standard® Shelter Tracking"
+      ChapterNumber="1"
+      ChapterNumberReset="reset"
+      BreakType="chapter"
+      PageType="title"
+      StartSection="false"
+      PageNumberReset="reset"
+      PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
+      SectionNumberReset="continue"
+      VolumeNumberReset="same"
+      PageNumber="1">
+      <TocEntry
+        Title="Logging In To HC Standard®"
+        Link="/Content/Shelter Availability/Log In.htm"
+        BreakType="chapter"
+        PageNumberReset="reset"
+        StartSection="false"
+        PageNumber="1"
+        SectionNumberReset="continue"
+        VolumeNumberReset="same"
+        ChapterNumberReset="continue" />
+      <TocEntry
+        Title="Main Screen"
+        Link="/Content/Shelter Availability/Main Screen.htm"
+        BreakType="chapter"
+        StartSection="false"
+        PageNumberReset="continue"
+        SectionNumberReset="continue"
+        VolumeNumberReset="same"
+        ChapterNumberReset="continue"
+        PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl" />
+      <TocEntry
+        Title="Booking and Reservations"
+        Link="/Content/Shelter Availability/Booking and Reservations.htm"
+        ChapterNumberReset="continue"
+        SectionNumberReset="continue"
+        VolumeNumberReset="same"
+        BreakType="chapter"
+        StartSection="false"
+        PageNumberReset="continue" />
+      <TocEntry
+        Title="Shelter Tracking Mobile"
+        Link="/Content/Shelter Availability/CM Mobile.htm"
+        SectionNumberReset="continue"
+        VolumeNumberReset="same"
+        ChapterNumberReset="continue"
+        BreakType="chapter"
+        StartSection="false"
+        PageNumberReset="continue" />
+    </TocEntry>
+  </TocEntry>
+</CatapultToc>
