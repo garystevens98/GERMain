@@ -21,8 +21,8 @@ steps:
       $targetfolder = "$(Build.StagingDirectory)" + "/"
 
       function CopyFiles{
-        param( [string]$source)
-        $target = $targetfolder + $source
+        param( [string]$source )
+        $target = "$targetfolder" + "$source"
         New-Item -Force $target
         copy-item $source $target -Force
       }
