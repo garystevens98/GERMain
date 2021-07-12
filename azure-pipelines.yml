@@ -18,7 +18,7 @@ steps:
   inputs:
     targetType: 'inline'
     script:
-      $targetfolder = "$(Build.StagingDirectory" + "/"
+      $targetfolder = "$(Build.StagingDirectory)" + "/"
 
       function CopyFiles{
         param( [string]$source)
@@ -26,7 +26,7 @@ steps:
         New-Item -Force $target
         copy-item $source $target -Force
       }
-      
+
       $changes = git diff --name-only --relative --diff-filter AMR HEAD^ HEAD .
       
       if($changes -is [string]){CopyFiles $changes}
