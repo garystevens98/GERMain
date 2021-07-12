@@ -17,12 +17,12 @@ steps:
   displayName: 'Copy Changed Files'
   inputs:
     targetType: 'inline'
-    script:
+    script:  |
       $targetfolder = "$(Build.StagingDirectory)" + "/"
 
       function CopyFiles{
         param( [string]$source )
-        $target = "$(targetfolder)" + "$(source)"
+        $target = $targetfolder + $source
         New-Item -Force $target
         copy-item $source $target -Force
       }
