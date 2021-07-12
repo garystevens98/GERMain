@@ -12,12 +12,29 @@ pool:
   name: Hosted VS2017
 
 steps:
+
+- task: PowerShell@2
+  displayName: 'Copy Changed Files'
+  inputs:
+    targetType: 'inline'
+    script:
+      $changes = git diff --name-only --relative --diff-filter AMR HEAD^ HEAD .
+      
+      if($changes -is [string]){CopyFiles $changes}
+      else
+      {
+           if($changes -is [array])
+           {
+                 foreach($change in $changes){CopyFiles $change}
+           }
+      }
+
 - task: S3Upload@1
   inputs:
     awsCredentials: 'geraws-azure'
     regionName: 'us-east-1'
     bucketName: 'ger-help'
-    sourceFolder: '$(System.DefaultWorkingDirectory)'
+    sourceFolder: '$(System.ArtifactStagingDirectory)'
     globExpressions: '**'
     targetFolder: '$(Build.SourceBranchName)'
     createBucket: true
