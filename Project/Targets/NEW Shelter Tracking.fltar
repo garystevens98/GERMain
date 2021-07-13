@@ -8,7 +8,7 @@
   GlossaryTermConversion="marked"
   MasterToc="/Project/TOCs/New Shelter Tracking.fltoc"
   MasterStylesheet="/Content/Resources/Stylesheets/MAIN Styles.css"
-  ConditionTagExpression="exclude[Default.combined]">
+  ConditionTagExpression="exclude[Default.combined or Default.HC]">
   <PrintedOutput
     CollapseMargins="true"
     GenerateTOCProxy="true"
