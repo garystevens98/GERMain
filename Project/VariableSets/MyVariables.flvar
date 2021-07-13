@@ -23,4 +23,12 @@
     Name="Copyright"
     Comment="Copyright"
     EvaluatedDefinition="Copyright 2005-2021, Global Emergency Response, Inc.  All Rights Reserved.">Copyright 2005-2021, Global Emergency Response, Inc.  All Rights Reserved.</Variable>
+  <Variable
+    Name="GER Support Phone Number"
+    Comment=""
+    EvaluatedDefinition="1.866.242.4035">1.866.242.4035</Variable>
+  <Variable
+    Name="GER Support Email"
+    Comment=""
+    EvaluatedDefinition="support@ger911.com">support@ger911.com</Variable>
 </CatapultVariableSet>
