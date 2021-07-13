@@ -1452,3 +1452,15 @@ table.tspacing
 	width: 100%;
 }
 
+p.Arial9pts
+{
+	font-family: Arial;
+	font-size: 9pt;
+}
+
+p.Arial16pts
+{
+	font-family: Arial;
+	font-size: 16pt;
+}
+

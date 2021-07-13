@@ -13,9 +13,14 @@
   <Variable
     Name="HC Version"
     Comment="HC version for doc"
-    Definition="Some text">4.5</Variable>
+    Definition="Some text"
+    EvaluatedDefinition="Version 4.6">Version 4.6</Variable>
   <Variable
     Name="Address 001"
     Comment=""
     EvaluatedDefinition="&lt;Enter new address in variable&gt;">&lt;Enter new address in variable&gt;</Variable>
+  <Variable
+    Name="Copyright"
+    Comment="Copyright"
+    EvaluatedDefinition="Copyright 2005-2021, Global Emergency Response, Inc.  All Rights Reserved.">Copyright 2005-2021, Global Emergency Response, Inc.  All Rights Reserved.</Variable>
 </CatapultVariableSet>

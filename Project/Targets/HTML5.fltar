@@ -25,7 +25,7 @@
   </Destinations>
   <Variables>
     <Variable
-      Name="MyVariables/HC Version">4.5</Variable>
+      Name="MyVariables/HC Version">Version 4.6</Variable>
   </Variables>
   <MetaTags
     Enabled="false" />
