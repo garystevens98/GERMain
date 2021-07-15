@@ -31,4 +31,8 @@
     Name="GER Support Email"
     Comment=""
     EvaluatedDefinition="support@ger911.com">support@ger911.com</Variable>
+  <Variable
+    Name="HC Standard S.T."
+    Comment=""
+    EvaluatedDefinition="HC Standard® Shelter Tracking">HC Standard® Shelter Tracking</Variable>
 </CatapultVariableSet>

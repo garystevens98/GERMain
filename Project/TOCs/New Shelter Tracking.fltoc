@@ -9,7 +9,7 @@
     SectionNumberReset="continue"
     VolumeNumberReset="same">
     <TocEntry
-      Title="Cover Page"
+      Title="Shelter Cover"
       Link="/Content/Shelter Availability/Shelter Cover.htm"
       StartSection="false"
       PageNumber="1"
@@ -88,14 +88,8 @@
         StartSection="false"
         PageNumberReset="continue" />
       <TocEntry
-        Title="Shelter Tracking Mobile"
-        Link="/Content/Shelter Availability/CM Mobile.htm"
-        SectionNumberReset="continue"
-        VolumeNumberReset="same"
-        ChapterNumberReset="continue"
-        BreakType="chapter"
-        StartSection="false"
-        PageNumberReset="continue" />
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Shelter Availability/Shelter Tracking Mobile.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     </TocEntry>
   </TocEntry>
 </CatapultToc>
