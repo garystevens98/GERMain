@@ -91,4 +91,12 @@
     BackgroundColor="#7fffd4"
     Name="Patient Placement"
     Comment="" />
+  <ConditionTag
+    BackgroundColor="#ff0004"
+    Name="NEW Print Only"
+    Comment="" />
+  <ConditionTag
+    Name="NEW Web Only"
+    Comment=""
+    BackgroundColor="#1000ff" />
 </CatapultConditionTagSet>

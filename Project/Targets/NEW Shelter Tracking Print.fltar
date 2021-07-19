@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="New Target"
+  Type="PDF"
+  Destinations=""
+  ShowMadCapBacklink="true"
+  GlossaryTermConversion="marked"
+  MasterToc="/Project/TOCs/New Shelter Tracking.fltoc"
+  MasterStylesheet="/Content/Resources/Stylesheets/MAIN Styles.css"
+  ConditionTagExpression="include[Default.ALL or Default.Generic or &quot;Default.NEW Print Only&quot; or Default.PrintOnly or &quot;Default.Shelter Tracking&quot;], exclude[Default.Admin or Default.Analytics or Default.Android or Default.CHATS or Default.combined or Default.CPM or Default.EWRAP or Default.HAVBED or Default.HC or Default.IC or Default.iOS or Default.MIEMSS2 or &quot;Default.NEW Web Only&quot; or &quot;Default.Patient Placement&quot; or &quot;Default.Perk Tracker&quot; or Default.SubAdmin or Default.WebOnly or Default.Windows8 or Default.WM]">
+  <PrintedOutput
+    CollapseMargins="false"
+    GenerateTOCProxy="false"
+    GenerateIndexProxy="false"
+    GenerateGlossaryProxy="false"
+    OutputFormat="docx" />
+  <PDF
+    Tagged="false"
+    TitleBar="FileName"
+    ShowUsedBookmarks="false" />
+</CatapultTarget>

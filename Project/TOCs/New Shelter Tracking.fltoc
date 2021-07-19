@@ -9,7 +9,7 @@
     SectionNumberReset="continue"
     VolumeNumberReset="same">
     <TocEntry
-      Title="Shelter Cover"
+      Title="[%=System.LinkedFile%]"
       Link="/Content/Shelter Availability/Shelter Cover.htm"
       StartSection="false"
       PageNumber="1"
@@ -21,7 +21,7 @@
       PageLayout="/Content/Resources/PageLayouts/Default.flpgl"
       BreakType="chapter" />
     <TocEntry
-      Title="Legal &amp; License Information"
+      Title="[%=System.LinkedFile%]"
       Link="/Content/Shelter Availability/Legal &amp; License Information.htm"
       VolumeNumberReset="same"
       SectionNumberReset="continue"
@@ -30,7 +30,7 @@
       PageLayout="/Content/Resources/PageLayouts/Default.flpgl"
       StartSection="false"></TocEntry>
     <TocEntry
-      Title="Table of Contents"
+      Title="[%=System.LinkedFile%]"
       Link="/Content/Client TOC.htm"
       ReplaceMergeNode="false"
       ComputeToc="false"
@@ -43,8 +43,8 @@
       ChapterNumberReset="continue"
       BreakType="chapter"></TocEntry>
     <TocEntry
-      Title="blank page"
-      Link="/Content/blank page.htm"
+      Title="[%=System.LinkedFile%]"
+      Link="/Content/Blank Page.htm"
       StartSection="false" />
     <TocEntry
       Title="Getting Started with HC Standard® Shelter Tracking"
@@ -59,7 +59,7 @@
       VolumeNumberReset="same"
       PageNumber="1">
       <TocEntry
-        Title="Logging In To HC Standard®"
+        Title="[%=System.LinkedFile%]"
         Link="/Content/Shelter Availability/Log In.htm"
         BreakType="chapter"
         PageNumberReset="reset"
@@ -69,7 +69,7 @@
         VolumeNumberReset="same"
         ChapterNumberReset="continue" />
       <TocEntry
-        Title="Main Screen"
+        Title="[%=System.LinkedFile%]"
         Link="/Content/Shelter Availability/Main Screen.htm"
         BreakType="chapter"
         StartSection="false"
@@ -79,7 +79,7 @@
         ChapterNumberReset="continue"
         PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl" />
       <TocEntry
-        Title="Booking and Reservations"
+        Title="[%=System.LinkedFile%]"
         Link="/Content/Shelter Availability/Booking and Reservations.htm"
         ChapterNumberReset="continue"
         SectionNumberReset="continue"
@@ -89,7 +89,11 @@
         PageNumberReset="continue" />
       <TocEntry
         Title="[%=System.LinkedTitle%]"
-        Link="/Content/Shelter Availability/Shelter Tracking Mobile.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        Link="/Content/Shelter Availability/Shelter Tracking Mobile.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+        BreakType="chapter"
+        StartSection="false"
+        PageNumberReset="continue"
+        ReplaceMergeNode="false" />
     </TocEntry>
   </TocEntry>
 </CatapultToc>
