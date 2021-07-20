@@ -1469,3 +1469,9 @@ MadCap|variable.bold
 	font-weight: bold;
 }
 
+ol.ol
+{
+	margin-top: 0px;
+	margin-bottom: 6pt;
+}
+

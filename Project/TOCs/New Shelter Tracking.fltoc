@@ -93,7 +93,11 @@
         BreakType="chapter"
         StartSection="false"
         PageNumberReset="continue"
-        ReplaceMergeNode="false" />
+        ReplaceMergeNode="false"
+        SectionNumberReset="continue"
+        VolumeNumberReset="same"
+        ChapterNumberReset="continue"
+        ComputeToc="false" />
     </TocEntry>
   </TocEntry>
 </CatapultToc>
