@@ -63,7 +63,9 @@
                                         <xhtml:p>&#160;</xhtml:p>
                                     </xhtml:td>
                                     <xhtml:td xhtml:style="text-align: right;font-size: 9pt;"><MadCap:variable xhtml:name="Heading.Level1" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-                                        <xhtml:p xhtml:class="nobefore" xhtml:style="text-align: right;font-style: italic;font-size: 9pt;"><MadCap:variable xhtml:name="Heading.Level2" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+                                        <xhtml:p xhtml:class="nobeforeOpenSansItalic9"><MadCap:variable xhtml:name="Heading.Level2" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+                                        </xhtml:p>
+                                        <xhtml:p xhtml:class="nobeforeOpenSansItalic9"><MadCap:variable xhtml:name="Heading.Level3" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
                                         </xhtml:p>
                                     </xhtml:td>
                                 </xhtml:tr>
