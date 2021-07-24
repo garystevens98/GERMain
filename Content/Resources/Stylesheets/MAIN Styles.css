@@ -434,6 +434,11 @@ td.border
 	font-family: Arial;
 }
 
+sup
+{
+	vertical-align: text-top;
+}
+
 @media non-print
 {
 	MadCap|xref
@@ -1523,6 +1528,7 @@ h1.Underlined
 h2.PageBreak
 {
 	border-bottom: solid 1px #5470d6;
+	margin-top: 0;
 }
 
 h1.NoChapter
