@@ -47,6 +47,7 @@ h3
 	font-family: Arial;
 	font-size: 12pt;
 	text-decoration: none;
+	padding-top: 15px;
 }
 
 h4
@@ -60,6 +61,7 @@ h5
 {
 	font-weight: bold;
 	font-size: 10.0pt;
+	mc-auto-number-format: 'inherit';
 }
 
 h6
@@ -412,6 +414,7 @@ h2.NoBreak
 	border-bottom: solid 1px #5470d6;
 	border-bottom-style: solid;
 	border-left-style: none;
+	padding-top: 15px;
 }
 
 p.pagebreakafter
@@ -1515,5 +1518,17 @@ h3.PageBreakAfter
 h1.Underlined
 {
 	border-bottom: solid 3px #5470d6;
+}
+
+h2.PageBreak
+{
+	border-bottom: solid 1px #5470d6;
+}
+
+h1.NoChapter
+{
+	mc-auto-number-format: '{default}';
+	mc-auto-number-position: none;
+	margin-top: 0;
 }
 
