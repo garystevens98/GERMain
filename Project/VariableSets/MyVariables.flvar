@@ -16,10 +16,6 @@
     Definition="Some text"
     EvaluatedDefinition="Version 4.6">Version 4.6</Variable>
   <Variable
-    Name="Address 001"
-    Comment=""
-    EvaluatedDefinition="&lt;Enter new address in variable&gt;">&lt;Enter new address in variable&gt;</Variable>
-  <Variable
     Name="Copyright"
     Comment="Copyright"
     EvaluatedDefinition="Copyright 2005-2021, Global Emergency Response, Inc.  All Rights Reserved.">Copyright 2005-2021, Global Emergency Response, Inc.  All Rights Reserved.</Variable>
@@ -35,4 +31,12 @@
     Name="HC Standard S.T."
     Comment=""
     EvaluatedDefinition="HC Standard® Shelter Tracking">HC Standard® Shelter Tracking</Variable>
+  <Variable
+    Name="GER Website"
+    Comment=""
+    EvaluatedDefinition="ger.com">ger.com</Variable>
+  <Variable
+    Name="GER Address"
+    Comment=""
+    EvaluatedDefinition="100 Grace Hopper Lane, Suite 3739, Augusta, GA 30901">100 Grace Hopper Lane, Suite 3739, Augusta, GA 30901</Variable>
 </CatapultVariableSet>
