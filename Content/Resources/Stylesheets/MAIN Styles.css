@@ -157,8 +157,8 @@ p.Figuretest
 	text-align: left;
 	margin-bottom: 0.750em;
 	margin-top: 0em;
-	padding-bottom: 4px;
-	padding-top: -4px;
+	padding-bottom: 6px;
+	padding-top: -6px;
 }
 
 blockquote.NoteBlockquote
@@ -413,10 +413,10 @@ h2.NoBreak
 	page-break-before: avoid;
 	font-variant: normal;
 	color: #000000;
-	border-bottom: solid 1px #5470d6;
 	border-bottom-style: solid;
 	border-left-style: none;
 	padding-top: 15px;
+	border-bottom: solid 1px #000000;
 }
 
 p.pagebreakafter
@@ -818,6 +818,7 @@ img.newwindows
 	border-top-style: none;
 	border-bottom-style: none;
 	max-height: auto;
+	padding-top: 5px;
 }
 
 body.bodylanding
@@ -1384,6 +1385,7 @@ img.imagesizeWindows8
 	border-bottom-style: none;
 	max-height: auto;
 	max-width: 50%;
+	padding-top: 5px;
 }
 
 img.imagesizeWM
@@ -1418,6 +1420,7 @@ img.newwindows50
 	border-bottom-style: none;
 	max-height: auto;
 	max-width: 50%;
+	padding-top: 5px;
 }
 
 img.newwindowsdialog
@@ -1519,18 +1522,18 @@ h3.PageBreakAfter
 	mc-heading-level: 3;
 	font-size: 12pt;
 	font-family: Arial;
-	border-bottom: solid 1px #5470d6;
+	border-bottom: solid 1px #000000;
 }
 
 h1.Underlined
 {
-	border-bottom: solid 3px #5470d6;
+	border-bottom: solid 3px #000000;
 }
 
 h2.PageBreak
 {
-	border-bottom: solid 1px #5470d6;
 	margin-top: 0;
+	border-bottom: solid 1px #000000;
 }
 
 h1.NoChapter
