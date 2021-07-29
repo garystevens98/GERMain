@@ -32,11 +32,15 @@
     Comment=""
     EvaluatedDefinition="HC Standard® Shelter Tracking">HC Standard® Shelter Tracking</Variable>
   <Variable
-    Name="GER Website"
+    Name="GER Website (Print)"
     Comment=""
-    EvaluatedDefinition="ger.com">ger.com</Variable>
+    EvaluatedDefinition="ger911.com">ger911.com</Variable>
   <Variable
     Name="GER Address"
     Comment=""
     EvaluatedDefinition="100 Grace Hopper Lane, Suite 3739, Augusta, GA 30901">100 Grace Hopper Lane, Suite 3739, Augusta, GA 30901</Variable>
+  <Variable
+    Name="GER Website (HTML5)"
+    Comment=""
+    EvaluatedDefinition="https://www.ger911.com/">https://www.ger911.com/</Variable>
 </CatapultVariableSet>
