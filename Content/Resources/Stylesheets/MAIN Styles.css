@@ -158,8 +158,7 @@ p.Figuretest
 	margin-top: 0em;
 	padding-bottom: 6px;
 	padding-top: -6px;
-	font-weight: bold;
-	mc-auto-number-format: 'CF: Figure {chapnum}-{n+}: ';
+	mc-auto-number-format: 'CF: {b}Figure {chapnum}-{n+}: {/b} ';
 }
 
 blockquote.NoteBlockquote
@@ -1246,7 +1245,7 @@ td.callout
 
 MadCap|xref.figures
 {
-	mc-format: '{paranumonly}';
+	mc-format: '{b}{paranumonly}{/b}';
 }
 
 MadCap|xref.ListOfPageNumber
