@@ -1245,7 +1245,7 @@ td.callout
 
 MadCap|xref.figures
 {
-	mc-format: '{b}{paranumonly}{/b}';
+	mc-format: '{paranumonly}';
 }
 
 MadCap|xref.ListOfPageNumber
