@@ -1543,3 +1543,19 @@ h1.NoChapter
 	margin-top: 0;
 }
 
+p.Title01-sup-R
+{
+	mc-hyphenate: never;
+	margin-top: 0.751em;
+	margin-bottom: 0.750em;
+	margin: 0.75em;
+	margin-left: 0em;
+	margin-right: 0em;
+	font-family: Arial;
+	font-weight: bold;
+	font-size: 20pt;
+	color: #000000;
+	text-align: justify;
+	line-height: normal;
+}
+
