@@ -99,4 +99,8 @@
     Name="NEW Web Only"
     Comment=""
     BackgroundColor="#1000ff" />
+  <ConditionTag
+    BackgroundColor="#00ff00"
+    Name="NEW HC User Mgmnt"
+    Comment="" />
 </CatapultConditionTagSet>
