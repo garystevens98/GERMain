@@ -6,7 +6,8 @@
   Destinations=""
   ShowMadCapBacklink="true"
   GlossaryTermConversion="marked"
-  MasterToc="/Project/TOCs/HC Standard User Management.fltoc">
+  MasterToc="/Project/TOCs/HC Standard User Management.fltoc"
+  ConditionTagExpression="include[&quot;Default.NEW HC User Mgmnt&quot;], exclude[Default.Admin or Default.ALL or Default.Analytics or Default.Android or Default.CHATS or Default.combined or Default.CPM or Default.EWRAP or Default.Generic or Default.HAVBED or Default.HC or Default.IC or Default.iOS or Default.MIEMSS2 or &quot;Default.NEW Print Only&quot; or &quot;Default.NEW Web Only&quot; or &quot;Default.Patient Placement&quot; or &quot;Default.Perk Tracker&quot; or Default.PrintOnly or &quot;Default.Shelter Tracking&quot; or Default.SubAdmin or Default.WebOnly or Default.Windows8 or Default.WM]">
   <PrintedOutput
     CollapseMargins="true"
     GenerateTOCProxy="true"
