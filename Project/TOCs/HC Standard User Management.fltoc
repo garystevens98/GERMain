@@ -4,7 +4,7 @@
   <TocEntry
     Title="-HC User Mngmnt-"
     StartSection="false"
-    BreakType="chapter"
+    BreakType="none"
     PageNumberReset="continue">
     <TocEntry
       Title="[%=System.LinkedTitle%]"
@@ -16,12 +16,17 @@
       ComputeToc="false"
       ReplaceMergeNode="false" />
     <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/NEW Client TOC.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      StartSection="false" />
+    <TocEntry
       Title="[%=System.LinkedFile%]"
       Link="/Content/HC User Mngmnt/User Management.htm"
       MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
       BreakType="chapter"
       StartSection="false"
-      PageNumberReset="continue" />
+      PageNumberReset="reset"
+      PageNumber="1" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
       Link="/Content/HC User Mngmnt/New Incident Creation.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
