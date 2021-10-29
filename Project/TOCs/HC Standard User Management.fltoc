@@ -7,7 +7,7 @@
     StartSection="false">
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/Cover Page.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      Link="/Content/NEW Cover Page.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     <TocEntry
       Title="[%=System.LinkedFile%]"
       Link="/Content/HC User Mngmnt/User Management.htm"
