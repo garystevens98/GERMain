@@ -3,7 +3,8 @@
   Version="1">
   <TocEntry
     Title="HC User Mngmnt"
-    Link="/Content/HC User Mngmnt/User Management.htm">
+    Link="/Content/HC User Mngmnt/User Management.htm"
+    StartSection="false">
     <TocEntry
       Title="[%=System.LinkedTitle%]"
       Link="/Content/Cover Page.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
