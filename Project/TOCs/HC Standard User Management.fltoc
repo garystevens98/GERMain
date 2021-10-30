@@ -2,12 +2,10 @@
 <CatapultToc
   Version="1">
   <TocEntry
-    Title="-HC User Mngmnt-"
-    StartSection="false"
-    BreakType="none"
-    PageNumberReset="continue"
+    Title="Intro"
     ChapterNumberReset="reset"
     ChapterNumber="1"
+    StartSection="false"
     SectionNumberReset="continue"
     VolumeNumberReset="same">
     <TocEntry
@@ -21,11 +19,26 @@
       ReplaceMergeNode="false"
       BreakType="none"
       PageNumberReset="continue"
-      PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl" />
+      PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
+      ChapterNumber="" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
       Link="/Content/NEW Client TOC.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-      StartSection="false" />
+      StartSection="false"
+      ChapterNumberReset="continue"
+      ChapterNumber=""
+      SectionNumberReset="continue"
+      VolumeNumberReset="same" />
+  </TocEntry>
+  <TocEntry
+    Title="Content"
+    StartSection="false"
+    BreakType="none"
+    PageNumberReset="continue"
+    ChapterNumberReset="reset"
+    ChapterNumber="1"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same">
     <TocEntry
       Title="[%=System.LinkedFile%]"
       Link="/Content/HC User Mngmnt/User Management.htm"
@@ -34,20 +47,29 @@
       StartSection="false"
       PageNumberReset="reset"
       PageNumber="1"
-      PageLayout="/Content/Resources/PageLayouts/Default.flpgl" />
+      PageLayout="/Content/Resources/PageLayouts/Default.flpgl"
+      SectionNumberReset="continue"
+      VolumeNumberReset="same"
+      ChapterNumberReset="continue" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
       Link="/Content/HC User Mngmnt/New Incident Creation.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
       BreakType="chapter"
       StartSection="false"
       PageNumberReset="continue"
-      PageLayout="/Content/Resources/PageLayouts/Default.flpgl" />
+      PageLayout="/Content/Resources/PageLayouts/Default.flpgl"
+      SectionNumberReset="continue"
+      VolumeNumberReset="same"
+      ChapterNumberReset="continue" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
       Link="/Content/HC User Mngmnt/Viewing Incident Data.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
       BreakType="chapter"
       StartSection="false"
       PageNumberReset="continue"
-      PageLayout="/Content/Resources/PageLayouts/Default.flpgl" />
+      PageLayout="/Content/Resources/PageLayouts/Default.flpgl"
+      SectionNumberReset="continue"
+      VolumeNumberReset="same"
+      ChapterNumberReset="continue" />
   </TocEntry>
 </CatapultToc>
