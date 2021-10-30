@@ -5,7 +5,11 @@
     Title="-HC User Mngmnt-"
     StartSection="false"
     BreakType="none"
-    PageNumberReset="continue">
+    PageNumberReset="continue"
+    ChapterNumberReset="reset"
+    ChapterNumber="1"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same">
     <TocEntry
       Title="[%=System.LinkedTitle%]"
       Link="/Content/NEW Cover Page.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
@@ -14,7 +18,10 @@
       VolumeNumberReset="same"
       ChapterNumberReset="continue"
       ComputeToc="false"
-      ReplaceMergeNode="false" />
+      ReplaceMergeNode="false"
+      BreakType="none"
+      PageNumberReset="continue"
+      PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
       Link="/Content/NEW Client TOC.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
@@ -26,18 +33,21 @@
       BreakType="chapter"
       StartSection="false"
       PageNumberReset="reset"
-      PageNumber="1" />
+      PageNumber="1"
+      PageLayout="/Content/Resources/PageLayouts/Default.flpgl" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
       Link="/Content/HC User Mngmnt/New Incident Creation.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
       BreakType="chapter"
       StartSection="false"
-      PageNumberReset="continue" />
+      PageNumberReset="continue"
+      PageLayout="/Content/Resources/PageLayouts/Default.flpgl" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
       Link="/Content/HC User Mngmnt/Viewing Incident Data.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
       BreakType="chapter"
       StartSection="false"
-      PageNumberReset="continue" />
+      PageNumberReset="continue"
+      PageLayout="/Content/Resources/PageLayouts/Default.flpgl" />
   </TocEntry>
 </CatapultToc>
