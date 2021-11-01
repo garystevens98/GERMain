@@ -41,7 +41,7 @@
     VolumeNumberReset="same">
     <TocEntry
       Title="[%=System.LinkedFile%]"
-      Link="/Content/HC User Mngmnt/User Management.htm"
+      Link="/Content/HC Standard/User Management.htm"
       MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
       BreakType="chapter"
       StartSection="false"
@@ -53,7 +53,7 @@
       ChapterNumberReset="continue" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/HC User Mngmnt/New Incident Creation.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      Link="/Content/HC Standard/New Incident Creation.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
       BreakType="chapter"
       StartSection="false"
       PageNumberReset="continue"
@@ -63,7 +63,7 @@
       ChapterNumberReset="continue" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/HC User Mngmnt/Viewing Incident Data.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      Link="/Content/HC Standard/Viewing Incident Data.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
       BreakType="chapter"
       StartSection="false"
       PageNumberReset="continue"
