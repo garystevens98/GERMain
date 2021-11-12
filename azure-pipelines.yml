@@ -13,30 +13,30 @@ pool:
 
 steps:
 
-- task: PowerShell@2
-  displayName: 'Copy Changed Files'
-  inputs:
-    targetType: 'inline'
-    script:  |
-      $targetfolder = "$(Build.StagingDirectory)" + "/"
+#- task: PowerShell@2
+#  displayName: 'Copy Changed Files'
+#  inputs:
+#    targetType: 'inline'
+#    script:  |
+#      $targetfolder = "$(Build.StagingDirectory)" + "/"
 
-      function CopyFiles{
-        param( [string]$source )
-        $target = $targetfolder + $source
-        New-Item -Force $target
-        copy-item $source $target -Force
-      }
+#      function CopyFiles{
+#        param( [string]$source )
+#        $target = $targetfolder + $source
+#        New-Item -Force $target
+#        copy-item $source $target -Force
+#      }
 
-      $changes = git diff --name-only --relative --diff-filter AMR HEAD^ HEAD .
+#      $changes = git diff --name-only --relative --diff-filter AMR HEAD^ HEAD .
       
-      if($changes -is [string]){CopyFiles $changes}
-      else
-      {
-           if($changes -is [array])
-           {
-                 foreach($change in $changes){CopyFiles $change}
-           }
-      }
+#      if($changes -is [string]){CopyFiles $changes}
+#      else
+#      {
+#           if($changes -is [array])
+#           {
+#                 foreach($change in $changes){CopyFiles $change}
+#           }
+#      }
 
 - task: PublishBuildArtifacts@1
   displayName: 'Publish Artifact'
