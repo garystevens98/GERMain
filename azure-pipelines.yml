@@ -13,19 +13,19 @@ pool:
 
 steps:
 
-- task: PowerShell@2
-  displayName: 'Copy Changed Files'
-  inputs:
-    targetType: 'inline'
-    script:  |
-      $targetfolder = "$(Build.StagingDirectory)" + "/"
+#- task: PowerShell@2
+#  displayName: 'Copy Changed Files'
+#  inputs:
+#    targetType: 'inline'
+#    script:  |
+#      $targetfolder = "$(Build.StagingDirectory)" + "/"
 
-      function CopyFiles{
-        param( [string]$source )
-        $target = $targetfolder + $source
-        New-Item -Force $target
-        copy-item $source $target -Force
-      }
+#      function CopyFiles{
+#        param( [string]$source )
+#        $target = $targetfolder + $source
+#        New-Item -Force $target
+#        copy-item $source $target -Force
+#      }
 
 #      $changes = git diff --name-only --relative --diff-filter AMR HEAD^ HEAD .
       
@@ -38,12 +38,12 @@ steps:
 #           }
 #      }
 
-- task: PublishBuildArtifacts@1
-  displayName: 'Publish Artifact'
-  inputs:
-    PathtoPublish: '$(Build.ArtifactStagingDirectory)'
-    ArtifactName: 'drop'
-    publishLocation: 'Container'
+#- task: PublishBuildArtifacts@1
+#  displayName: 'Publish Artifact'
+#  inputs:
+#    PathtoPublish: '$(Build.ArtifactStagingDirectory)'
+ #   ArtifactName: 'drop'
+  #  publishLocation: 'Container'
 
 - task: S3Upload@1
   displayName: 'Deploy to S3'
@@ -51,7 +51,7 @@ steps:
     awsCredentials: 'geraws-azure'
     regionName: 'us-east-1'
     bucketName: 'ger-help'
-    sourceFolder: '$(Build.ArtifactStagingDirectory)'
+    sourceFolder: '$(System.DefaultWorkingDirectory)'
     globExpressions: '**'
     targetFolder: '$(Build.SourceBranchName)'
     createBucket: true
