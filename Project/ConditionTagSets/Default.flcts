@@ -103,4 +103,8 @@
     BackgroundColor="#00ff00"
     Name="NEW HC User Mgmnt"
     Comment="" />
+  <ConditionTag
+    BackgroundColor="#8b4513"
+    Name="NEW Retired"
+    Comment="" />
 </CatapultConditionTagSet>
