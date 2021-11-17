@@ -13,7 +13,7 @@
   PreCompileScaledImages="false"
   PartialWordSearch="true"
   MasterToc="/Project/TOCs/New Web.fltoc"
-  DefaultUrl="/Content/Index2.htm">
+  DefaultUrl="/Content/Index.htm">
   <PrintedOutput
     CollapseMargins="true"
     GenerateTOCProxy="true"
