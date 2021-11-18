@@ -5,7 +5,7 @@
   Type="WebHelp2"
   Destinations=""
   GlossaryTermConversion="marked"
-  MasterToc="/Project/TOCs/Generic HC4 HTML.fltoc"
+  MasterToc="/Project/TOCs/Web - Main Help Site.fltoc"
   ConditionTagExpression=""
   EquationsOutputType="PNG"
   MasterPage="/Content/Resources/MasterPages/OtherTopics.flmsp"

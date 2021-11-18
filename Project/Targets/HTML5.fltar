@@ -16,7 +16,7 @@
   PartialWordSearch="true"
   SearchDatabaseChunkSize="100000"
   PreMergeSearchDatabase="false"
-  MasterToc="/Project/TOCs/Generic HC4 HTML.fltoc">
+  MasterToc="/Project/TOCs/Web - Main Help Site.fltoc">
   <PrintedOutput
     CollapseMargins="true" />
   <Destinations>

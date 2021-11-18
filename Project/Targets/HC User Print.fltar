@@ -8,7 +8,7 @@
   ConditionTagExpression="include[Default.Generic or Default.HC or Default.PrintOnly] exclude[Default.Admin or Default.ALL or Default.Analytics or Default.Android or Default.CHATS or Default.combined or Default.CPM or Default.EWRAP or Default.HAVBED or Default.IC or Default.iOS or Default.MIEMSS2 or &quot;Default.Perk Tracker&quot; or Default.SubAdmin or Default.WebOnly or Default.Windows8 or Default.WM] "
   conditions="Default.HC,Default.PrintOnly"
   MasterStylesheet="/Content/Resources/Stylesheets/MAIN Styles.css"
-  MasterToc="/Project/TOCs/Generic HC4 HTML.fltoc">
+  MasterToc="/Project/TOCs/Web - Main Help Site.fltoc">
   <PDF
     DownsampleImages="false"
     ImageCompression="Automatic"

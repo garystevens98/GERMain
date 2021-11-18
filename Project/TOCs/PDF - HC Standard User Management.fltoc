@@ -23,12 +23,20 @@
       ChapterNumber="" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
+      Link="/Content/Shelter Availability/Legal &amp; License Information.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      BreakType="pageLayout"
+      StartSection="false"
+      PageLayout="/Content/Resources/PageLayouts/Default.flpgl" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
       Link="/Content/NEW Client TOC.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
       StartSection="false"
       ChapterNumberReset="continue"
       ChapterNumber=""
       SectionNumberReset="continue"
-      VolumeNumberReset="same" />
+      VolumeNumberReset="same"
+      BreakType="pageLayout"
+      PageLayout="/Content/Resources/PageLayouts/Default.flpgl" />
   </TocEntry>
   <TocEntry
     Title="Content"
