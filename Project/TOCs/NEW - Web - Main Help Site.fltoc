@@ -793,7 +793,7 @@
     Title="HC Patient Tracking for Windows 8"
     ReplaceMergeNode="false"
     StartSection="false"
-    conditions="Default.Windows8,Default.NEW Retired">
+    conditions="Default.NEW Retired">
     <TocEntry
       Title="Cover Page"
       Link="/Content/Community Paramedicine/Cover Page-cpm.htm"
@@ -861,7 +861,7 @@
   </TocEntry>
   <TocEntry
     Title="HC Patient Tracking for Windows Mobile"
-    conditions="Default.WM,Default.NEW Retired"
+    conditions="Default.NEW Retired"
     ReplaceMergeNode="false"
     StartSection="false"
     ComputeToc="false">
@@ -1125,80 +1125,6 @@
       conditions="Default.WebOnly" />
   </TocEntry>
   <TocEntry
-    Title="HC Community Paramedicine for iOS"
-    ReplaceMergeNode="false"
-    BreakType="none"
-    PageNumberReset="reset"
-    PageNumber="83"
-    StartSection="false"
-    ChapterNumberReset="reset"
-    ChapterNumber="1"
-    SectionNumberReset="continue"
-    VolumeNumberReset="same"
-    conditions="Default.NEW Retired">
-    <TocEntry
-      Title="Cover Page"
-      Link="/Content/Community Paramedicine/Cover Page-cpm.htm"
-      conditions="Default.PrintOnly"
-      StartSection="false" />
-    <TocEntry
-      Title="HC Standard® Administrator Manual"
-      Link="/Content/Community Paramedicine/Acknowledgements-cpm.htm"
-      conditions="Default.PrintOnly"
-      StartSection="false" />
-    <TocEntry
-      Title="TOC"
-      Link="/Content/Client TOC.htm"
-      BreakType="chapter"
-      StartSection="false"
-      PageLayout="/Content/Resources/PageLayouts/Default.flpgl"
-      conditions="Default.PrintOnly"
-      PageNumberReset="continue"></TocEntry>
-    <TocEntry
-      Title="blank page"
-      Link="/Content/Blank Page.htm"
-      conditions="Default.PrintOnly"
-      StartSection="false" />
-    <TocEntry
-      Title="HC Community Paramedicine Overview"
-      Link="/Content/Community Paramedicine/CPM Overview.htm"
-      StartChapter="true"
-      PageNumber="1"
-      PageNumberReset="reset"
-      StartSection="false"
-      PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
-      ChapterNumberReset="reset"
-      ChapterNumber="1"
-      SectionNumberReset="continue"
-      VolumeNumberReset="same" />
-    <TocEntry
-      Title="HC Mobile Community Paramedicine">
-      <TocEntry
-        Title="Getting Started"
-        Link="/Content/Community Paramedicine/iOS/Using CPM.htm"
-        StartChapter="true"
-        PageNumber="1"
-        PageNumberReset="continue"
-        StartSection="false"
-        PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl" />
-      <TocEntry
-        Title="Working with Records"
-        Link="/Content/Community Paramedicine/iOS/Working with Records.htm"
-        StartChapter="true"
-        PageNumber="1"
-        PageNumberReset="continue"
-        StartSection="false"
-        PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl" />
-      <TocEntry
-        Title="Application Settings"
-        Link="/Content/PTS/iOS/Settings.htm"
-        BreakType="chapter"
-        StartSection="false"
-        PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
-        PageNumberReset="continue" />
-    </TocEntry>
-  </TocEntry>
-  <TocEntry
     Title="HC Community Paramedicine for Android"
     ReplaceMergeNode="false"
     BreakType="none"
@@ -1266,6 +1192,80 @@
       <TocEntry
         Title="Application Settings"
         Link="/Content/Community Paramedicine/Android/Settings.htm"
+        BreakType="chapter"
+        StartSection="false"
+        PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
+        PageNumberReset="continue" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="HC Community Paramedicine for iOS"
+    ReplaceMergeNode="false"
+    BreakType="none"
+    PageNumberReset="reset"
+    PageNumber="83"
+    StartSection="false"
+    ChapterNumberReset="reset"
+    ChapterNumber="1"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    conditions="Default.NEW Retired">
+    <TocEntry
+      Title="Cover Page"
+      Link="/Content/Community Paramedicine/Cover Page-cpm.htm"
+      conditions="Default.PrintOnly"
+      StartSection="false" />
+    <TocEntry
+      Title="HC Standard® Administrator Manual"
+      Link="/Content/Community Paramedicine/Acknowledgements-cpm.htm"
+      conditions="Default.PrintOnly"
+      StartSection="false" />
+    <TocEntry
+      Title="TOC"
+      Link="/Content/Client TOC.htm"
+      BreakType="chapter"
+      StartSection="false"
+      PageLayout="/Content/Resources/PageLayouts/Default.flpgl"
+      conditions="Default.PrintOnly"
+      PageNumberReset="continue"></TocEntry>
+    <TocEntry
+      Title="blank page"
+      Link="/Content/Blank Page.htm"
+      conditions="Default.PrintOnly"
+      StartSection="false" />
+    <TocEntry
+      Title="HC Community Paramedicine Overview"
+      Link="/Content/Community Paramedicine/CPM Overview.htm"
+      StartChapter="true"
+      PageNumber="1"
+      PageNumberReset="reset"
+      StartSection="false"
+      PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
+      ChapterNumberReset="reset"
+      ChapterNumber="1"
+      SectionNumberReset="continue"
+      VolumeNumberReset="same" />
+    <TocEntry
+      Title="HC Mobile Community Paramedicine">
+      <TocEntry
+        Title="Getting Started"
+        Link="/Content/Community Paramedicine/iOS/Using CPM.htm"
+        StartChapter="true"
+        PageNumber="1"
+        PageNumberReset="continue"
+        StartSection="false"
+        PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl" />
+      <TocEntry
+        Title="Working with Records"
+        Link="/Content/Community Paramedicine/iOS/Working with Records.htm"
+        StartChapter="true"
+        PageNumber="1"
+        PageNumberReset="continue"
+        StartSection="false"
+        PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl" />
+      <TocEntry
+        Title="Application Settings"
+        Link="/Content/PTS/iOS/Settings.htm"
         BreakType="chapter"
         StartSection="false"
         PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
