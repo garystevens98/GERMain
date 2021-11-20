@@ -793,7 +793,7 @@
     Title="HC Patient Tracking for Windows 8"
     ReplaceMergeNode="false"
     StartSection="false"
-    conditions="Default.Windows8">
+    conditions="Default.Windows8,Default.NEW Retired">
     <TocEntry
       Title="Cover Page"
       Link="/Content/Community Paramedicine/Cover Page-cpm.htm"
@@ -861,9 +861,10 @@
   </TocEntry>
   <TocEntry
     Title="HC Patient Tracking for Windows Mobile"
-    conditions="Default.WM"
+    conditions="Default.WM,Default.NEW Retired"
     ReplaceMergeNode="false"
-    StartSection="false">
+    StartSection="false"
+    ComputeToc="false">
     <TocEntry
       Title="Cover Page"
       Link="/Content/Community Paramedicine/Cover Page-cpm.htm"
@@ -1134,7 +1135,7 @@
     ChapterNumber="1"
     SectionNumberReset="continue"
     VolumeNumberReset="same"
-    conditions="Default.iOS">
+    conditions="Default.iOS,Default.NEW Retired">
     <TocEntry
       Title="Cover Page"
       Link="/Content/Community Paramedicine/Cover Page-cpm.htm"
@@ -1208,7 +1209,7 @@
     ChapterNumber="1"
     SectionNumberReset="continue"
     VolumeNumberReset="same"
-    conditions="Default.Android">
+    conditions="Default.Android,Default.NEW Retired">
     <TocEntry
       Title="Cover Page"
       Link="/Content/Community Paramedicine/Cover Page-cpm.htm"
