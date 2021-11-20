@@ -6,7 +6,6 @@
   Destinations=""
   GlossaryTermConversion="marked"
   DefaultUrl="/Content/Index.htm"
-  ConditionTagExpression="include[Default.Admin or Default.ALL or Default.Analytics or Default.CHATS or Default.CPM or Default.Generic or Default.HAVBED or Default.HC or Default.IC or &quot;Default.Shelter Tracking&quot; or Default.WebOnly], exclude[Default.Android or Default.combined or Default.EWRAP or Default.iOS or Default.MIEMSS2 or &quot;Default.NEW Retired&quot; or &quot;Default.Perk Tracker&quot; or Default.PrintOnly or Default.SubAdmin or Default.Windows8 or Default.WM]"
   Skin="/Project/Skins/Copy of DefaultHTML5.flskn"
   GenerateWebSafeImages="false"
   ServerEnabled="false"
@@ -16,7 +15,8 @@
   PartialWordSearch="true"
   SearchDatabaseChunkSize="100000"
   PreMergeSearchDatabase="false"
-  MasterToc="/Project/TOCs/Web - Main Help Site.fltoc">
+  MasterToc="/Project/TOCs/NEW - Web - Main Help Site.fltoc"
+  ConditionTagExpression="include[Default.Admin or Default.ALL or Default.Analytics or Default.CHATS or Default.CPM or Default.Generic or Default.HAVBED or Default.HC or Default.IC or &quot;Default.Shelter Tracking&quot; or Default.WebOnly], exclude[Default.Android or Default.combined or Default.EWRAP or Default.iOS or Default.MIEMSS2 or &quot;Default.NEW Retired&quot; or &quot;Default.Perk Tracker&quot; or Default.PrintOnly or Default.SubAdmin or Default.Windows8 or Default.WM]">
   <PrintedOutput
     CollapseMargins="true" />
   <Destinations>
