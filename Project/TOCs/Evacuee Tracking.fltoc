@@ -86,7 +86,7 @@
       Link="/Content/Evacuee Tracking/iOS/Working with Groups.htm" />
     <TocEntry
       Title="Application Settings"
-      Link="/Content/PTS/iOS/Settings.htm"
+      Link="/Content/Patient Tracking System/iOS/Settings.htm"
       BreakType="chapter"
       StartSection="false"
       PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
