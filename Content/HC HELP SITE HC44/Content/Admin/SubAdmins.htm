@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" lang="en-us" xml:lang="en-us" data-mc-search-type="Stem" data-mc-help-system-file-name="Default.xml" data-mc-path-to-help-system="../../" data-mc-toc-path="HC Admin|Users &amp;&#160;Groups and Permissions" data-mc-target-type="WebHelp2" data-mc-runtime-file-type="Topic" data-mc-preload-images="false" data-mc-in-preview-mode="false" data-mc-medium="non-print">
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta charset="utf-8" />
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>Sub-Admins</title>
+        <link href="../../Skins/Default/Stylesheets/Slideshow.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
+        <link href="../../Skins/Default/Stylesheets/TextEffects.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
+        <link href="../../Skins/Default/Stylesheets/Topic.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
+        <link href="../../Skins/Default/Stylesheets/Components/Styles.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
+        <link href="../../Skins/Default/Stylesheets/Components/Tablet.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
+        <link href="../../Skins/Default/Stylesheets/Components/Mobile.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
+        <link href="../Resources/Stylesheets/MAIN Styles.css" rel="stylesheet" type="text/css" />
+        <script src="../../Resources/Scripts/jquery.min.js" type="text/javascript">
+        </script>
+        <script src="../../Resources/Scripts/require.min.js" type="text/javascript" defer="defer">
+        </script>
+        <script src="../../Resources/Scripts/require.config.js" type="text/javascript" defer="defer">
+        </script>
+        <script src="../../Resources/Scripts/foundation.min.js" type="text/javascript" defer="defer">
+        </script>
+        <script src="../../Resources/Scripts/plugins.min.js" type="text/javascript" defer="defer">
+        </script>
+        <script src="../../Resources/Scripts/MadCapAll.js" type="text/javascript" defer="defer">
+        </script>
+    </head>
+    <body>
+        <p class="MCWebHelpFramesetLink MCWebHelpFramesetLinkTop"><a href="../../Default.htm#Admin/SubAdmins.htm">Open topic with navigation</a>
+        </p>
+        <div class="nocontent">
+            <div class="MCBreadcrumbsBox_0 breadcrumbs" role="navigation" aria-label="Breadcrumbs" data-mc-breadcrumbs-divider=" &gt; " data-mc-breadcrumbs-count="3" data-mc-toc="True"><span class="MCBreadcrumbsPrefix">You are here: </span>
+            </div>
+        </div>
+        <div role="main" id="mc-main-content">
+            <h2 data-mc-autonum=" "><span class="autonumber"><span> </span></span>Sub-Admins</h2>
+            <h3 data-mc-autonum=" "><span class="autonumber"><span> </span></span>Sub-Admin Overview</h3>
+            <p>Depending on the size of an organization and scale of the system, Admin responsibilities may need to be divided up among certain users.  When a user is delegated to perform some, but not all, Admin functions in the system, the user is considered a sub-administrator, or <b>Sub-Admin</b>.</p>
+            <p>For example, an organization could have five separate regions.  Within each region there could be ten hospitals.  Inside each hospital, there could be 20 users.  That works out to be 1000 users. An Admin may delegate management of users to multiple Sub-Admins. </p>
+            <p>In this case, Sub-Admins can be created to manage each region and hospital.  The hospital Sub-Admins only have permission to manage the users in their facility, and the regional Sub-Admins only have permission to manage the users in their region.</p>
+            <p>There are a few steps needed to create a properly configured sub-admin hierarchy.  This uses a few of the tools covered previously in this chapter.  Each step is explained in the sections that follow. </p>
+            <h3 data-mc-autonum=" "><span class="autonumber"><span> </span></span>Creating a Sub-Admin User Group</h3>
+            <p>The first user group necessary for Sub-Admin delegation is the overall Sub-Admin user group. Users assigned to this group will receive special global permissions that enable them to manage certain users and user groups. </p>
+            <table style="width: 100%;border-spacing: 2px 2px;border-left-style: solid;border-left-width: 0px;border-left-color: #d3d3d3;border-right-style: solid;border-right-width: 0px;border-right-color: #d3d3d3;border-top-style: outset;border-top-width: 2px;border-top-color: #d3d3d3;border-bottom-style: outset;border-bottom-width: 1px;border-bottom-color: #d3d3d3;">
+                <col style="width: 77px;" />
+                <col />
+                <tbody>
+                    <tr>
+                        <td class="Note">&#160;</td>
+                        <td class="callout">
+                            <p><b>Note:</b> Note that the overall Sub-Admin user group only needs to be created once. This user group may already exist in the system.</p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            <p>To access User Groups, as shown in <a href="#Groups1" class="figures MCXref xref xreffigures">FIGURE 4-62</a>:</p>
+            <ol>
+                <li value="1"><i>Click or tap</i> on the <b>Users</b> and <b>Permissions</b> icon.</li>
+                <li value="2"><i>Click or tap</i> on the <b>Groups</b> icon under the <b>Manage My Users</b> section.</li>
+            </ol>
+            <p class="noafter"><a class="MCPopupThumbnailLink MCPopupThumbnailPopup" href="../Resources/Images/admin/users-groups.png"><img class="MCPopupThumbnail img imgnewwindows" data-mc-width="2121" data-mc-height="594" src="../Resources/Images/admin/users-groups_thumb_0_0.png" tabindex="" /></a>
+            </p>
+            <p class="Figuretest" data-mc-autonum=" FIGURE 4-62: "><span class="autonumber"><span> FIGURE 4-62: </span></span><a name="Groups1"></a>Groups</p>
+            <p style="page-break-before: always;margin-bottom: 6pt;">To create a new Sub-Admin User Group, as shown in <a href="#Create_Group_Button" class="figures MCXref xref xreffigures">FIGURE 4-63</a>:</p>
+            <ol>
+                <li value="1"><i>Click or tap</i> on the <b>Create New Group</b> button.</li>
+            </ol>
+            <p class="noafter"><a class="MCPopupThumbnailLink MCPopupThumbnailPopup" href="../Resources/Images/admin/groups - create new group.png"><img class="MCPopupThumbnail img imgnewwindows" data-mc-width="1914" data-mc-height="184" src="../Resources/Images/admin/groups - create new group_thumb_0_0.png" tabindex="" /></a>
+            </p>
+            <p class="Figuretest" style="margin-bottom: 6pt;" data-mc-autonum=" FIGURE 4-63: "><span class="autonumber"><span> FIGURE 4-63: </span></span><a name="Create_Group_Button"></a>Create Group Button</p>
+            <p style="margin-bottom: 6pt;">The <b>Add Group</b> tool will display with the <b>Details</b> tab already selected, as shown in <a href="#Add" class="figures MCXref xref xreffigures">FIGURE 4-64</a>.</p>
+            <ol>
+                <li value="1"><i>Enter</i> a <b>Name</b> and <b>Description</b> for the new Sub-Admin group on the <b>Details</b> page of the <b>Add Group</b> tool. </li>
+                <li value="2"><i>Leave</i> <b>Organizational</b> unchecked.</li>
+            </ol>
+            <p class="noafter"><a class="MCPopupThumbnailLink MCPopupThumbnailPopup" href="../Resources/Images/admin/sub-admins.png"><img class="MCPopupThumbnail img imgnewwindows" data-mc-width="2159" data-mc-height="730" src="../Resources/Images/admin/sub-admins_thumb_0_0.png" tabindex="" /></a>
+            </p>
+            <p class="Figuretest" style="margin-bottom: 6pt;" data-mc-autonum=" FIGURE 4-64: "><span class="autonumber"><span> FIGURE 4-64: </span></span><a name="Add"></a>Add Group </p>
+            <p style="margin-bottom: 6pt;">The next step in the process of creating a Sub-Admin group is to add the users who will become Sub-Admins. To add users to the group, as shown in <a href="#Add_Users_to_Sub-Admin_group" class="figures MCXref xref xreffigures">FIGURE 4-65</a>:</p>
+            <ol class="steps" style="text-align: justify;">
+                <li value="1"><i>Click or tap</i> the <b>Users</b> tab to add, edit, or remove users from the group. A list of all users currently assigned to that group will be shown.</li>
+                <li style="margin-top: 0;" value="2"><i style="font-weight: normal;">Click or tap</i> the <b>Add Users</b> button to bring up a list of all available users in the system. To add or remove users from the selected group, <a href="availablelist.htm" class="MCXref xref">See "Selecting Items from an Available&#160;List"</a></li>
+                <li style="margin-top: 0;" value="3">When done adding users to the group, <i>click or tap</i> the <b>Save</b> button to keep changes. </li>
+            </ol>
+            <p class="noafter"><a class="MCPopupThumbnailLink MCPopupThumbnailPopup" href="../Resources/Images/admin/sub-admin-users.png"><img class="MCPopupThumbnail img imgnewwindows" data-mc-width="2159" data-mc-height="617" src="../Resources/Images/admin/sub-admin-users_thumb_0_0.png" tabindex="" /></a>
+            </p>
+            <p class="Figuretest" data-mc-autonum=" FIGURE 4-65: "><span class="autonumber"><span> FIGURE 4-65: </span></span><a name="Add_Users_to_Sub-Admin_group"></a>Add Users to Sub-Admin group</p>
+            <h3 style="page-break-before: always;" data-mc-autonum=" "><span class="autonumber"><span> </span></span>Creating a Sub-Admin Global Permission Set</h3>
+            <p style="margin-bottom: 7pt;">A Global Permission set needs to be created in order to group the various sub-admin functions together. In the example below, the goal for Sub-Admins is to only manage users within their respective region.</p>
+            <table style="width: 100%;border-spacing: 2px 2px;border-left-style: solid;border-left-width: 0px;border-left-color: #d3d3d3;border-right-style: solid;border-right-width: 0px;border-right-color: #d3d3d3;border-top-style: outset;border-top-width: 2px;border-top-color: #d3d3d3;border-bottom-style: outset;border-bottom-width: 1px;border-bottom-color: #d3d3d3;">
+                <col style="width: 77px;" />
+                <col />
+                <tbody>
+                    <tr>
+                        <td class="Note">&#160;</td>
+                        <td class="callout">
+                            <p style="margin-bottom: 7pt;"><b>Note:</b> The Sub-Admin Global Permission Set only needs to be created once. This Global Permission Set may already exist in the system.</p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            <p style="margin-bottom: 6pt;">To access Global Permission Sets, as shown in <a href="#Global_Permissions" class="figures MCXref xref xreffigures">FIGURE 4-66</a>:</p>
+            <ol class="steps">
+                <li value="1"><i>Click or tap</i> on the <b>Users</b> and <b>Permissions</b> icon.</li>
+                <li value="2"><i>Click or tap</i> on the <b>Global Permissions</b> icon under the <b>Manage My Users</b> section.</li>
+            </ol>
+            <p class="noafter"><a class="MCPopupThumbnailLink MCPopupThumbnailPopup" href="../Resources/Images/admin/users-globalperm.png"><img class="MCPopupThumbnail img imgnewwindows" data-mc-width="2121" data-mc-height="586" src="../Resources/Images/admin/users-globalperm_thumb_0_0.png" tabindex="" /></a>
+            </p>
+            <p class="Figuretest" data-mc-autonum=" FIGURE 4-66: "><span class="autonumber"><span> FIGURE 4-66: </span></span><a name="Global_Permissions"></a>Global Permissions</p>
+            <p style="margin-bottom: 6pt;">To create a Sub-Admin Global Permission Set, as shown in <a href="#Create_New_Permission_Set_Button" class="figures MCXref xref xreffigures">FIGURE 4-67</a>:</p>
+            <ol class="steps">
+                <li value="1"><i>Click or tap</i> the <b>Create New Permission Set</b> button.</li>
+            </ol>
+            <p class="noafter"><a class="MCPopupThumbnailLink MCPopupThumbnailPopup" href="../Resources/Images/admin/newpermbutton.png"><img class="MCPopupThumbnail img imgnewwindows" data-mc-width="1840" data-mc-height="112" src="../Resources/Images/admin/newpermbutton_thumb_0_0.png" tabindex="" /></a>
+            </p>
+            <p class="Figuretest" data-mc-autonum=" FIGURE 4-67: "><span class="autonumber"><span> FIGURE 4-67: </span></span><a name="Create_New_Permission_Set_Button"></a>Create New Permission Set Button</p>
+            <p style="margin-bottom: 6pt;">The <b>Create New Permission Set</b> tool will display with the <b>Details</b> tab already selected, as shown in <a href="#Create_New_Permission_Set_-_Details" class="figures MCXref xref xreffigures">FIGURE 4-68</a>.</p>
+            <ol>
+                <li value="1"><i>Enter</i> a <b>Name</b> and <i>add</i> a <b>Description</b>, if desired.  </li>
+                <li value="2"><i>Click or tap</i> the <b>Functions</b> tab.  </li>
+            </ol>
+            <p class="noafter"><a class="MCPopupThumbnailLink MCPopupThumbnailPopup" href="../Resources/Images/admin/sub-admin-permis.png"><img class="MCPopupThumbnail img imgnewwindows" data-mc-width="1593" data-mc-height="349" src="../Resources/Images/admin/sub-admin-permis_thumb_0_0.png" tabindex="" /></a>
+            </p>
+            <p class="Figuretest" data-mc-autonum=" FIGURE 4-68: "><span class="autonumber"><span> FIGURE 4-68: </span></span><a name="Create_New_Permission_Set_-_Details"></a>Create New Permission Set - Details</p>
+            <p>The next step in creating a Sub-Admin Global Permission Set is to add only the functions needed for Sub-Admins. In this example, a Sub-Admin assigned to this permission set will only be able to create, delete, assign, and logout users. To add functions to the group, as shown in <a href="#Create" class="figures MCXref xref xreffigures">FIGURE 4-69</a>:</p>
+            <ol class="steps">
+                <li value="1"><i>Click or tap</i> the <b>Add Functions</b> button. <i>Select</i> functions from the available groups. For more information, <a href="availablelist.htm" class="MCXref xref">See "Selecting Items from an Available&#160;List"</a></li>
+                <li value="2">For this example,only the following functions should be added to the group:<ul><li>Create User Groups</li><li>Create Users</li><li>Delete User Groups</li><li>Delete Users</li><li>Logout Users</li><li>Reset User Passwords</li><li>Unlock User Accounts</li><li>Update User Groups</li><li>Update Users</li><li>View User Groups</li><li>View Users</li></ul></li>
+                <li value="3"><i>Click or tap</i> the <b>Groups</b> tab.<br /></li>
+            </ol>
+            <p class="noafter"><a class="MCPopupThumbnailLink MCPopupThumbnailPopup" href="../Resources/Images/admin/sub-admin-permiss-functions.png"><img class="MCPopupThumbnail img imgnewwindows" data-mc-width="1601" data-mc-height="710" src="../Resources/Images/admin/sub-admin-permiss-functions_thumb_0_0.png" tabindex="" /></a>
+            </p>
+            <p class="Figuretest" data-mc-autonum=" FIGURE 4-69: "><span class="autonumber"><span> FIGURE 4-69: </span></span><a name="Create"></a>Create A Permission Set - Functions</p>
+            <p>The last step for creating a Sub-Admin Global Permission set is to add the <b>Sub-Admins</b> user group created earlier to the permission set. </p>
+            <p style="page-break-before: always;">To add the group to the permission set, as shown in <a href="#Add_Sub-Admin_user_group_to_permission_set" class="figures MCXref xref xreffigures">FIGURE 4-70</a></p>
+            <ol>
+                <li value="1"><i>Click or tap</i> the <b>Add Groups</b> button to apply the permission set to a user group. <i>Select</i> the <b>Sub Admin</b> user group from the available groups. For more information, <a href="availablelist.htm" class="MCXref xref">See "Selecting Items from an Available&#160;List"</a></li>
+                <li value="2">When done adding the <b>Sub-Admin</b> user group to the permission set, <i>click or tap</i> the <b>Save</b> button to keep changes. </li>
+            </ol>
+            <p class="noafter"><a class="MCPopupThumbnailLink MCPopupThumbnailPopup" href="../Resources/Images/admin/sub-admin-permiss-groups.png"><img class="MCPopupThumbnail img imgnewwindows" data-mc-width="1603" data-mc-height="375" src="../Resources/Images/admin/sub-admin-permiss-groups_thumb_0_0.png" tabindex="" /></a>
+            </p>
+            <p class="Figuretest" data-mc-autonum=" FIGURE 4-70: "><span class="autonumber"><span> FIGURE 4-70: </span></span><a name="Add_Sub-Admin_user_group_to_permission_set"></a>Add Sub-Admin user group to permission set</p>
+            <h3 data-mc-autonum=" "><span class="autonumber"><span> </span></span>Creating an Organizational Hierarchy</h3>
+            <p>Once Sub-Admins have been established, it is necessary to create a hierarchy of user groups that each Sub-Admin will manage. In the example below, an Admin is creating a Region 1 hierarchy for the Region 1 Sub-Admin. In this group, there are two facilities. An Admin will need to create a unique organizational group for each level and item in the hierarchy.</p>
+            <p>Access the <b>Add Group</b> tool from the <b>Groups</b> main page to create an Organizational user group.</p>
+            <p>The <b>Add Group</b> tool will display with the <b>Details</b> tab already selected, as shown in <a href="#Add_Group_-_Details" class="figures MCXref xref xreffigures">FIGURE 4-71</a>. </p>
+            <ol data-mc-continue="false">
+                <li value="1"><i>Enter</i> a <b>Name</b> and <b>Description</b> for the new organizational group on the <b>Details</b> page of the <b>Add Group</b> tool. </li>
+                <li value="2"><i>Check</i> the <b>Organizational</b> checkbox. </li>
+            </ol>
+            <p class="noafter"><a class="MCPopupThumbnailLink MCPopupThumbnailPopup" href="../Resources/Images/admin/sub-admin-group-orgdetails.png"><img class="MCPopupThumbnail img imgnewwindows" data-mc-width="2159" data-mc-height="726" src="../Resources/Images/admin/sub-admin-group-orgdetails_thumb_0_0.png" tabindex="" /></a>
+            </p>
+            <p class="Figuretest" data-mc-autonum=" FIGURE 4-71: "><span class="autonumber"><span> FIGURE 4-71: </span></span><a name="Add_Group_-_Details"></a>Add Group - Details</p>
+            <p>The next step in working with the Organizational Group is to associate a Sub-Admin who will manage this group of users. To add users to the group, as shown in <a href="#Add_Group_-_Users" class="figures MCXref xref xreffigures">FIGURE 4-72</a>:</p>
+            <ol class="steps" style="text-align: justify;">
+                <li value="1"><i>Click or tap</i> the <b>Users</b> tab to add, edit, or remove users from the group. A list of all users currently assigned to that group will be shown.</li>
+                <li style="margin-top: 0;" value="2"><i style="font-weight: normal;">Click or tap</i> the <b>Add Users</b> button to bring up a list of all available users in the system. To add or remove users from the selected group, <a href="availablelist.htm" class="MCXref xref">See "Selecting Items from an Available&#160;List"</a></li>
+            </ol>
+            <p class="noafter"><a class="MCPopupThumbnailLink MCPopupThumbnailPopup" href="../Resources/Images/admin/sub-admin-group-orgusers.png"><img class="MCPopupThumbnail img imgnewwindows" data-mc-width="2159" data-mc-height="545" src="../Resources/Images/admin/sub-admin-group-orgusers_thumb_0_0.png" tabindex="" /></a>
+            </p>
+            <p class="Figuretest" data-mc-autonum=" FIGURE 4-72: "><span class="autonumber"><span> FIGURE 4-72: </span></span><a name="Add_Group_-_Users"></a>Add Group - Users</p>
+            <p>The last step necessary is to associate the user groups that the Sub-Admin can manage, as shown in <a href="#Add_Group_-_Member_Groups" class="figures MCXref xref xreffigures">FIGURE 4-73</a>. </p>
+            <ol>
+                <li value="1"><i>Click or tap</i> on the <b>Children</b> tab in either the <b>Add Group</b> or <b>Edit Group</b> tool. </li>
+                <li value="2"><i>Click or tap</i> the <b>Add Groups</b> button. To add or remove member groups from the selected group, <a href="availablelist.htm" class="MCXref xref">See "Selecting Items from an Available&#160;List"</a></li>
+                <li value="3"><i>Click or tap</i> <b>Save</b> to save the group.</li>
+            </ol>
+            <p class="noafter"><a class="MCPopupThumbnailLink MCPopupThumbnailPopup" href="../Resources/Images/admin/sub-admin-group-orgmember.png"><img class="MCPopupThumbnail img imgnewwindows" data-mc-width="2159" data-mc-height="532" src="../Resources/Images/admin/sub-admin-group-orgmember_thumb_0_0.png" tabindex="" /></a>
+            </p>
+            <p class="Figuretest" data-mc-autonum=" FIGURE 4-73: "><span class="autonumber"><span> FIGURE 4-73: </span></span><a name="Add_Group_-_Member_Groups"></a>Add Group - Member Groups</p>
+            <h3 style="page-break-before: always;" data-mc-autonum=" "><span class="autonumber"><span> </span></span>What Sub-Admins See</h3>
+            <p>When Sub-Admins access Admin mode, only certain tools are available. Following the example, these Sub-Admins will only access User management tools, as shown in <a href="#Sub-Admin_Tools" class="figures MCXref xref xreffigures">FIGURE 4-74</a>. </p>
+            <ol>
+                <li value="1">The <b>Users</b> and <b>Permissions</b> icon.</li>
+                <li value="2"><b>Users</b> - to manage users in the Sub-Admin's Organizational group. </li>
+                <li value="3"><b>Groups </b>- to manage user groups in the Sub-Admin's Organizational group.</li>
+            </ol>
+            <p class="noafter"><a class="MCPopupThumbnailLink MCPopupThumbnailPopup" href="../Resources/Images/admin/sub-admin-fromlogin.png"><img class="MCPopupThumbnail img imgnewwindows" data-mc-width="1629" data-mc-height="542" src="../Resources/Images/admin/sub-admin-fromlogin_thumb_0_0.png" tabindex="" /></a>
+            </p>
+            <p class="Figuretest" data-mc-autonum=" FIGURE 4-74: "><span class="autonumber"><span> FIGURE 4-74: </span></span><a name="Sub-Admin_Tools"></a>Sub-Admin Tools</p>
+        </div>
+        <p>&#160;</p>
+        <table style="width: 100%;border-spacing: 2px 0px;margin-left: 0;margin-right: auto;">
+            <col />
+            <tbody>
+                <tr>
+                    <td style="background-color: #4da3df;">
+                        <p class="noafter" style="margin-left: 5px;padding-top: 2px;padding-bottom: 2px;"><span style="font-weight: bold; color: #ffffff; font-size: 15pt;">Additional Topics In This Guide:</span>
+                        </p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="background-color: #474f5a;">
+                        <ul class="nocontent menu _Skins_moretopic mc-component" data-mc-is-context-sensitive="True" data-mc-linked-toc="Data/Tocs/NEW___Web___Main_Help_Site.js" data-mc-side-menu="True" data-mc-max-depth="1" data-mc-include-icon="False" data-mc-include-indicator="False" data-mc-include-children="True" data-mc-include-siblings="True" data-mc-include-parent="True" data-mc-toc="True">
+                        </ul>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>
