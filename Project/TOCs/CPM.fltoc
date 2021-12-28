@@ -68,7 +68,7 @@
         PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl" />
       <TocEntry
         Title="Application Settings"
-        Link="/Content/Patient Tracking System/iOS/Settings.htm"
+        Link="/Content/Patient Tracking System/iOS_1.3/Settings.htm"
         BreakType="chapter"
         StartSection="false"
         PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"

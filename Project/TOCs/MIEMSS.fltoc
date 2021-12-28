@@ -496,7 +496,7 @@
       PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl">
       <TocEntry
         Title="HC Standard® Patient Tracking for iOS"
-        Link="/Content/Patient Tracking System/iOS/Cover Page.htm"
+        Link="/Content/Patient Tracking System/iOS_1.3/Cover Page.htm"
         ChapterNumberReset="continue"
         SectionNumberReset="continue"
         VolumeNumberReset="continue"
@@ -517,7 +517,7 @@
         BreakType="pageLayout" />
       <TocEntry
         Title="Getting Started"
-        Link="/Content/Patient Tracking System/iOS/Using PTS.htm"
+        Link="/Content/Patient Tracking System/iOS_1.3/Using PTS.htm"
         PageNumber="1"
         PageNumberReset="continue"
         StartSection="false"
@@ -528,7 +528,7 @@
         BreakType="pageLayout" />
       <TocEntry
         Title="Working with Individual Patients"
-        Link="/Content/Patient Tracking System/iOS/Working with Patients.htm"
+        Link="/Content/Patient Tracking System/iOS_1.3/Working with Patients.htm"
         PageNumber="1"
         PageNumberReset="continue"
         StartSection="false"
@@ -539,7 +539,7 @@
         BreakType="pageLayout" />
       <TocEntry
         Title="Working with Groups of Patients"
-        Link="/Content/Patient Tracking System/iOS/Working with Groups.htm"
+        Link="/Content/Patient Tracking System/iOS_1.3/Working with Groups.htm"
         VolumeNumberReset="same"
         SectionNumberReset="continue"
         ChapterNumberReset="same"
@@ -551,7 +551,7 @@
         PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl" />
       <TocEntry
         Title="Application Settings"
-        Link="/Content/Patient Tracking System/iOS/Settings.htm"
+        Link="/Content/Patient Tracking System/iOS_1.3/Settings.htm"
         BreakType="pageLayout"
         StartSection="false"
         PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
