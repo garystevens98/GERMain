@@ -1127,10 +1127,9 @@
     SectionNumberReset="continue"
     VolumeNumberReset="same">
     <TocEntry
-      Title="Cover Page"
-      Link="/Content/Patient Tracking System/Cover Page.htm"
-      conditions="Default.PrintOnly"
-      StartSection="false" />
+      Title="[%=System.LinkedFile%]"
+      Link="/Content/Patient Tracking System/PTS Cover Page Mobile.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      conditions="Default.NEW Print Only"></TocEntry>
     <TocEntry
       Title="HC Standard® Administrator Manual"
       Link="/Content/Patient Tracking System/Acknowledgements.htm"
@@ -1214,10 +1213,9 @@
     VolumeNumberReset="same"
     conditions="Default.Android">
     <TocEntry
-      Title="Cover Page"
-      Link="/Content/Patient Tracking System/Cover Page.htm"
-      conditions="Default.PrintOnly"
-      StartSection="false" />
+      Title="[%=System.LinkedFile%]"
+      Link="/Content/Patient Tracking System/PTS Cover Page Mobile.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      conditions="Default.NEW Print Only"></TocEntry>
     <TocEntry
       Title="HC Standard® Administrator Manual"
       Link="/Content/Patient Tracking System/Acknowledgements.htm"
@@ -1250,7 +1248,7 @@
       VolumeNumberReset="same" />
     <TocEntry
       Title="Getting Started"
-      Link="/Content/Patient Tracking System/Android/Using PTS.htm"
+      Link="/Content/Patient Tracking System/Android_1.3/Using PTS.htm"
       StartChapter="true"
       PageNumber="1"
       PageNumberReset="continue"
@@ -1258,7 +1256,7 @@
       PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl" />
     <TocEntry
       Title="Working with Individual Patients"
-      Link="/Content/Patient Tracking System/Android/Working with Patients.htm"
+      Link="/Content/Patient Tracking System/Android_1.3/Working with Patients.htm"
       StartChapter="true"
       PageNumber="1"
       PageNumberReset="continue"
@@ -1266,7 +1264,7 @@
       PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl" />
     <TocEntry
       Title="Working with Groups of Patients"
-      Link="/Content/Patient Tracking System/Android/Working with Groups.htm"
+      Link="/Content/Patient Tracking System/Android_1.3/Working with Groups.htm"
       VolumeNumberReset="continue"
       SectionNumberReset="continue"
       ChapterNumberReset="continue"
@@ -1278,7 +1276,7 @@
       PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl" />
     <TocEntry
       Title="Application Settings"
-      Link="/Content/Patient Tracking System/Android/Settings.htm"
+      Link="/Content/Patient Tracking System/Android_1.3/Settings.htm"
       BreakType="chapter"
       StartSection="false"
       PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
@@ -1294,10 +1292,9 @@
     ReplaceMergeNode="false"
     StartSection="false">
     <TocEntry
-      Title="Cover Page"
-      Link="/Content/Patient Tracking System/Cover Page.htm"
-      conditions="Default.PrintOnly"
-      StartSection="false"></TocEntry>
+      Title="[%=System.LinkedFile%]"
+      Link="/Content/Patient Tracking System/PTS Cover Page Mobile.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      conditions="Default.NEW Print Only"></TocEntry>
     <TocEntry
       Title="HC Standard® Administrator Manual"
       Link="/Content/Patient Tracking System/Acknowledgements.htm"
@@ -1384,10 +1381,9 @@
     StartSection="false"
     conditions="Default.Windows8">
     <TocEntry
-      Title="Cover Page"
-      Link="/Content/Patient Tracking System/Cover Page.htm"
-      conditions="Default.PrintOnly"
-      StartSection="false"></TocEntry>
+      Title="[%=System.LinkedFile%]"
+      Link="/Content/Patient Tracking System/PTS Cover Page Mobile.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      conditions="Default.NEW Print Only" />
     <TocEntry
       Title="HC Standard® Administrator Manual"
       Link="/Content/Patient Tracking System/Acknowledgements.htm"

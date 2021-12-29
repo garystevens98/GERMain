@@ -34,9 +34,9 @@
     Comment="" />
   <ConditionTag
     BackgroundColor="#ff00ff"
-    Name="iOS"
+    Name="NEW iOS 1_3"
     Comment=""
-    OriginalName="iOS" />
+    OriginalName="NEW iOS 1_3" />
   <ConditionTag
     BackgroundColor="#2f4f4f"
     Name="WM"
@@ -49,8 +49,9 @@
     OriginalName="Windows8" />
   <ConditionTag
     BackgroundColor="#fa8072"
-    Name="Android"
-    Comment="" />
+    Name="NEW Android 1_3"
+    Comment=""
+    OriginalName="NEW Android 1_3" />
   <ConditionTag
     BackgroundColor="#ff0000"
     Name="MIEMSS2"
@@ -108,4 +109,22 @@
     Name="NEW Retired"
     Comment=""
     OriginalName="NEW Retired" />
+  <ConditionTag
+    BackgroundColor="#fffb00"
+    Name="NEW iOS 2_0"
+    Comment=""
+    OriginalName="NEW iOS 2_0" />
+  <ConditionTag
+    Name="NEW Android 2_0"
+    Comment=""
+    BackgroundColor="#00ffa5"
+    OriginalName="NEW Android 2_0" />
+  <ConditionTag
+    BackgroundColor="#8b4513"
+    Name="NEW HC 4_0"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#ff00ff"
+    Name="NEW HC 4_6"
+    Comment="" />
 </CatapultConditionTagSet>
