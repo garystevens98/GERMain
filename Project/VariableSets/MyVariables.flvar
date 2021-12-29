@@ -11,7 +11,7 @@
     Comment="Sets Figure Numbering for objects"
     Definition="Some text">CF: FIGURE {chapnum}-{n+}:</Variable>
   <Variable
-    Name="HC Version"
+    Name="HC Version 4.6"
     Comment="HC version for doc"
     Definition="Some text"
     EvaluatedDefinition="Version 4.6">Version 4.6</Variable>
@@ -43,4 +43,16 @@
     Name="GER Website (HTML5)"
     Comment=""
     EvaluatedDefinition="https://www.ger911.com/">https://www.ger911.com/</Variable>
+  <Variable
+    Name="HC Version 4.0"
+    Comment=""
+    EvaluatedDefinition="Version 4.0">Version 4.0</Variable>
+  <Variable
+    Name="App Version 1.3"
+    Comment="App Version 1.3"
+    EvaluatedDefinition="Version 1.3">Version 1.3</Variable>
+  <Variable
+    Name="App Version 2.0"
+    Comment="App Version 2.0"
+    EvaluatedDefinition="Version 2.0">Version 2.0</Variable>
 </CatapultVariableSet>
