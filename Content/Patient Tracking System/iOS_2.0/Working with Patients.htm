@@ -1,0 +1,451 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="10" MadCap:lastHeight="561" MadCap:lastWidth="624">
+    <head>
+    </head>
+    <body>
+        <h1 MadCap:conditions="Default.ALL" MadCap:autonum="Chapter 1 - ">Working with Patients</h1>
+        <h2 MadCap:conditions="Default.combined" class="h2nobreak" MadCap:autonum="1 - 1: ">Triaging Patients</h2>
+        <h2 MadCap:conditions="Default.ALL" class="h2nobreak" MadCap:autonum="1 - 2: ">Entering Patient Information</h2>
+        <h3 MadCap:conditions="Default.combined" MadCap:autonum="1 - 2.1 ">Entering Patient Information</h3>
+        <p>Once the profile has been set, submitting records is simple.</p>
+        <table style="width: 100%;" class="mobile">
+            <col style="width: 30%;" />
+            <col style="width: 70%;" />
+            <tbody>
+                <tr>
+                    <td style="text-align: left;">
+                        <p class="noafter" MadCap:conditions="Default.iOS">
+                            <img src="../../Resources/Images/iOS Xamarin Screen Shots/indbutton.png" MadCap:conditions="Default.iOS" style="height: auto;" class="imagesizeios" MadCap:mediastyle="@media print { max-width: 100%; }" />
+                        </p>
+                        <p class="Figuretest" MadCap:autonum=" FIGURE 1-1: "><a name="tgpt"></a> Individual Button</p>
+                        <p>&#160;</p>
+                    </td>
+                    <td style="padding-left: 20px;">
+                        <p>Scanning a barcode or triage tag will start an individual patient record or retrieve existing patient information that has already been entered into the system for that patient with that specific tag or barcode. A barcode on a triage tag is a unique ID.</p>
+                        <ol class="test">
+                            <li><i>Tap</i> the <b>Individual</b> button on the Main Screen, as shown in <MadCap:xref href="#tgpt" class="figures">FIGURE 1-1</MadCap:xref>.</li>
+                        </ol>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p class="noafter" MadCap:conditions="Default.iOS">
+                            <img src="../../Resources/Images/iOS Xamarin Screen Shots/Individual Button.png" MadCap:conditions="Default.iOS" class="imagesizeios" />
+                        </p>
+                        <p class="Figuretest" MadCap:autonum=" FIGURE 1-2: "><a name="ptid"></a> Patient ID</p>
+                    </td>
+                    <td style="padding-left: 20px;">
+                        <p>The next step requires the user to enter a Patient ID, as shown in <MadCap:xref href="#ptid" class="figures">FIGURE 1-2</MadCap:xref>:</p>
+                        <ol>
+                            <li><i>Enter</i> a <b>Patient ID</b>.  The Patient ID is a unique string assigned to a patient. All information on the patient is stored under this ID and is available for recall and updating at later dates.</li>
+                        </ol>
+                        <ol MadCap:continue="true">
+                            <li><i>Toggling </i><b>Skip loading from Server</b> to <i>on (red)</i> is useful when data connectivity is unavailable. This will cause PTS to automatically assume the patient ID is new and display a clean record every time the ID is scanned. This saves time because PTS will not search the server for an existing record. Continue to update the record as needed and once data connectivity is restored, the HC Standard<sup>®</sup> server will merge all the entries into one record with all information and timestamps. </li>
+                        </ol>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p style="text-align: left;page-break-before: always;">There are <MadCap:conditionalText MadCap:conditions="Default.Android,Default.iOS,Default.Windows8">three</MadCap:conditionalText> ways to enter the medical record number:</p>
+        <table style="width: 100%;" class="mobile">
+            <col style="width: 30%;" />
+            <col style="width: 70%;" />
+            <tbody>
+                <tr>
+                    <td style="text-align: left;">
+                        <p MadCap:conditions="Default.iOS" class="noafter" style="text-align: center;">
+                            <img src="../../Resources/Images/scantag.png" style="height: 105px;width: auto;" />
+                        </p>
+                        <p class="Figuretest" style="text-align: center;" MadCap:autonum=" FIGURE 1-3: "><a name="Camera_Scan_Window_"></a>Camera Scan Window </p>
+                    </td>
+                    <td style="text-align: left;padding-left: 20px;">
+                        <ol class="Steps" style="text-align: justify;">
+                            <li MadCap:conditions="Default.Windows8,Default.iOS,Default.Android"><b>Scan a tag</b> – Attach a triage tag or barcode to the patient.  From the Patient ID screen, <i>tap</i> the <b>Scan </b>button. Proper technique is to <i>align</i> the<MadCap:conditionalText MadCap:conditions="Default.iOS"> red line in the</MadCap:conditionalText> window with the vertical center of the barcode, and hold the camera steady, as shown in <MadCap:xref href="#Camera_Scan_Window_" class="figures">FIGURE 1-3</MadCap:xref>. If the barcode is not read right away, slightly vary the distance between the camera and barcode. <MadCap:conditionalText MadCap:conditions="Default.iOS">If the device has a camera flash, turn it on in low-light conditions by <i>tapping </i></MadCap:conditionalText><b>Light</b>. <MadCap:conditionalText MadCap:conditions="Default.iOS">The <b>Front</b> control switches between the rear- and front-facing cameras.</MadCap:conditionalText> The device will automatically focus on the barcode and will start the patient record when it registers the ID.</li>
+                        </ol>
+                    </td>
+                </tr>
+                <tr MadCap:conditions="Default.Windows8,Default.iOS,Default.Android">
+                    <td style="text-align: center;">&#160;</td>
+                    <td style="text-align: left;padding-left: 20px;">
+                        <ol start="2" style="text-align: justify;">
+                            <li style="text-align: left;"><b>Driver's License</b> - <i>Scan</i> a driver's license <b>3D barcode</b> to generate a unique Patient ID and automatically fill-in the Patient's demographic information as it appears on the license. For some states, an older issued license may not properly scan. </li>
+                        </ol>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align: center;">&#160;</td>
+                    <td style="text-align: left;padding-left: 20px;">
+                        <ol class="Steps" start="3" style="text-align: justify;">
+                            <li style="text-align: left;"><b>Manual input</b> – If a tag is not available, it is possible to input a Patient ID manually using the onscreen keyboard.  Make sure the ID is unique so that the data from one patient is not mixed with another.</li>
+                        </ol>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <table style="width: 100%;border-spacing: 2px 2px;border-left-style: solid;border-left-width: 0px;border-left-color: #d3d3d3;border-right-style: solid;border-right-width: 0px;border-right-color: #d3d3d3;border-top-style: outset;border-top-width: 2px;border-top-color: #d3d3d3;border-bottom-style: outset;border-bottom-width: 1px;border-bottom-color: #d3d3d3;">
+            <col style="width: 77px;" />
+            <col />
+            <tbody>
+                <tr>
+                    <td class="Note" style="text-align: justify;">&#160;</td>
+                    <td style="text-align: justify;" class="callout">
+                        <p><b style="font-size: 12pt;">Note: </b>  The MR # is the only required field when starting a patient record.  Make sure that each new patient is given a unique Patient ID.</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <h2 MadCap:conditions="Default.ALL" MadCap:autonum="1 - 3: ">Patient Tracking Panels</h2>
+        <h3 MadCap:conditions="Default.combined" style="page-break-before: always;" MadCap:autonum="1 - 3.1 ">Patient Tracking Panels</h3>
+        <p>Once a patient id is entered, begin entering patient information by <i>tapping</i> on the screen and <i>manually entering</i> data with the onscreen keyboard. None of the panels have any required fields.</p>
+        <p MadCap:conditions="Default.Windows8,Default.iOS,Default.Android"><i>Swipe</i> between <b>panels</b> from right-to-left to advance to the next panel.</p>
+        <p style="font-style: normal;" MadCap:conditions="Default.Windows8,Default.iOS,Default.Android">To move directly to a specific panel <i>tap</i> an item's <b>icon</b> along the navigation tray, and <i>select</i> the desired panel.</p>
+        <p style="font-style: normal;">
+            <MadCap:conditionalText MadCap:conditions="Default.iOS,Default.Android,Default.Windows Mobile" style="font-style: italic;">Tap</MadCap:conditionalText> the <b>Menu</b> button <MadCap:conditionalText MadCap:conditions="Default.iOS">in the top right corner of any panel </MadCap:conditionalText>to <b>Save</b>, <b>Print</b> and <b>Other</b> actions.</p>
+        <table style="width: 100%;" class="mobile">
+            <col style="width: 30%;" />
+            <col style="width: 70%;" />
+            <tbody>
+                <tr>
+                    <td>
+                        <p MadCap:conditions="Default.iOS" class="noafter">
+                            <img src="../../Resources/Images/iOS Xamarin Screen Shots/triage status.png" MadCap:conditions="Default.iOS" class="imagesizeios" />
+                        </p>
+                        <p class="Figuretest" style="text-align: left;" MadCap:autonum=" FIGURE 1-4: "><a name="Triage_Panel"></a>Triage Panel</p>
+                        <p>&#160;</p>
+                    </td>
+                    <td style="padding-left: 20px;">
+                        <p style="text-align: left;">Select Patient Status, as shown in <MadCap:xref href="#Triage_Panel" class="figures">FIGURE 1-4</MadCap:xref>:</p>
+                        <ol class="Steps">
+                            <li style="text-align: left;"><i>Tap</i><i style="font-weight: bold; font-style: normal;">Immediate</i>, <i style="font-weight: bold; font-style: normal;">Delayed</i>, <i style="font-weight: bold; font-style: normal;">Minor</i> or <i style="font-weight: bold; font-style: normal;">Deceased</i> to indicate patient status. </li>
+                            <li style="text-align: left;"><i MadCap:conditions="Default.Windows8,Default.iOS,Default.Android">Swipe</i>  to continue.
+</li>
+                        </ol>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p class="noafter" MadCap:conditions="Default.iOS">
+                            <img src="../../Resources/Images/iOS Xamarin Screen Shots/Complaint.png" MadCap:conditions="Default.iOS" class="imagesizeios" />
+                        </p>
+                        <p class="Figuretest" style="text-align: left;" MadCap:autonum=" FIGURE 1-5: "><a name="Complaints_Panel"></a>Complaints Panel</p>
+                        <p>&#160;</p>
+                    </td>
+                    <td style="padding-left: 20px;">
+                        <p style="text-align: left;">Select Complaint, as shown in <MadCap:xref href="#Complaints_Panel" class="figures">FIGURE 1-5</MadCap:xref>:</p>
+                        <ol class="Steps">
+                            <li style="text-align: left;"><i>Tap</i> the <b>Complaints</b> that apply. A checked <MadCap:conditionalText MadCap:conditions="Default.iOS">circle</MadCap:conditionalText> indicates which complaints have been selected.</li>
+                            <li style="text-align: left;"> <i>Type</i> information into the <b>Medical</b> and <b>Complaint Comment</b> boxes. </li>
+                            <li style="text-align: left;"><i MadCap:conditions="Default.Windows8,Default.iOS,Default.Android">Swipe</i> to continue.
+</li>
+                        </ol>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p class="noafter" MadCap:conditions="Default.iOS">
+                            <img src="../../Resources/Images/iOS Xamarin Screen Shots/Injury.PNG" MadCap:conditions="Default.iOS" class="imagesizeios" />
+                        </p>
+                        <p class="Figuretest" style="text-align: left;" MadCap:autonum=" FIGURE 1-6: "><a name="Select_Injuries_Panel"></a>Select Injuries Panel</p>
+                        <p>&#160;</p>
+                    </td>
+                    <td style="font-style: normal;padding-left: 20px;">
+                        <p>Select Injury Location, as shown in <MadCap:xref href="#Select_Injuries_Panel" class="figures">FIGURE 1-6</MadCap:xref>:</p>
+                        <p style="font-weight: normal;"><i>Tap</i>   the <b>Edit</b> button and then: </p>
+                        <ol class="Steps">
+                            <li style="font-weight: normal;"><i>Tap</i> on a spot to place an X.</li>
+                            <li><i>Tap and Drag</i> diagonally to draw a box around larger area injuries.
+</li>
+                            <li>To correct a mistake, <i>tap</i> <b>Clear</b> to clear the screen and start over.</li>
+                            <li><i>Tap</i> <b>Done</b> when finished.</li>
+                            <li><i MadCap:conditions="Default.Windows8,Default.iOS,Default.Android">Swipe</i> to continue.
+</li>
+                        </ol>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p class="noafter" MadCap:conditions="Default.iOS">
+                            <img src="../../Resources/Images/iOS Xamarin Screen Shots/vitals.png" MadCap:conditions="Default.iOS" class="imagesizeios" />
+                        </p>
+                        <p class="Figuretest" style="text-align: left;" MadCap:autonum=" FIGURE 1-7: "><a name="Vitals_Panel"></a>Vitals Panel</p>
+                        <p>&#160;</p>
+                    </td>
+                    <td style="font-style: normal;font-weight: bold;padding-left: 20px;">
+                        <p style="font-weight: normal;">Record Vital Signs, as shown in <MadCap:xref href="#Vitals_Panel" class="figures">FIGURE 1-7</MadCap:xref>:</p>
+                        <ol class="Steps">
+                            <li style="font-weight: normal;"><span style="font-weight: normal;"><i>Enter</i> the patient’s <b>respiration</b>, <b>pulse</b>, <b>blood</b><b>pressure</b> and <b>temperature</b> using the numbers on the keypad.</span>
+                            </li>
+                            <li style="font-weight: normal;"><span style="font-weight: normal;"><i>Select</i> the patient’s mental status.</span>
+                            </li>
+                            <li style="font-weight: normal;font-style: normal;"><i>Tap</i> <b>Update</b> to quickly save current patient information.</li>
+                            <li style="font-weight: normal;font-style: normal;"><i>Tap</i> <b>Clear</b> to quickly enter new Vitals for the patient. </li>
+                            <li style="font-weight: normal;"><i MadCap:conditions="Default.Windows8,Default.iOS,Default.Android">Swipe</i> to continue.
+
+</li>
+                        </ol>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p class="noafter" MadCap:conditions="Default.iOS">
+                            <img src="../../Resources/Images/iOS Xamarin Screen Shots/treatment.png" MadCap:conditions="Default.iOS" class="imagesizeios" />
+                        </p>
+                        <p class="Figuretest" style="text-align: left;" MadCap:autonum=" FIGURE 1-8: "><a name="_Treatment_Panel"></a> Treatment Panel</p>
+                        <p>&#160;</p>
+                    </td>
+                    <td style="font-style: normal;font-weight: bold;padding-left: 20px;">
+                        <p style="font-weight: normal;">Select Patient Treatment, as shown in <MadCap:xref href="#_Treatment_Panel" class="figures">FIGURE 1-8</MadCap:xref>:</p>
+                        <ol class="Steps">
+                            <li style="font-weight: normal;"><span style="font-weight: normal;"><i>Tap</i> the applicable treatment options.</span> <span style="font-weight: normal;">A checked </span><MadCap:conditionalText MadCap:conditions="Default.iOS">circle</MadCap:conditionalText> <span style="font-weight: normal;">indicates which complaints have been selected.</span></li>
+                            <li style="font-weight: normal;"><span style="font-weight: normal;"><i>Type</i> information into the <b>Treatment Comment</b> box.</span>
+                            </li>
+                            <li style="font-weight: normal;"><i MadCap:conditions="Default.Windows8,Default.iOS,Default.Android" style="font-weight: normal;">Swipe</i> <span style="font-weight: normal;">to continue.
+</span></li>
+                        </ol>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p class="noafter" MadCap:conditions="Default.iOS">
+                            <img src="../../Resources/Images/iOS Xamarin Screen Shots/Information.PNG" MadCap:conditions="Default.iOS" class="imagesizeios" />
+                        </p>
+                        <p class="Figuretest" style="text-align: left;" MadCap:autonum=" FIGURE 1-9: "><a name="Patient_Information_Panel"></a>Patient Information Panel</p>
+                        <p>&#160;</p>
+                    </td>
+                    <td style="font-style: normal;font-weight: bold;padding-left: 20px;">
+                        <p style="font-weight: normal;">Enter Patient Information, as shown in <MadCap:xref href="#Patient_Information_Panel" class="figures">FIGURE 1-9</MadCap:xref>:</p>
+                        <ol class="Steps">
+                            <li style="font-weight: normal;">Manually <span style="font-weight: normal;"><i>enter</i> patient information.</span><p style="font-weight: normal;margin-bottom: 0;"><b>OR</b></p></li>
+                            <li style="font-weight: normal;"><i>Tap</i> the <b>Scan</b> button to populate patient's demographic data from the patient's driver's license. <i>Scan</i> the <b>3D barcode</b> on the driver's license. The demographic information will be pulled from the patients's driver's license and automatically entered into the Patient Information panel.</li>
+                            <li style="font-weight: normal;"><i MadCap:conditions="Default.Windows8,Default.iOS,Default.Android">Swipe</i> to continue.
+</li>
+                        </ol>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p class="noafter" MadCap:conditions="Default.iOS">
+                            <img src="../../Resources/Images/iOS Xamarin Screen Shots/Med History.PNG" MadCap:conditions="Default.iOS" class="imagesizeios" />
+                        </p>
+                        <p class="Figuretest" style="text-align: left;" MadCap:autonum=" FIGURE 1-10: "><a name="Medications_Panel"></a>Medical History</p>
+                        <p>&#160;</p>
+                    </td>
+                    <td style="font-style: normal;font-weight: bold;padding-left: 20px;">
+                        <p style="font-weight: normal;">Enter Medical History, as shown in <MadCap:xref href="#Medications_Panel" class="figures">FIGURE 1-10</MadCap:xref>:</p>
+                        <ol class="Steps">
+                            <li style="font-weight: normal;"><span style="font-weight: normal;"><i>Enter</i> the patients’s medical history.</span>
+                            </li>
+                            <li style="font-weight: normal;font-style: normal;"><i>Tap</i><b>None</b> above a text box to quickly indicate that the patient was asked and has no medical concerns of that type. Leaving a field blank indicates that the information is unknown.</li>
+                            <li style="font-weight: normal;"><i MadCap:conditions="Default.Windows8,Default.iOS,Default.Android">Swipe</i> to continue.
+
+
+</li>
+                        </ol>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p class="noafter" MadCap:conditions="Default.iOS">
+                            <img src="../../Resources/Images/iOS Xamarin Screen Shots/transport.png" MadCap:conditions="Default.iOS" class="imagesizeios" />
+                        </p>
+                        <p class="Figuretest" style="text-align: left;" MadCap:autonum=" FIGURE 1-11: "><a name="Transport_Panel"></a>Transport Panel</p>
+                        <p>&#160;</p>
+                    </td>
+                    <td style="font-style: normal;font-weight: bold;padding-left: 20px;">
+                        <p style="font-weight: normal;">Select Transport Options, as shown in <MadCap:xref href="#Transport_Panel" class="figures">FIGURE 1-11</MadCap:xref>:</p>
+                        <p style="font-weight: normal;">Transportation destinations, jurisdictions, and unit numbers are pre-designated fields set up by the HC Standard<sup>®</sup> Administrator.  </p>
+                        <ol class="Steps">
+                            <li style="font-weight: normal;"><i>Select</i> a <MadCap:conditionalText MadCap:conditions="Default.iOS,Default.Android" style="font-weight: bold;">Transport </MadCap:conditionalText><b>Destination</b> by <i>tapping</i> the arrow to select from the list.</li>
+                            <li style="font-weight: normal;"><i>Select</i> a <b>Jurisdiction</b> / <b>Unit</b> by <i>tapping</i> the arrow to select from the list.</li>
+                        </ol>
+                        <p MadCap:conditions="Default.Android,Default.iOS" style="font-weight: normal;">To perform a quick search, <i>enter</i> text in the search bar at the top of any <b>Transport</b> <b>Destination</b>, <b>Jurisdiction</b>/ <b>Unit</b> selection screen.</p>
+                        <ol class="Steps" MadCap:continue="true">
+                            <li style="font-weight: normal;">Current Departure and Arrival Times can be entered by <i>tapping</i> the <b>Now</b> button.  A specific date and time can be selected by <i>tapping</i> the box.</li>
+                            <li style="font-weight: normal;"><i>Tap</i> the <b>x</b> to the right of the Departure/Arrival Time boxes to clear and enter a different time.
+</li>
+                            <li style="font-weight: normal;"><i MadCap:conditions="Default.Windows8,Default.iOS,Default.Android">Swipe</i> to continue.
+</li>
+                        </ol>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p MadCap:conditions="Default.iOS" class="noafter">
+                            <img src="../../Resources/Images/iOS Xamarin Screen Shots/Other.png" MadCap:conditions="Default.iOS" class="imagesizeios" />
+                        </p>
+                        <p class="Figuretest" style="text-align: left;" MadCap:conditions="Default.Windows8,Default.iOS,Default.Android" MadCap:autonum=" FIGURE 1-12: "><a name="Other_Panel"></a>Other Panel</p>
+                    </td>
+                    <td style="font-style: normal;font-weight: normal;padding-left: 20px;">
+                        <p style="font-weight: normal;"><span style="font-weight: normal;">Using the Other Panel, as shown in <MadCap:xref href="#Other_Panel" class="figures">FIGURE 1-12</MadCap:xref>:</span>
+                        </p>
+                        <p>The HC Standard<sup>®</sup> Administrator has the ability to customize the <b>Other</b> panel.  Here the user can update all pertinent information.  This is the final screen in the patient record.</p>
+                        <ol class="Steps">
+                            <li><i MadCap:conditions="Default.Windows8,Default.iOS,Default.Android">Swipe</i>  to automatically save the patient record. </li>
+                        </ol>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <table style="width: 100%;border-spacing: 2px 2px;border-left-style: solid;border-left-width: 0px;border-left-color: #d3d3d3;border-right-style: solid;border-right-width: 0px;border-right-color: #d3d3d3;border-top-style: outset;border-top-width: 2px;border-top-color: #d3d3d3;border-bottom-style: outset;border-bottom-width: 1px;border-bottom-color: #d3d3d3;">
+            <col style="width: 77px;" />
+            <col />
+            <tbody>
+                <tr>
+                    <td class="Note">&#160;</td>
+                    <td class="callout">
+                        <p style="font-weight: normal;"><b>Note:</b> The input fields on this panel may vary as the HC Standard<sup>®</sup> Administrator adds or removes information.</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <table style="width: 100%;" class="mobile">
+            <col style="width: 30%;" />
+            <col style="width: 70%;" />
+            <tbody>
+                <tr>
+                    <td>
+                        <p class="noafter" MadCap:conditions="Default.iOS">
+                            <img src="../../Resources/Images/iOS Xamarin Screen Shots/save and.png" MadCap:conditions="Default.iOS" class="imagesizeios" />
+                        </p>
+                        <p class="Figuretest" style="text-align: left;" MadCap:autonum=" FIGURE 1-13: "><a name="Next_Steps_Panel"></a>Next Steps Panel</p>
+                    </td>
+                    <td style="font-style: normal;font-weight: normal;padding-left: 20px;">
+                        <p style="font-weight: normal;">Using the Save Patient? Prompt, as shown in <MadCap:xref href="#Next_Steps_Panel" class="figures">FIGURE 1-13</MadCap:xref>:</p>
+                        <p>The user will be asked to save the patient record after <i MadCap:conditions="Default.Windows8,Default.iOS,Default.Android">swiping</i> from the <b>Transport</b> or <b>Other</b> screen.</p>
+                        <p>  The patient record will <i>automatically</i> be saved and the user decides what action  to take next:</p>
+                        <ol>
+                            <li><b>Continue with this patient</b> - Saves and keeps current record open.</li>
+                            <li><b>Enter a new patient</b> - Saves the current patient and navigates to the Patient ID panel.</li>
+                            <li><b>Return to the main screen</b> - Saves the current patient and returns to the Main Screen.</li>
+                            <li><b>Cancel</b> - Does not save the record at this time and keeps the record open.</li>
+                        </ol>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <table style="width: 100%;border-spacing: 2px 2px;border-left-style: solid;border-left-width: 0px;border-left-color: #d3d3d3;border-right-style: solid;border-right-width: 0px;border-right-color: #d3d3d3;border-top-style: outset;border-top-width: 2px;border-top-color: #d3d3d3;border-bottom-style: outset;border-bottom-width: 1px;border-bottom-color: #d3d3d3;">
+            <col style="width: 77px;" />
+            <col />
+            <tbody>
+                <tr>
+                    <td class="Note">&#160;</td>
+                    <td class="callout" style="padding-top: 17px;padding-bottom: 17px;">
+                        <p style="font-style: normal;text-align: justify;"><b>Note: </b>It is not necessary to complete <i>every</i> panel for a patient record in order to save a patient's information.</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <h2 MadCap:conditions="Default.ALL" class="h2nobreak" MadCap:autonum="1 - 4: ">Additional Actions (While in a patient record)</h2>
+        <h3 MadCap:conditions="Default.combined" MadCap:autonum="1 - 4.1 ">Additional Actions (While in a patient record)</h3>
+        <table style="width: 100%;" class="mobile">
+            <col style="width: 30%;" />
+            <col style="width: 70%;" />
+            <tbody>
+                <tr>
+                    <td style="font-style: normal;font-weight: normal;">
+                        <p class="noafter" MadCap:conditions="Default.iOS">
+                            <img src="../../Resources/Images/iOS Xamarin Screen Shots/Ind Menu.PNG" MadCap:conditions="Default.iOS" class="imagesizeios" />
+                        </p>
+                        <p class="Figuretest" MadCap:autonum=" FIGURE 1-14: "><a name="Patient_Record_Menu"></a>Patient Record Menu</p>
+                        <p>&#160;</p>
+                    </td>
+                    <td style="padding-left: 20px;">
+                        <p>The <b>Menu</b> button allows users to perform the following additional functions within a patient record, as shown in <MadCap:xref href="#Patient_Record_Menu" class="figures">FIGURE 1-14</MadCap:xref>:</p>
+                        <ol>
+                            <li MadCap:conditions="Default.Windows8,Default.iOS,Default.Android"><b>Scan</b> – Save the current patient record and immediately use the camera to scan another barcode.</li>
+                            <li><b>Save</b>- Captures a snapshot of the patient and continue working with the patient record.</li>
+                            <li><b>Save + New</b> - Save the current record and start a new one.</li>
+                            <li><b>Save + Quit</b> – Save and exit the current record, and return to the Patient Tracking main screen</li>
+                            <li><b>Close Patient</b> – Discard the current record and return to the Patient Tracking main screen.</li>
+                            <li><b>Print</b> – Print the current patient record to a connected Bluetooth Printer.</li>
+                            <li><b>Summary</b> – View the current patient’s main details.</li>
+                            <li><b>Audio</b> – Displays any audio files associated with the record.</li>
+                            <li><b>Photos</b> – Displays any photos associated with the record.</li>
+                            <li><b>Videos</b> – Displays any videos associated with the record.</li>
+                        </ol>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <table style="width: 100%;" MadCap:conditions="Default.Windows8,Default.iOS,Default.Android" class="mobile">
+            <col style="width: 30%;" />
+            <col style="width: 70%;" />
+            <tbody>
+                <tr>
+                    <td>
+                        <p class="noafter" MadCap:conditions="Default.iOS">
+                            <img src="../../Resources/Images/iOS Xamarin Screen Shots/Photo Gallery.PNG" MadCap:conditions="Default.iOS" class="imagesizeios" />
+                        </p>
+                        <p class="Figuretest" style="text-align: left;" MadCap:autonum=" FIGURE 1-15: "><a name="Camera_Panel"></a>Camera Panel</p>
+                    </td>
+                    <td style="font-style: normal;font-weight: normal;padding-left: 20px;">
+                        <h2 MadCap:conditions="Default.ALL" class="h2nobreak" MadCap:autonum="1 - 5: ">Capture Photo and Video</h2>
+                        <h3 MadCap:conditions="Default.combined" MadCap:autonum="1 - 5.1 ">Capture Photo and Video</h3>
+                        <p>This feature is only available in the <i>Individual</i> triage mode and not in <i>Group</i> Triage. To capture photos or videos, as shown in <MadCap:xref href="#Camera_Panel" class="figures">FIGURE 1-15</MadCap:xref>:</p>
+                        <ol class="Steps">
+                            <li><i>Tap</i> the <b>Photo</b> tab  to enter photo mode or <i>tap</i> the <b>Video</b> tab to enter video mode.</li>
+                            <li><i>Tap</i> the <b>white</b> button to take a picture or start and stop a recording. </li>
+                            <li>
+                                <MadCap:conditionalText MadCap:conditions="Default.iOS"><i>Tap </i><b>&lt; Back</b> icon to go back to the previous screen.</MadCap:conditionalText>
+                            </li>
+                        </ol>
+                        <p>Videos can be up to 60 seconds in length and can be saved for review.  Video does take a large amount of space on the device and requires more time to sync. Multiple video clips per patient are allowed.</p>
+                        <p style="text-decoration: none;">To delete a photo or video, as shown in <MadCap:xref href="#Delete_Confirmation" class="figures">FIGURE 1-16</MadCap:xref>:</p>
+                        <ol>
+                            <li>
+                                <p><i>Tap and hold</i> on a video or picture and then <i>tap</i> <MadCap:conditionalText MadCap:conditions="Default.iOS"><b>Yes</b> on the prompt that appears</MadCap:conditionalText>.</p>
+                            </li>
+                        </ol>
+                        <p MadCap:conditions="Default.iOS" class="noafter">
+                            <img src="../../Resources/Images/2014-10-22 IMG_0004.PNG" style="width: 120px;height: 51px;" MadCap:conditions="Default.iOS" />
+                        </p>
+                        <p class="Figuretest" MadCap:autonum=" FIGURE 1-16: "><a name="Delete_Confirmation"></a>Delete Confirmation</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <h2 MadCap:conditions="Default.ALL" class="h2nobreak" MadCap:autonum="1 - 6: ">Capturing Audio Notes</h2>
+        <h3 MadCap:conditions="Default.combined" MadCap:autonum="1 - 6.1 ">Capturing Audio Notes</h3>
+        <p>On any panel in the PTS Application, audio can be added to supplement the text information.  If the user is on a specific section of the application and does not have time to type into the device, the user may capture audio notes that will be associated with that specific page or panel in PTS.</p>
+        <table style="width: 100%;" class="mobile">
+            <col style="width: 30%;" />
+            <col style="width: 70%;" />
+            <tbody>
+                <tr>
+                    <td style="font-style: normal;font-weight: normal;">
+                        <p class="noafter" MadCap:conditions="Default.iOS">
+                            <img src="../../Resources/Images/iOS Xamarin Screen Shots/audio.png" MadCap:conditions="Default.iOS" class="imagesizeios" />
+                        </p>
+                        <p class="Figuretest" MadCap:autonum=" FIGURE 1-17: "><a name="Audio_Notes_Panel"></a>Audio Notes Panel</p>
+                    </td>
+                    <td style="padding-left: 20px;">
+                        <p style="font-weight: normal;text-decoration: none;">To create a recording, as shown in <MadCap:xref href="#Audio_Notes_Panel" class="figures">FIGURE 1-17</MadCap:xref>:</p>
+                        <ol class="Steps">
+                            <li><i>Tap</i> on the <b>RECORD</b> button and begin speaking into the unit. <i>Tap</i> on the <b>RECORD</b> button a second time to stop recording.</li>
+                        </ol>
+                        <p style="text-decoration: none;">If the user wishes to play back the notes recorded:</p>
+                        <ol class="Steps" MadCap:continue="true">
+                            <li><i>Tap</i> the <b>play</b> button for the recording.</li>
+                        </ol>
+                        <p style="font-style: normal;font-weight: normal;text-decoration: none;">When complete with audio recordings:</p>
+                        <ol class="Steps" MadCap:continue="true">
+                            <li>
+                                <MadCap:conditionalText MadCap:conditions="Default.iOS"><i>Tap </i><b>&lt; Back</b> icon to go back to the previous screen.</MadCap:conditionalText>
+                            </li>
+                        </ol>
+                        <p><span style="text-decoration: none;">Delete a recording by </span>
+                            <MadCap:conditionalText MadCap:conditions="Default.iOS"><i>swiping</i> to the left over a recording title then <i>tapping</i> the red circle.</MadCap:conditionalText>
+                        </p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <h2 MadCap:conditions="Default.ALL" class="h2nobreak" MadCap:autonum="1 - 7: ">Recalling a Previously Entered Patient Record</h2>
+        <h3 MadCap:conditions="Default.combined" MadCap:autonum="1 - 7.1 ">Recalling a Previously Entered Patient Record</h3>
+        <p style="text-decoration: none;">Go to the Main Patient Tracking screen:</p>
+        <ul>
+            <li><i>Tap </i><b>Individual</b> and manually <i>type</i> the patient or barcode number; or simply <i>scan</i> the barcode of a previously entered patient record.</li>
+        </ul>
+        <p>If the Patient ID was found on the HC Standard<sup>®</sup> server, the patient record will appear and updated information can be entered.</p>
+    </body>
+</html>
