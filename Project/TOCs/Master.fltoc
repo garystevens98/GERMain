@@ -1116,7 +1116,7 @@
   </TocEntry>
   <TocEntry
     Title="HC Patient Tracking for iOS"
-    conditions="Default.iOS,Default.NEW Android 1_3,Default.NEW iOS 1_3"
+    conditions="Default.iOS,Default.NEW Patient Tracking"
     ReplaceMergeNode="false"
     BreakType="none"
     PageNumberReset="reset"
@@ -1211,7 +1211,7 @@
     ChapterNumber="1"
     SectionNumberReset="continue"
     VolumeNumberReset="same"
-    conditions="Default.Android,Default.NEW Android 1_3,Default.NEW iOS 1_3">
+    conditions="Default.Android,Default.NEW Patient Tracking">
     <TocEntry
       Title="[%=System.LinkedFile%]"
       Link="/Content/Patient Tracking System/PTS Cover Page Android.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"

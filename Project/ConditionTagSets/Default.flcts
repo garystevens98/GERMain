@@ -34,7 +34,7 @@
     Comment="" />
   <ConditionTag
     BackgroundColor="#ff00ff"
-    Name="NEW iOS 1_3"
+    Name="CONT iOS 1_3"
     Comment=""
     OriginalName="NEW iOS 1_3" />
   <ConditionTag
@@ -49,7 +49,7 @@
     OriginalName="Windows8" />
   <ConditionTag
     BackgroundColor="#fa8072"
-    Name="NEW Android 1_3"
+    Name="CON Android 1_3"
     Comment=""
     OriginalName="NEW Android 1_3" />
   <ConditionTag
@@ -94,10 +94,10 @@
     Comment="" />
   <ConditionTag
     BackgroundColor="#ff0004"
-    Name="NEW Print Only"
+    Name="TOC Print Only"
     Comment="" />
   <ConditionTag
-    Name="NEW Web Only"
+    Name="TOC Web Only"
     Comment=""
     BackgroundColor="#1000ff" />
   <ConditionTag
@@ -111,20 +111,25 @@
     OriginalName="NEW Retired" />
   <ConditionTag
     BackgroundColor="#fffb00"
-    Name="NEW iOS 2_0"
+    Name="CONT iOS 2_0"
     Comment=""
     OriginalName="NEW iOS 2_0" />
   <ConditionTag
-    Name="NEW Android 2_0"
+    Name="CON Android 2_0"
     Comment=""
     BackgroundColor="#00ffa5"
     OriginalName="NEW Android 2_0" />
   <ConditionTag
     BackgroundColor="#8b4513"
-    Name="NEW HC 4_0"
+    Name="CON HC 4_0"
     Comment="" />
   <ConditionTag
     BackgroundColor="#ff00ff"
-    Name="NEW HC 4_6"
+    Name="CON HC 4_6"
     Comment="" />
+  <ConditionTag
+    BackgroundColor="#2f4f4f"
+    Name="TOC Patient Tracking"
+    Comment=""
+    OriginalName="NEW Patient Tracking" />
 </CatapultConditionTagSet>
