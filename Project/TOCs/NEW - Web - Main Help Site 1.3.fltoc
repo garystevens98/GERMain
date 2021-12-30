@@ -796,8 +796,8 @@
     conditions="Default.NEW Retired">
     <TocEntry
       Title="[%=System.LinkedFile%]"
-      Link="/Content/Patient Tracking System/PTS Cover Page Mobile.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-      conditions="Default.NEW Print Only" />
+      Link="/Content/Patient Tracking System/PTS Cover Page Android.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      conditions="Default.NEW Print Only"></TocEntry>
     <TocEntry
       Title="Cover Page"
       Link="/Content/Community Paramedicine/Cover Page-cpm.htm"
@@ -870,10 +870,9 @@
     StartSection="false"
     ComputeToc="false">
     <TocEntry
-      Title="Cover Page"
-      Link="/Content/Community Paramedicine/Cover Page-cpm.htm"
-      conditions="Default.PrintOnly"
-      StartSection="false"></TocEntry>
+      Title="[%=System.LinkedFile%]"
+      Link="/Content/Patient Tracking System/PTS Cover Page Android.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      conditions="Default.NEW Print Only" />
     <TocEntry
       Title="HC Standard® Administrator Manual"
       Link="/Content/Patient Tracking System/Acknowledgements.htm"
@@ -968,7 +967,7 @@
     conditions="Default.Android">
     <TocEntry
       Title="[%=System.LinkedFile%]"
-      Link="/Content/Patient Tracking System/PTS Cover Page Mobile.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      Link="/Content/Patient Tracking System/PTS Cover Page Android.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
       conditions="Default.NEW Print Only" />
     <TocEntry
       Title="HC Standard® Administrator Manual"
@@ -1054,7 +1053,7 @@
     VolumeNumberReset="same">
     <TocEntry
       Title="[%=System.LinkedFile%]"
-      Link="/Content/Patient Tracking System/PTS Cover Page Mobile.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      Link="/Content/Patient Tracking System/PTS Cover Page iSO.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
       conditions="Default.NEW Print Only" />
     <TocEntry
       Title="HC Standard® Administrator Manual"

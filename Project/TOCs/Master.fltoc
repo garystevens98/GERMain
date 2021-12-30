@@ -1128,7 +1128,7 @@
     VolumeNumberReset="same">
     <TocEntry
       Title="[%=System.LinkedFile%]"
-      Link="/Content/Patient Tracking System/PTS Cover Page Mobile.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      Link="/Content/Patient Tracking System/PTS Cover Page iSO.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
       conditions="Default.NEW Print Only"></TocEntry>
     <TocEntry
       Title="HC Standard® Administrator Manual"
@@ -1214,7 +1214,7 @@
     conditions="Default.Android">
     <TocEntry
       Title="[%=System.LinkedFile%]"
-      Link="/Content/Patient Tracking System/PTS Cover Page Mobile.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      Link="/Content/Patient Tracking System/PTS Cover Page Android.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
       conditions="Default.NEW Print Only"></TocEntry>
     <TocEntry
       Title="HC Standard® Administrator Manual"
@@ -1293,7 +1293,7 @@
     StartSection="false">
     <TocEntry
       Title="[%=System.LinkedFile%]"
-      Link="/Content/Patient Tracking System/PTS Cover Page Mobile.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      Link="/Content/Patient Tracking System/PTS Cover Page Android.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
       conditions="Default.NEW Print Only"></TocEntry>
     <TocEntry
       Title="HC Standard® Administrator Manual"
@@ -1382,7 +1382,7 @@
     conditions="Default.Windows8">
     <TocEntry
       Title="[%=System.LinkedFile%]"
-      Link="/Content/Patient Tracking System/PTS Cover Page Mobile.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      Link="/Content/Patient Tracking System/PTS Cover Page iSO.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
       conditions="Default.NEW Print Only" />
     <TocEntry
       Title="HC Standard® Administrator Manual"
