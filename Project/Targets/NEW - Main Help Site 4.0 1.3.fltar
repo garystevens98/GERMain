@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="New Target"
+  Type="WebHelp2"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  DefaultUrl="/Content/Index.htm"
+  Skin="/Project/Skins/Copy of DefaultHTML5.flskn"
+  GenerateWebSafeImages="false"
+  ServerEnabled="false"
+  MasterPage="/Content/Resources/MasterPages/NewPage.flmsp"
+  Medium="non-print"
+  PreCompileScaledImages="false"
+  PartialWordSearch="true"
+  SearchDatabaseChunkSize="100000"
+  PreMergeSearchDatabase="false"
+  MasterToc="/Project/TOCs/NEW - Web - Main Help Site 1.3.fltoc"
+  ConditionTagExpression="include[Default.Admin or Default.ALL or Default.Analytics or Default.CHATS or Default.CPM or Default.Generic or Default.HAVBED or Default.HC or Default.IC or &quot;Default.NEW Android 1_3&quot; or &quot;Default.NEW HC 4_0&quot; or &quot;Default.NEW HC User Mgmnt&quot; or &quot;Default.NEW iOS 1_3&quot; or &quot;Default.NEW Web Only&quot; or &quot;Default.Patient Placement&quot; or &quot;Default.Shelter Tracking&quot; or Default.WebOnly or Default.Android or Default.iOS], exclude[Default.combined or Default.EWRAP or Default.MIEMSS2 or &quot;Default.NEW Android 2_0&quot; or &quot;Default.NEW HC 4_6&quot; or &quot;Default.NEW iOS 2_0&quot; or &quot;Default.NEW Print Only&quot; or &quot;Default.NEW Retired&quot; or &quot;Default.Perk Tracker&quot; or Default.PrintOnly or Default.SubAdmin or Default.Windows8 or Default.WM]">
+  <PrintedOutput
+    CollapseMargins="true" />
+  <Destinations>
+    <Destination
+      Link="/Project/Destinations/MyDestination.fldes" />
+  </Destinations>
+  <Variables>
+    <Variable
+      Name="MyVariables/HC Version 4.6">Version 4.6</Variable>
+  </Variables>
+  <MetaTags
+    Enabled="false" />
+</CatapultTarget>
