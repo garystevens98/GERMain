@@ -80,13 +80,6 @@
     </TocEntry>
   </TocEntry>
   <TocEntry
-    Title="What Is New In HC Standard 4.4?"
-    Link="/Content/Whatsnew.htm"
-    SectionNumberReset="continue"
-    VolumeNumberReset="same"
-    ChapterNumberReset="continue"
-    conditions="Default.WebOnly"></TocEntry>
-  <TocEntry
     Title="HC Standard"
     conditions="Default.HC"
     ChapterNumberReset="reset"
@@ -627,6 +620,13 @@
       Title="HC Admin Training Videos"
       Link="/Content/Videos/HC Admin/Videos.htm"
       conditions="Default.WebOnly" />
+    <TocEntry
+      Title="What Is New In HC Standard 4.4?"
+      Link="/Content/Whatsnew.htm"
+      SectionNumberReset="continue"
+      VolumeNumberReset="same"
+      ChapterNumberReset="continue"
+      conditions="Default.WebOnly"></TocEntry>
   </TocEntry>
   <TocEntry
     Title="HC Sub Admin"
@@ -1116,7 +1116,7 @@
   </TocEntry>
   <TocEntry
     Title="HC Patient Tracking for iOS"
-    conditions="Default.iOS"
+    conditions="Default.iOS,Default.NEW Android 1_3,Default.NEW iOS 1_3"
     ReplaceMergeNode="false"
     BreakType="none"
     PageNumberReset="reset"
@@ -1211,7 +1211,7 @@
     ChapterNumber="1"
     SectionNumberReset="continue"
     VolumeNumberReset="same"
-    conditions="Default.Android">
+    conditions="Default.Android,Default.NEW Android 1_3,Default.NEW iOS 1_3">
     <TocEntry
       Title="[%=System.LinkedFile%]"
       Link="/Content/Patient Tracking System/PTS Cover Page Android.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
