@@ -799,13 +799,8 @@
       Link="/Content/Patient Tracking System/PTS Cover Page Android.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
       conditions="Default.TOC Print Only"></TocEntry>
     <TocEntry
-      Title="Cover Page"
-      Link="/Content/Community Paramedicine/Cover Page-cpm.htm"
-      conditions="Default.PrintOnly"
-      StartSection="false"></TocEntry>
-    <TocEntry
-      Title="HC Standard® Administrator Manual"
-      Link="/Content/Patient Tracking System/Acknowledgements.htm"
+      Title="[%=System.LinkedFile%]"
+      Link="/Content/Legal &amp; License Information.htm"
       conditions="Default.PrintOnly"
       StartSection="false" />
     <TocEntry
@@ -874,8 +869,8 @@
       Link="/Content/Patient Tracking System/PTS Cover Page Android.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
       conditions="Default.TOC Print Only" />
     <TocEntry
-      Title="HC Standard® Administrator Manual"
-      Link="/Content/Patient Tracking System/Acknowledgements.htm"
+      Title="[%=System.LinkedFile%]"
+      Link="/Content/Legal &amp; License Information.htm"
       conditions="Default.PrintOnly"
       StartSection="false" />
     <TocEntry
@@ -970,8 +965,8 @@
       Link="/Content/Patient Tracking System/PTS Cover Page Android.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
       conditions="Default.TOC Print Only" />
     <TocEntry
-      Title="HC Standard® Administrator Manual"
-      Link="/Content/Patient Tracking System/Acknowledgements.htm"
+      Title="[%=System.LinkedFile%]"
+      Link="/Content/Legal &amp; License Information.htm"
       conditions="Default.PrintOnly"
       StartSection="false" />
     <TocEntry
@@ -1056,8 +1051,8 @@
       Link="/Content/Patient Tracking System/PTS Cover Page iSO.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
       conditions="Default.TOC Print Only" />
     <TocEntry
-      Title="HC Standard® Administrator Manual"
-      Link="/Content/Patient Tracking System/Acknowledgements.htm"
+      Title="[%=System.LinkedFile%]"
+      Link="/Content/Legal &amp; License Information.htm"
       conditions="Default.PrintOnly"
       StartSection="false" />
     <TocEntry
@@ -1143,8 +1138,8 @@
       conditions="Default.PrintOnly"
       StartSection="false" />
     <TocEntry
-      Title="HC Standard® Administrator Manual"
-      Link="/Content/Community Paramedicine/Android/Acknowledgements-cpm.htm"
+      Title="[%=System.LinkedFile%]"
+      Link="/Content/Legal &amp; License Information.htm"
       conditions="Default.PrintOnly"
       StartSection="false" />
     <TocEntry
@@ -1217,8 +1212,8 @@
       conditions="Default.PrintOnly"
       StartSection="false" />
     <TocEntry
-      Title="HC Standard® Administrator Manual"
-      Link="/Content/Community Paramedicine/Acknowledgements-cpm.htm"
+      Title="[%=System.LinkedFile%]"
+      Link="/Content/Legal &amp; License Information.htm"
       conditions="Default.PrintOnly"
       StartSection="false" />
     <TocEntry
@@ -1560,7 +1555,7 @@
       BreakType="chapter" />
     <TocEntry
       Title="Legal &amp; License Information"
-      Link="/Content/Shelter Availability/Legal &amp; License Information.htm"
+      Link="/Content/Legal &amp; License Information.htm"
       VolumeNumberReset="same"
       SectionNumberReset="continue"
       ChapterNumberReset="continue"

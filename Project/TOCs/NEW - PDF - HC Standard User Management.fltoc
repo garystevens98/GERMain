@@ -23,7 +23,7 @@
       ChapterNumber="" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/Shelter Availability/Legal &amp; License Information.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      Link="/Content/Legal &amp; License Information.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
       BreakType="pageLayout"
       StartSection="false"
       PageLayout="/Content/Resources/PageLayouts/Default.flpgl" />

@@ -971,10 +971,10 @@
       Title="[%=System.LinkedFile%]"
       Link="/Content/Patient Tracking System/PTS Cover Page iSO.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
       StartSection="false"
-      conditions="Default.NEW Print Only" />
+      conditions="Default.NEW Print Only"></TocEntry>
     <TocEntry
-      Title="HC Standard® Administrator Manual"
-      Link="/Content/Patient Tracking System/Acknowledgements.htm"
+      Title="[%=System.LinkedFile%]"
+      Link="/Content/Legal &amp; License Information.htm"
       conditions="Default.PrintOnly"
       StartSection="false" />
     <TocEntry
@@ -1056,8 +1056,8 @@
       ComputeToc="false"
       ReplaceMergeNode="false" />
     <TocEntry
-      Title="HC Standard® Administrator Manual"
-      Link="/Content/Patient Tracking System/Acknowledgements.htm"
+      Title="[%=System.LinkedFile%]"
+      Link="/Content/Legal &amp; License Information.htm"
       conditions="Default.PrintOnly"
       StartSection="false" />
     <TocEntry
@@ -1132,8 +1132,8 @@
       ComputeToc="false"
       ReplaceMergeNode="false" />
     <TocEntry
-      Title="HC Standard® Administrator Manual"
-      Link="/Content/Patient Tracking System/Acknowledgements.htm"
+      Title="[%=System.LinkedFile%]"
+      Link="/Content/Legal &amp; License Information.htm"
       conditions="Default.PrintOnly"
       StartSection="false" />
     <TocEntry

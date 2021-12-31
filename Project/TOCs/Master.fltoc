@@ -1134,8 +1134,8 @@
         Link="/Content/Patient Tracking System/PTS Cover Page iSO.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
         conditions="Default.NEW Print Only,Default.TOC Print Only"></TocEntry>
       <TocEntry
-        Title="HC Standard® Administrator Manual"
-        Link="/Content/Patient Tracking System/Acknowledgements.htm"
+        Title="[%=System.LinkedFile%]"
+        Link="/Content/Legal &amp; License Information.htm"
         conditions="Default.PrintOnly"
         StartSection="false" />
       <TocEntry
@@ -1220,8 +1220,8 @@
         Link="/Content/Patient Tracking System/PTS Cover Page iSO.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
         conditions="Default.NEW Print Only,Default.TOC Print Only"></TocEntry>
       <TocEntry
-        Title="HC Standard® Administrator Manual"
-        Link="/Content/Patient Tracking System/Acknowledgements.htm"
+        Title="[%=System.LinkedFile%]"
+        Link="/Content/Legal &amp; License Information.htm"
         conditions="Default.PrintOnly"
         StartSection="false" />
       <TocEntry
@@ -1306,8 +1306,8 @@
         Link="/Content/Patient Tracking System/PTS Cover Page Android.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
         conditions="Default.NEW Print Only,Default.TOC Print Only"></TocEntry>
       <TocEntry
-        Title="HC Standard® Administrator Manual"
-        Link="/Content/Patient Tracking System/Acknowledgements.htm"
+        Title="[%=System.LinkedFile%]"
+        Link="/Content/Legal &amp; License Information.htm"
         conditions="Default.PrintOnly"
         StartSection="false" />
       <TocEntry
@@ -1392,8 +1392,8 @@
         Link="/Content/Patient Tracking System/PTS Cover Page Android.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
         conditions="Default.NEW Print Only,Default.TOC Print Only"></TocEntry>
       <TocEntry
-        Title="HC Standard® Administrator Manual"
-        Link="/Content/Patient Tracking System/Acknowledgements.htm"
+        Title="[%=System.LinkedFile%]"
+        Link="/Content/Legal &amp; License Information.htm"
         conditions="Default.PrintOnly"
         StartSection="false" />
       <TocEntry
@@ -1471,8 +1471,8 @@
         Link="/Content/Patient Tracking System/PTS Cover Page Android.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
         conditions="Default.NEW Print Only"></TocEntry>
       <TocEntry
-        Title="HC Standard® Administrator Manual"
-        Link="/Content/Patient Tracking System/Acknowledgements.htm"
+        Title="[%=System.LinkedFile%]"
+        Link="/Content/Legal &amp; License Information.htm"
         conditions="Default.PrintOnly"
         StartSection="false" />
       <TocEntry
@@ -1560,8 +1560,8 @@
         Link="/Content/Patient Tracking System/PTS Cover Page iSO.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
         conditions="Default.NEW Print Only" />
       <TocEntry
-        Title="HC Standard® Administrator Manual"
-        Link="/Content/Patient Tracking System/Acknowledgements.htm"
+        Title="[%=System.LinkedFile%]"
+        Link="/Content/Legal &amp; License Information.htm"
         conditions="Default.PrintOnly"
         StartSection="false" />
       <TocEntry
@@ -1908,7 +1908,7 @@
       BreakType="chapter" />
     <TocEntry
       Title="Legal &amp; License Information"
-      Link="/Content/Shelter Availability/Legal &amp; License Information.htm"
+      Link="/Content/Legal &amp; License Information.htm"
       VolumeNumberReset="same"
       SectionNumberReset="continue"
       ChapterNumberReset="continue"
