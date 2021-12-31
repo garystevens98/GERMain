@@ -132,20 +132,10 @@
     Comment=""
     OriginalName="CON HC 4_6" />
   <ConditionTag
-    BackgroundColor="#2f4f4f"
+    BackgroundColor="#fffb00"
     Name="TOC Patient Tracking"
     Comment=""
     OriginalName="TOC Patient Tracking" />
-  <ConditionTag
-    BackgroundColor="#9acd32"
-    Name="TOC Android"
-    Comment=""
-    OriginalName="TOC Android" />
-  <ConditionTag
-    BackgroundColor="#fa8072"
-    Name="TOC iSO"
-    Comment=""
-    OriginalName="TOC iSO" />
   <ConditionTag
     BackgroundColor="#ff0000"
     Name="TOC Android 1_3"
