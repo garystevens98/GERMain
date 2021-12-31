@@ -36,7 +36,7 @@
     BackgroundColor="#ff00ff"
     Name="CONT iOS 1_3"
     Comment=""
-    OriginalName="NEW iOS 1_3" />
+    OriginalName="CONT iOS 1_3" />
   <ConditionTag
     BackgroundColor="#2f4f4f"
     Name="WM"
@@ -51,7 +51,7 @@
     BackgroundColor="#fa8072"
     Name="CON Android 1_3"
     Comment=""
-    OriginalName="NEW Android 1_3" />
+    OriginalName="CON Android 1_3" />
   <ConditionTag
     BackgroundColor="#ff0000"
     Name="MIEMSS2"
@@ -95,11 +95,13 @@
   <ConditionTag
     BackgroundColor="#ff0004"
     Name="TOC Print Only"
-    Comment="" />
+    Comment=""
+    OriginalName="TOC Print Only" />
   <ConditionTag
     Name="TOC Web Only"
     Comment=""
-    BackgroundColor="#1000ff" />
+    BackgroundColor="#1000ff"
+    OriginalName="TOC Web Only" />
   <ConditionTag
     BackgroundColor="#00ff00"
     Name="NEW HC User Mgmnt"
@@ -113,23 +115,51 @@
     BackgroundColor="#fffb00"
     Name="CONT iOS 2_0"
     Comment=""
-    OriginalName="NEW iOS 2_0" />
+    OriginalName="CONT iOS 2_0" />
   <ConditionTag
     Name="CON Android 2_0"
     Comment=""
     BackgroundColor="#00ffa5"
-    OriginalName="NEW Android 2_0" />
+    OriginalName="CON Android 2_0" />
   <ConditionTag
     BackgroundColor="#8b4513"
     Name="CON HC 4_0"
-    Comment="" />
+    Comment=""
+    OriginalName="CON HC 4_0" />
   <ConditionTag
     BackgroundColor="#ff00ff"
     Name="CON HC 4_6"
-    Comment="" />
+    Comment=""
+    OriginalName="CON HC 4_6" />
   <ConditionTag
     BackgroundColor="#2f4f4f"
     Name="TOC Patient Tracking"
     Comment=""
-    OriginalName="NEW Patient Tracking" />
+    OriginalName="TOC Patient Tracking" />
+  <ConditionTag
+    BackgroundColor="#9acd32"
+    Name="TOC Android"
+    Comment=""
+    OriginalName="TOC Android" />
+  <ConditionTag
+    BackgroundColor="#fa8072"
+    Name="TOC iSO"
+    Comment=""
+    OriginalName="TOC iSO" />
+  <ConditionTag
+    BackgroundColor="#ff0000"
+    Name="TOC Android 1_3"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#0000ff"
+    Name="TOC Android 2_0"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#008000"
+    Name="TOC iSO 1_3"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#ffa500"
+    Name="TOC iSO 2_0"
+    Comment="" />
 </CatapultConditionTagSet>
