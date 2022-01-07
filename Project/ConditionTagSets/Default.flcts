@@ -183,5 +183,10 @@
   <ConditionTag
     BackgroundColor="#b1c056"
     Name="TOC Patient Placement"
+    Comment=""
+    OriginalName="TOC Patient Placement" />
+  <ConditionTag
+    BackgroundColor="#000000"
+    Name="CON Retired"
     Comment="" />
 </CatapultConditionTagSet>
