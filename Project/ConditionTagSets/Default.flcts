@@ -153,7 +153,7 @@
     Name="TOC iSO 2_0"
     Comment="" />
   <ConditionTag
-    BackgroundColor="#2f4f4f"
+    BackgroundColor="#7582cd"
     Name="CON Android"
     Comment=""
     OriginalName="CON Android" />
@@ -173,5 +173,15 @@
   <ConditionTag
     BackgroundColor="#00bfff"
     Name="TOC Android"
+    Comment=""
+    OriginalName="TOC Android" />
+  <ConditionTag
+    BackgroundColor="#00ff00"
+    Name="TOC iSO"
+    Comment=""
+    OriginalName="TOC iSO" />
+  <ConditionTag
+    BackgroundColor="#b1c056"
+    Name="TOC Patient Placement"
     Comment="" />
 </CatapultConditionTagSet>
