@@ -1185,7 +1185,8 @@
         PageNumber="1"
         PageNumberReset="continue"
         StartSection="false"
-        PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl" />
+        PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
+        conditions="Default.TOC iSO 1_3" />
       <TocEntry
         Title="Working with Groups of Patients"
         Link="/Content/Patient Tracking System/iOS_1.3/Working with Groups_1.3.htm"
@@ -1197,14 +1198,16 @@
         PageNumberReset="continue"
         ComputeToc="false"
         ReplaceMergeNode="false"
-        PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl" />
+        PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
+        conditions="Default.TOC iSO 1_3" />
       <TocEntry
         Title="Application Settings"
         Link="/Content/Patient Tracking System/iOS_1.3/Settings_1.3.htm"
         BreakType="chapter"
         StartSection="false"
         PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
-        PageNumberReset="continue" />
+        PageNumberReset="continue"
+        conditions="Default.TOC iSO 1_3" />
       <TocEntry
         Title="HC PTS For iOS Training Videos"
         Link="/Content/Videos/iOS PTS/Videos.htm"
@@ -1263,7 +1266,8 @@
         PageNumber="1"
         PageNumberReset="continue"
         StartSection="false"
-        PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl" />
+        PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
+        conditions="Default.TOC iSO 2_0" />
       <TocEntry
         Title="Working with Individual Patients"
         Link="/Content/Patient Tracking System/iOS_2.0/Working with Patients_iSO_2.0.htm"
@@ -1271,7 +1275,8 @@
         PageNumber="1"
         PageNumberReset="continue"
         StartSection="false"
-        PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl" />
+        PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
+        conditions="Default.TOC iSO 2_0" />
       <TocEntry
         Title="Working with Groups of Patients"
         Link="/Content/Patient Tracking System/iOS_2.0/Working with Groups_iSO_2.0.htm"
@@ -1283,14 +1288,16 @@
         PageNumberReset="continue"
         ComputeToc="false"
         ReplaceMergeNode="false"
-        PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl" />
+        PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
+        conditions="Default.TOC iSO 2_0" />
       <TocEntry
         Title="Application Settings"
         Link="/Content/Patient Tracking System/iOS_2.0/Settings_iSO_2.0.htm"
         BreakType="chapter"
         StartSection="false"
         PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
-        PageNumberReset="continue" />
+        PageNumberReset="continue"
+        conditions="Default.TOC iSO 2_0" />
       <TocEntry
         Title="HC PTS For iOS Training Videos"
         Link="/Content/Videos/iOS PTS/Videos.htm"
@@ -1311,7 +1318,7 @@
       <TocEntry
         Title="[%=System.LinkedFile%]"
         Link="/Content/Patient Tracking System/PTS Cover Page Android.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-        conditions="Default.NEW Print Only,Default.TOC Print Only"></TocEntry>
+        conditions="Default.NEW Print Only,Default.TOC Print Only,Default.TOC Android 1_3"></TocEntry>
       <TocEntry
         Title="[%=System.LinkedFile%]"
         Link="/Content/Legal &amp; License Information.htm"
@@ -1349,7 +1356,8 @@
         PageNumber="1"
         PageNumberReset="continue"
         StartSection="false"
-        PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl" />
+        PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
+        conditions="Default.TOC Android 1_3" />
       <TocEntry
         Title="Working with Individual Patients"
         Link="/Content/Patient Tracking System/Android_1.3/Working with Patients_1.3.htm"
@@ -1357,7 +1365,8 @@
         PageNumber="1"
         PageNumberReset="continue"
         StartSection="false"
-        PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl" />
+        PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
+        conditions="Default.TOC Android 1_3" />
       <TocEntry
         Title="Working with Groups of Patients"
         Link="/Content/Patient Tracking System/Android_1.3/Working with Groups_1.3.htm"
@@ -1369,14 +1378,16 @@
         PageNumberReset="continue"
         ComputeToc="false"
         ReplaceMergeNode="false"
-        PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl" />
+        PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
+        conditions="Default.TOC Android 1_3" />
       <TocEntry
         Title="Application Settings"
         Link="/Content/Patient Tracking System/Android_1.3/Settings_1.3.htm"
         BreakType="chapter"
         StartSection="false"
         PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
-        PageNumberReset="continue" />
+        PageNumberReset="continue"
+        conditions="Default.TOC Android 1_3" />
       <TocEntry
         Title="HC Standard® Help Center Training Videos"
         Link="/Content/Videos/iOS PTS/Videos.htm"
@@ -1397,7 +1408,7 @@
       <TocEntry
         Title="[%=System.LinkedFile%]"
         Link="/Content/Patient Tracking System/PTS Cover Page Android.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-        conditions="Default.NEW Print Only,Default.TOC Print Only,Default.CON Android 2_0,Default.CON HC 4_6,Default.CON Android"></TocEntry>
+        conditions="Default.NEW Print Only,Default.TOC Print Only"></TocEntry>
       <TocEntry
         Title="[%=System.LinkedFile%]"
         Link="/Content/Legal &amp; License Information.htm"
@@ -1435,7 +1446,8 @@
         PageNumber="1"
         PageNumberReset="continue"
         StartSection="false"
-        PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl" />
+        PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
+        conditions="Default.TOC Android 2_0" />
       <TocEntry
         Title="Working with Individual Patients"
         Link="/Content/Patient Tracking System/Android_2.0/Working with Patients_Android_2.0.htm"
@@ -1443,7 +1455,8 @@
         PageNumber="1"
         PageNumberReset="continue"
         StartSection="false"
-        PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl" />
+        PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
+        conditions="Default.TOC Android 2_0" />
       <TocEntry
         Title="Working with Groups of Patients"
         Link="/Content/Patient Tracking System/Android_2.0/Working with Groups_Android_2.0.htm"
@@ -1455,14 +1468,16 @@
         PageNumberReset="continue"
         ComputeToc="false"
         ReplaceMergeNode="false"
-        PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl" />
+        PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
+        conditions="Default.TOC Android 2_0" />
       <TocEntry
         Title="Application Settings"
         Link="/Content/Patient Tracking System/Android_2.0/Settings_Android_2.0.htm"
         BreakType="chapter"
         StartSection="false"
         PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
-        PageNumberReset="continue" />
+        PageNumberReset="continue"
+        conditions="Default.TOC Android 2_0" />
       <TocEntry
         Title="HC Standard® Help Center Training Videos"
         Link="/Content/Videos/iOS PTS/Videos.htm"
