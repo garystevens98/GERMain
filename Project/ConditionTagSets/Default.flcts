@@ -34,7 +34,7 @@
     Comment="" />
   <ConditionTag
     BackgroundColor="#ff00ff"
-    Name="CONT iOS 1_3"
+    Name="CON iOS 1_3"
     Comment=""
     OriginalName="CONT iOS 1_3" />
   <ConditionTag
@@ -113,7 +113,7 @@
     OriginalName="NEW Retired" />
   <ConditionTag
     BackgroundColor="#fffb00"
-    Name="CONT iOS 2_0"
+    Name="CON iOS 2_0"
     Comment=""
     OriginalName="CONT iOS 2_0" />
   <ConditionTag
