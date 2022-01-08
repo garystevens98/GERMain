@@ -1227,7 +1227,7 @@
       conditions="Default.TOC iSO 2_0">
       <TocEntry
         Title="[%=System.LinkedFile%]"
-        Link="/Content/Patient Tracking System/Cover Page.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+        Link="/Content/Main Cover Page.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
         conditions="Default.NEW Print Only,Default.TOC Print Only"></TocEntry>
       <TocEntry
         Title="[%=System.LinkedFile%]"
@@ -1317,7 +1317,7 @@
       conditions="Default.Android,Default.NEW Patient Tracking,Default.TOC Android 1_3">
       <TocEntry
         Title="[%=System.LinkedFile%]"
-        Link="/Content/Patient Tracking System/Cover Page.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+        Link="/Content/Main Cover Page.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
         conditions="Default.NEW Print Only,Default.TOC Print Only,Default.TOC Android 1_3"></TocEntry>
       <TocEntry
         Title="[%=System.LinkedFile%]"
@@ -1407,7 +1407,7 @@
       conditions="Default.Android,Default.NEW Patient Tracking,Default.TOC Android 2_0">
       <TocEntry
         Title="[%=System.LinkedFile%]"
-        Link="/Content/Patient Tracking System/Cover Page.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+        Link="/Content/Main Cover Page.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
         conditions="Default.TOC Print Only"
         StartSection="false"
         SectionNumberReset="continue"
@@ -1428,11 +1428,6 @@
         PageLayout="/Content/Resources/PageLayouts/Default.flpgl"
         PageNumberReset="continue"
         conditions="Default.TOC Print Only"></TocEntry>
-      <TocEntry
-        Title="blank page"
-        Link="/Content/Blank Page.htm"
-        StartSection="false"
-        conditions="Default.TOC Print Only" />
       <TocEntry
         Title="Patient Tracking Overview"
         Link="/Content/Patient Tracking System/PTS Overview.htm"
@@ -1496,7 +1491,7 @@
       StartSection="false">
       <TocEntry
         Title="[%=System.LinkedFile%]"
-        Link="/Content/Patient Tracking System/Cover Page.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+        Link="/Content/Main Cover Page.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
         conditions="Default.NEW Print Only"></TocEntry>
       <TocEntry
         Title="[%=System.LinkedFile%]"
@@ -1585,7 +1580,7 @@
       conditions="Default.Windows8">
       <TocEntry
         Title="[%=System.LinkedFile%]"
-        Link="/Content/Patient Tracking System/PTS Cover Page iSO.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+        Link="/Content/Main Cover Page.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
         conditions="Default.NEW Print Only" />
       <TocEntry
         Title="[%=System.LinkedFile%]"
