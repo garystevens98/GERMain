@@ -1024,7 +1024,7 @@
       PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl" />
     <TocEntry
       Title="Application Settings"
-      Link="/Content/Patient Tracking System/Android_2.0/Settings_2.0.htm"
+      Link="/Content/Patient Tracking System/Android_2.0/Settings_Android_2.0.htm"
       BreakType="chapter"
       StartSection="false"
       PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
