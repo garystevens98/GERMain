@@ -1396,7 +1396,7 @@
       <TocEntry
         Title="[%=System.LinkedFile%]"
         Link="/Content/Patient Tracking System/PTS Cover Page Android.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-        conditions="Default.NEW Print Only,Default.TOC Print Only"></TocEntry>
+        conditions="Default.NEW Print Only,Default.TOC Print Only,Default.TOC Android"></TocEntry>
       <TocEntry
         Title="[%=System.LinkedFile%]"
         Link="/Content/Legal &amp; License Information.htm"
