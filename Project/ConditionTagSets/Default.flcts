@@ -21,7 +21,7 @@
     Name="IC"
     Comment="" />
   <ConditionTag
-    BackgroundColor="#00bfff"
+    BackgroundColor="#ff00dc"
     Name="SubAdmin"
     Comment="" />
   <ConditionTag
@@ -188,5 +188,13 @@
   <ConditionTag
     BackgroundColor="#000000"
     Name="CON Retired"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#2f4f4f"
+    Name="CON Incident Commander"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#8b4513"
+    Name="TOC Incident Commander"
     Comment="" />
 </CatapultConditionTagSet>
