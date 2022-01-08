@@ -1408,25 +1408,31 @@
       <TocEntry
         Title="[%=System.LinkedFile%]"
         Link="/Content/Patient Tracking System/Cover Page.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-        conditions="Default.NEW Print Only,Default.TOC Print Only"></TocEntry>
+        conditions="Default.TOC Print Only"
+        StartSection="false"
+        SectionNumberReset="continue"
+        VolumeNumberReset="same"
+        ChapterNumberReset="continue"
+        ComputeToc="false"
+        ReplaceMergeNode="false"></TocEntry>
       <TocEntry
         Title="[%=System.LinkedFile%]"
         Link="/Content/Legal &amp; License Information.htm"
-        conditions="Default.PrintOnly"
-        StartSection="false" />
+        StartSection="false"
+        conditions="Default.TOC Print Only" />
       <TocEntry
         Title="TOC"
         Link="/Content/Client TOC.htm"
         BreakType="chapter"
         StartSection="false"
         PageLayout="/Content/Resources/PageLayouts/Default.flpgl"
-        conditions="Default.PrintOnly"
-        PageNumberReset="continue"></TocEntry>
+        PageNumberReset="continue"
+        conditions="Default.TOC Print Only"></TocEntry>
       <TocEntry
         Title="blank page"
         Link="/Content/Blank Page.htm"
-        conditions="Default.PrintOnly"
-        StartSection="false" />
+        StartSection="false"
+        conditions="Default.TOC Print Only" />
       <TocEntry
         Title="Patient Tracking Overview"
         Link="/Content/Patient Tracking System/PTS Overview.htm"
