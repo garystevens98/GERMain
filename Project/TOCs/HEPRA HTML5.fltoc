@@ -974,7 +974,7 @@
       conditions="Default.NEW Print Only"></TocEntry>
     <TocEntry
       Title="[%=System.LinkedFile%]"
-      Link="/Content/Legal &amp; License Information.htm"
+      Link="/Content/Main Legal &amp; License Information.htm"
       conditions="Default.PrintOnly"
       StartSection="false" />
     <TocEntry
@@ -1057,7 +1057,7 @@
       ReplaceMergeNode="false" />
     <TocEntry
       Title="[%=System.LinkedFile%]"
-      Link="/Content/Legal &amp; License Information.htm"
+      Link="/Content/Main Legal &amp; License Information.htm"
       conditions="Default.PrintOnly"
       StartSection="false" />
     <TocEntry
@@ -1133,7 +1133,7 @@
       ReplaceMergeNode="false" />
     <TocEntry
       Title="[%=System.LinkedFile%]"
-      Link="/Content/Legal &amp; License Information.htm"
+      Link="/Content/Main Legal &amp; License Information.htm"
       conditions="Default.PrintOnly"
       StartSection="false" />
     <TocEntry

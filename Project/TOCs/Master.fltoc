@@ -1141,7 +1141,7 @@
         conditions="Default.NEW Print Only,Default.TOC Print Only"></TocEntry>
       <TocEntry
         Title="[%=System.LinkedFile%]"
-        Link="/Content/Legal &amp; License Information.htm"
+        Link="/Content/Main Legal &amp; License Information.htm"
         conditions="Default.PrintOnly"
         StartSection="false" />
       <TocEntry
@@ -1231,7 +1231,7 @@
         conditions="Default.NEW Print Only,Default.TOC Print Only"></TocEntry>
       <TocEntry
         Title="[%=System.LinkedFile%]"
-        Link="/Content/Legal &amp; License Information.htm"
+        Link="/Content/Main Legal &amp; License Information.htm"
         conditions="Default.PrintOnly"
         StartSection="false" />
       <TocEntry
@@ -1321,7 +1321,7 @@
         conditions="Default.NEW Print Only,Default.TOC Print Only,Default.TOC Android 1_3"></TocEntry>
       <TocEntry
         Title="[%=System.LinkedFile%]"
-        Link="/Content/Legal &amp; License Information.htm"
+        Link="/Content/Main Legal &amp; License Information.htm"
         conditions="Default.PrintOnly"
         StartSection="false" />
       <TocEntry
@@ -1417,7 +1417,7 @@
         ReplaceMergeNode="false"></TocEntry>
       <TocEntry
         Title="[%=System.LinkedFile%]"
-        Link="/Content/Legal &amp; License Information.htm"
+        Link="/Content/Main Legal &amp; License Information.htm"
         StartSection="false"
         conditions="Default.TOC Print Only" />
       <TocEntry
@@ -1495,7 +1495,7 @@
         conditions="Default.NEW Print Only"></TocEntry>
       <TocEntry
         Title="[%=System.LinkedFile%]"
-        Link="/Content/Legal &amp; License Information.htm"
+        Link="/Content/Main Legal &amp; License Information.htm"
         conditions="Default.PrintOnly"
         StartSection="false" />
       <TocEntry
@@ -1584,7 +1584,7 @@
         conditions="Default.NEW Print Only" />
       <TocEntry
         Title="[%=System.LinkedFile%]"
-        Link="/Content/Legal &amp; License Information.htm"
+        Link="/Content/Main Legal &amp; License Information.htm"
         conditions="Default.PrintOnly"
         StartSection="false" />
       <TocEntry
@@ -1642,6 +1642,11 @@
         PageNumberReset="continue"
         PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl" />
     </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="New TOC Book">
+    <TocEntry
+      Title="New Entry" />
   </TocEntry>
   <TocEntry
     Title="EWRAP"
@@ -1931,7 +1936,7 @@
       BreakType="chapter" />
     <TocEntry
       Title="Legal &amp; License Information"
-      Link="/Content/Legal &amp; License Information.htm"
+      Link="/Content/Main Legal &amp; License Information.htm"
       VolumeNumberReset="same"
       SectionNumberReset="continue"
       ChapterNumberReset="continue"

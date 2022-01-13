@@ -2,15 +2,14 @@
 <CatapultToc
   Version="1">
   <TocEntry
-    Title="Intro"
+    Title="HC Standard User Management"
     ChapterNumberReset="reset"
     ChapterNumber="1"
     StartSection="false"
     SectionNumberReset="continue"
     VolumeNumberReset="same">
     <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/NEW Cover Page.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      Title="[%=System.LinkedTitle%]" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
       StartSection="false"
       SectionNumberReset="continue"
       VolumeNumberReset="same"
@@ -20,10 +19,11 @@
       BreakType="none"
       PageNumberReset="continue"
       PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
-      ChapterNumber="" />
+      ChapterNumber=""
+      Link="/Content/Main Cover Page.htm" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/Legal &amp; License Information.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      Link="/Content/Main Legal &amp; License Information.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
       BreakType="pageLayout"
       StartSection="false"
       PageLayout="/Content/Resources/PageLayouts/Default.flpgl" />
@@ -37,16 +37,6 @@
       VolumeNumberReset="same"
       BreakType="pageLayout"
       PageLayout="/Content/Resources/PageLayouts/Default.flpgl" />
-  </TocEntry>
-  <TocEntry
-    Title="Content"
-    StartSection="false"
-    BreakType="none"
-    PageNumberReset="continue"
-    ChapterNumberReset="reset"
-    ChapterNumber="1"
-    SectionNumberReset="continue"
-    VolumeNumberReset="same">
     <TocEntry
       Title="[%=System.LinkedFile%]"
       Link="/Content/HC Standard/User Management.htm"

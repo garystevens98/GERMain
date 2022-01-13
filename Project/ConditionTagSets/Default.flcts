@@ -197,4 +197,12 @@
     BackgroundColor="#8b4513"
     Name="TOC Incident Commander"
     Comment="" />
+  <ConditionTag
+    BackgroundColor="#00bfff"
+    Name="CON HC"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#ff00ff"
+    Name="TOC HC"
+    Comment="" />
 </CatapultConditionTagSet>

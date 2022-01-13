@@ -708,7 +708,7 @@
         StartSection="false" />
       <TocEntry
         Title="[%=System.LinkedFile%]"
-        Link="/Content/Legal &amp; License Information.htm"
+        Link="/Content/Main Legal &amp; License Information.htm"
         conditions="Default.PrintOnly"
         StartSection="false" />
       <TocEntry
@@ -782,7 +782,7 @@
         StartSection="false" />
       <TocEntry
         Title="[%=System.LinkedFile%]"
-        Link="/Content/Legal &amp; License Information.htm"
+        Link="/Content/Main Legal &amp; License Information.htm"
         conditions="Default.PrintOnly"
         StartSection="false" />
       <TocEntry
@@ -1138,7 +1138,7 @@
         conditions="Default.TOC Print Only" />
       <TocEntry
         Title="[%=System.LinkedFile%]"
-        Link="/Content/Legal &amp; License Information.htm"
+        Link="/Content/Main Legal &amp; License Information.htm"
         conditions="Default.PrintOnly"
         StartSection="false" />
       <TocEntry
@@ -1217,7 +1217,7 @@
         conditions="Default.TOC Print Only"></TocEntry>
       <TocEntry
         Title="[%=System.LinkedFile%]"
-        Link="/Content/Legal &amp; License Information.htm"
+        Link="/Content/Main Legal &amp; License Information.htm"
         conditions="Default.PrintOnly"
         StartSection="false" />
       <TocEntry
@@ -1287,7 +1287,7 @@
         conditions="Default.TOC Print Only" />
       <TocEntry
         Title="[%=System.LinkedFile%]"
-        Link="/Content/Legal &amp; License Information.htm"
+        Link="/Content/Main Legal &amp; License Information.htm"
         conditions="Default.PrintOnly"
         StartSection="false" />
       <TocEntry
@@ -1383,7 +1383,7 @@
         conditions="Default.TOC Print Only" />
       <TocEntry
         Title="[%=System.LinkedFile%]"
-        Link="/Content/Legal &amp; License Information.htm"
+        Link="/Content/Main Legal &amp; License Information.htm"
         conditions="Default.PrintOnly"
         StartSection="false" />
       <TocEntry
@@ -1475,7 +1475,7 @@
       BreakType="chapter" />
     <TocEntry
       Title="Legal &amp; License Information"
-      Link="/Content/Legal &amp; License Information.htm"
+      Link="/Content/Main Legal &amp; License Information.htm"
       VolumeNumberReset="same"
       SectionNumberReset="continue"
       ChapterNumberReset="continue"

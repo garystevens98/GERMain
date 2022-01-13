@@ -22,7 +22,7 @@
       BreakType="chapter" />
     <TocEntry
       Title="[%=System.LinkedFile%]"
-      Link="/Content/Legal &amp; License Information.htm"
+      Link="/Content/Main Legal &amp; License Information.htm"
       VolumeNumberReset="same"
       SectionNumberReset="continue"
       ChapterNumberReset="continue"
