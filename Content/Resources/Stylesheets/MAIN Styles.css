@@ -17,7 +17,6 @@ h1
 
 h2
 {
-	page-break-before: always;
 	mc-auto-number-format: 'CH:Chapter {chapnum} - {n+}: ';
 	mc-hyphenate-shortest-word: 15;
 	mc-hyphenate-shortest-prefix: 15;
@@ -1515,13 +1514,14 @@ h4.h4PageBreakAfter
 	mc-heading-level: 4;
 }
 
-h3.PageBreakAfter
+h3.PageBreak
 {
 	mc-heading-level: 3;
 	font-size: 12pt;
 	font-family: Arial;
 	border-bottom: solid 1px #000000;
 	margin-bottom: 20px;
+	page-break-before: always;
 }
 
 h1.Underlined
@@ -1534,6 +1534,7 @@ h2.PageBreak
 	margin-top: 0;
 	border-bottom: solid 1px #000000;
 	margin-bottom: 15px;
+	page-break-before: always;
 }
 
 h1.NoChapter
@@ -1569,5 +1570,10 @@ img.small_icon
 	float: right;
 	width: 35;
 	height: 25px;
+}
+
+h3.NoBreak
+{
+	page-break-before: avoid;
 }
 
