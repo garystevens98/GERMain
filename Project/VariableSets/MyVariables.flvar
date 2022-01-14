@@ -36,9 +36,9 @@
     Comment=""
     EvaluatedDefinition="ger911.com">ger911.com</Variable>
   <Variable
-    Name="GER Address"
+    Name="GER Address Part 1of2"
     Comment=""
-    EvaluatedDefinition="100 Grace Hopper Lane, Suite 3739, Augusta, GA 30901">100 Grace Hopper Lane, Suite 3739, Augusta, GA 30901</Variable>
+    EvaluatedDefinition="100 Grace Hopper Lane, Suite 3739">100 Grace Hopper Lane, Suite 3739</Variable>
   <Variable
     Name="GER Website (HTML5)"
     Comment=""
@@ -55,4 +55,8 @@
     Name="App Version 2.0"
     Comment="App Version 2.0"
     EvaluatedDefinition="Version 2.0">Version 2.0</Variable>
+  <Variable
+    Name="GER Address Part 2of2"
+    Comment=""
+    EvaluatedDefinition="Augusta, GA 30901">Augusta, GA 30901</Variable>
 </CatapultVariableSet>
