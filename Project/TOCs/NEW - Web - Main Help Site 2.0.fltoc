@@ -253,7 +253,7 @@
     <TocEntry
       Title="Glossary"
       Link="/Content/Glossary.htm"
-      conditions="Default.PrintOnly,Default.combined"
+      conditions="Default.combined,Default.TOC Print Only"
       StartSection="false"
       BreakType="chapter"
       PageNumberReset="continue"
@@ -538,7 +538,7 @@
     <TocEntry
       Title="Glossary"
       Link="/Content/Glossary.htm"
-      conditions="Default.PrintOnly,Default.combined"
+      conditions="Default.combined,Default.TOC Print Only"
       StartSection="false"
       BreakType="chapter"
       PageNumberReset="continue"
@@ -1007,21 +1007,21 @@
     <TocEntry
       Title="[%=System.LinkedFile%]"
       Link="/Content/Main Legal &amp; License Information.htm"
-      conditions="Default.PrintOnly"
-      StartSection="false" />
+      StartSection="false"
+      conditions="Default.TOC Print Only" />
     <TocEntry
       Title="TOC"
       Link="/Content/Client TOC.htm"
       BreakType="chapter"
       StartSection="false"
       PageLayout="/Content/Resources/PageLayouts/Default.flpgl"
-      conditions="Default.PrintOnly"
-      PageNumberReset="continue"></TocEntry>
+      PageNumberReset="continue"
+      conditions="Default.TOC Print Only"></TocEntry>
     <TocEntry
       Title="blank page"
       Link="/Content/Blank Page.htm"
-      conditions="Default.PrintOnly"
-      StartSection="false" />
+      StartSection="false"
+      conditions="Default.TOC Print Only" />
     <TocEntry
       Title="HC Community Paramedicine Overview"
       Link="/Content/Community Paramedicine/CPM Overview.htm"

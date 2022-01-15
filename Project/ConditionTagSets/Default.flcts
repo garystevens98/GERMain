@@ -103,10 +103,6 @@
     BackgroundColor="#1000ff"
     OriginalName="TOC Web Only" />
   <ConditionTag
-    BackgroundColor="#00ff00"
-    Name="NEW HC User Mgmnt"
-    Comment="" />
-  <ConditionTag
     BackgroundColor="#fffb00"
     Name="CON iOS 2_0"
     Comment=""
