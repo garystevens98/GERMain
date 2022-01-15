@@ -1241,12 +1241,22 @@
       <TocEntry
         Title="[%=System.LinkedFile%]"
         Link="/Content/Main Cover Page.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-        conditions="Default.TOC Print Only"></TocEntry>
+        conditions="Default.TOC Print Only"
+        ChapterNumberReset="continue"
+        ChapterNumber=""
+        SectionNumberReset="continue"
+        VolumeNumberReset="same"></TocEntry>
       <TocEntry
         Title="[%=System.LinkedFile%]"
         Link="/Content/Main Legal &amp; License Information.htm"
         StartSection="false"
-        conditions="Default.TOC Print Only" />
+        conditions="Default.TOC Print Only"
+        ChapterNumberReset="continue"
+        ChapterNumber=""
+        VolumeNumberReset="same"
+        VolumeNumber=""
+        SectionNumberReset="continue"
+        SectionNumber="" />
       <TocEntry
         Title="TOC"
         Link="/Content/Client TOC.htm"
@@ -1255,11 +1265,6 @@
         PageLayout="/Content/Resources/PageLayouts/Default.flpgl"
         PageNumberReset="continue"
         conditions="Default.TOC Print Only"></TocEntry>
-      <TocEntry
-        Title="blank page"
-        Link="/Content/Blank Page.htm"
-        StartSection="false"
-        conditions="Default.TOC Print Only" />
       <TocEntry
         Title="Patient Tracking Overview"
         Link="/Content/Patient Tracking System/PTS Overview.htm"
