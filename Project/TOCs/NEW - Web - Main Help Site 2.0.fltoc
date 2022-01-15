@@ -998,7 +998,7 @@
     ChapterNumber="1"
     SectionNumberReset="continue"
     VolumeNumberReset="same"
-    conditions="Default.NEW Retired">
+    conditions="Default.NEW Retired,Default.TOC Retired">
     <TocEntry
       Title="Cover Page"
       Link="/Content/Community Paramedicine/Cover Page-cpm.htm"
@@ -1072,7 +1072,7 @@
     ChapterNumber="1"
     SectionNumberReset="continue"
     VolumeNumberReset="same"
-    conditions="Default.NEW Retired">
+    conditions="Default.NEW Retired,Default.TOC Retired">
     <TocEntry
       Title="Cover Page"
       Link="/Content/Community Paramedicine/Cover Page-cpm.htm"
