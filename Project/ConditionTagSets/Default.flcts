@@ -107,11 +107,6 @@
     Name="NEW HC User Mgmnt"
     Comment="" />
   <ConditionTag
-    BackgroundColor="#000000"
-    Name="NEW Retired"
-    Comment=""
-    OriginalName="NEW Retired" />
-  <ConditionTag
     BackgroundColor="#fffb00"
     Name="CON iOS 2_0"
     Comment=""
@@ -215,4 +210,12 @@
     Name="CON Print Only"
     Comment=""
     OriginalName="CON Print Only" />
+  <ConditionTag
+    BackgroundColor="#000000"
+    Name="TOC Retired"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#37d0d0"
+    Name="TOC Shelter Tracking"
+    Comment="" />
 </CatapultConditionTagSet>

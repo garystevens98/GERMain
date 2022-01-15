@@ -1459,7 +1459,7 @@
     StartSection="false"
     SectionNumberReset="continue"
     VolumeNumberReset="same"
-    conditions="Default.Shelter Tracking">
+    conditions="Default.TOC Shelter Tracking">
     <TocEntry
       Title="Cover Page"
       Link="/Content/Shelter Availability/Shelter Cover.htm"
