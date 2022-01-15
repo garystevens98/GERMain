@@ -205,4 +205,14 @@
     BackgroundColor="#ff00ff"
     Name="TOC HC"
     Comment="" />
+  <ConditionTag
+    BackgroundColor="#4427c0"
+    Name="TOC HC 4_6"
+    Comment=""
+    OriginalName="TOC HC 4_6" />
+  <ConditionTag
+    BackgroundColor="#ff0004"
+    Name="CON Print Only"
+    Comment=""
+    OriginalName="CON Print Only" />
 </CatapultConditionTagSet>

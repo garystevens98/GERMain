@@ -318,6 +318,18 @@
       </TocEntry>
     </TocEntry>
     <TocEntry
+      Title="User Management">
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/HC Standard/User Management.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/HC Standard/New Incident Creation.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/HC Standard/Viewing Incident Data.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    </TocEntry>
+    <TocEntry
       Title="Glossary"
       Link="/Content/Glossary.htm"
       conditions="Default.PrintOnly,Default.combined"
@@ -1136,9 +1148,9 @@
       VolumeNumberReset="same"
       conditions="Default.TOC iSO 1_3">
       <TocEntry
-        Title="[%=System.LinkedFile%]"
-        Link="/Content/Patient Tracking System/Cover Page.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-        conditions="Default.NEW Print Only,Default.TOC Print Only"></TocEntry>
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Main Cover Page.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+        conditions="Default.TOC Print Only" />
       <TocEntry
         Title="[%=System.LinkedFile%]"
         Link="/Content/Main Legal &amp; License Information.htm"
@@ -1168,7 +1180,8 @@
         ChapterNumberReset="reset"
         ChapterNumber="1"
         SectionNumberReset="continue"
-        VolumeNumberReset="same" />
+        VolumeNumberReset="same"
+        conditions="Default.TOC Patient Tracking" />
       <TocEntry
         Title="Getting Started"
         Link="/Content/Patient Tracking System/iOS_1.3/Using PTS_1.3.htm"
@@ -1228,25 +1241,25 @@
       <TocEntry
         Title="[%=System.LinkedFile%]"
         Link="/Content/Main Cover Page.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-        conditions="Default.NEW Print Only,Default.TOC Print Only"></TocEntry>
+        conditions="Default.TOC Print Only"></TocEntry>
       <TocEntry
         Title="[%=System.LinkedFile%]"
         Link="/Content/Main Legal &amp; License Information.htm"
-        conditions="Default.PrintOnly"
-        StartSection="false" />
+        StartSection="false"
+        conditions="Default.TOC Print Only" />
       <TocEntry
         Title="TOC"
         Link="/Content/Client TOC.htm"
         BreakType="chapter"
         StartSection="false"
         PageLayout="/Content/Resources/PageLayouts/Default.flpgl"
-        conditions="Default.PrintOnly"
-        PageNumberReset="continue"></TocEntry>
+        PageNumberReset="continue"
+        conditions="Default.TOC Print Only"></TocEntry>
       <TocEntry
         Title="blank page"
         Link="/Content/Blank Page.htm"
-        conditions="Default.PrintOnly"
-        StartSection="false" />
+        StartSection="false"
+        conditions="Default.TOC Print Only" />
       <TocEntry
         Title="Patient Tracking Overview"
         Link="/Content/Patient Tracking System/PTS Overview.htm"
@@ -1258,7 +1271,8 @@
         ChapterNumberReset="reset"
         ChapterNumber="1"
         SectionNumberReset="continue"
-        VolumeNumberReset="same" />
+        VolumeNumberReset="same"
+        conditions="Default.TOC Patient Tracking" />
       <TocEntry
         Title="Getting Started"
         StartChapter="true"
@@ -1266,7 +1280,8 @@
         PageNumberReset="continue"
         StartSection="false"
         PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
-        conditions="Default.TOC iSO 2_0" />
+        conditions="Default.TOC iSO 2_0"
+        Link="/Content/Patient Tracking System/iSO_2.0/Using_PTS_iSO_2.0.htm" />
       <TocEntry
         Title="Working with Individual Patients"
         StartChapter="true"
@@ -1274,7 +1289,8 @@
         PageNumberReset="continue"
         StartSection="false"
         PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
-        conditions="Default.TOC iSO 2_0" />
+        conditions="Default.TOC iSO 2_0"
+        Link="/Content/Patient Tracking System/iSO_2.0/Working with Patients_iSO_2.0.htm" />
       <TocEntry
         Title="Working with Groups of Patients"
         VolumeNumberReset="continue"
@@ -1286,14 +1302,16 @@
         ComputeToc="false"
         ReplaceMergeNode="false"
         PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
-        conditions="Default.TOC iSO 2_0" />
+        conditions="Default.TOC iSO 2_0"
+        Link="/Content/Patient Tracking System/iSO_2.0/Working with Groups_iSO_2.0.htm" />
       <TocEntry
         Title="Application Settings"
         BreakType="chapter"
         StartSection="false"
         PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
         PageNumberReset="continue"
-        conditions="Default.TOC iSO 2_0" />
+        conditions="Default.TOC iSO 2_0"
+        Link="/Content/Patient Tracking System/iSO_2.0/Settings_iSO_2.0.htm" />
       <TocEntry
         Title="HC PTS For iOS Training Videos"
         Link="/Content/Videos/iOS PTS/Videos.htm"
@@ -1314,7 +1332,7 @@
       <TocEntry
         Title="[%=System.LinkedFile%]"
         Link="/Content/Main Cover Page.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-        conditions="Default.NEW Print Only,Default.TOC Print Only,Default.TOC Android 1_3"></TocEntry>
+        conditions="Default.TOC Print Only,Default.TOC Android 1_3"></TocEntry>
       <TocEntry
         Title="[%=System.LinkedFile%]"
         Link="/Content/Main Legal &amp; License Information.htm"
@@ -1344,7 +1362,8 @@
         ChapterNumberReset="reset"
         ChapterNumber="1"
         SectionNumberReset="continue"
-        VolumeNumberReset="same" />
+        VolumeNumberReset="same"
+        conditions="Default.TOC Patient Tracking" />
       <TocEntry
         Title="Getting Started"
         Link="/Content/Patient Tracking System/Android_1.3/Using PTS_1.3.htm"
@@ -1400,7 +1419,7 @@
       ChapterNumber="1"
       SectionNumberReset="continue"
       VolumeNumberReset="same"
-      conditions="Default.Android,Default.NEW Patient Tracking,Default.TOC Android 2_0">
+      conditions="Default.TOC Android 2_0">
       <TocEntry
         Title="[%=System.LinkedFile%]"
         Link="/Content/Main Cover Page.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
@@ -1435,7 +1454,8 @@
         ChapterNumberReset="reset"
         ChapterNumber="1"
         SectionNumberReset="continue"
-        VolumeNumberReset="same" />
+        VolumeNumberReset="same"
+        conditions="Default.TOC Patient Tracking" />
       <TocEntry
         Title="Getting Started"
         Link="/Content/Patient Tracking System/Android_2.0/Using PTS_Android_2.0.htm"
@@ -1488,7 +1508,7 @@
       <TocEntry
         Title="[%=System.LinkedFile%]"
         Link="/Content/Main Cover Page.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-        conditions="Default.NEW Print Only"></TocEntry>
+        conditions="Default.TOC Print Only"></TocEntry>
       <TocEntry
         Title="[%=System.LinkedFile%]"
         Link="/Content/Main Legal &amp; License Information.htm"
@@ -1577,7 +1597,7 @@
       <TocEntry
         Title="[%=System.LinkedFile%]"
         Link="/Content/Main Cover Page.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-        conditions="Default.NEW Print Only" />
+        conditions="Default.TOC Print Only" />
       <TocEntry
         Title="[%=System.LinkedFile%]"
         Link="/Content/Main Legal &amp; License Information.htm"
@@ -1638,11 +1658,6 @@
         PageNumberReset="continue"
         PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl" />
     </TocEntry>
-  </TocEntry>
-  <TocEntry
-    Title="New TOC Book">
-    <TocEntry
-      Title="New Entry" />
   </TocEntry>
   <TocEntry
     Title="EWRAP"
