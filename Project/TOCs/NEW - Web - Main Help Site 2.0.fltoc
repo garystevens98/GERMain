@@ -4,17 +4,17 @@
   <TocEntry
     Title="Index"
     Link="/Content/Index.htm"
-    conditions="Default.WebOnly"></TocEntry>
+    conditions="Default.TOC Web Only"></TocEntry>
   <TocEntry
     Title="What Is New In HC Standard 4.4?"
     Link="/Content/Whatsnew.htm"
     SectionNumberReset="continue"
     VolumeNumberReset="same"
     ChapterNumberReset="continue"
-    conditions="Default.WebOnly"></TocEntry>
+    conditions="Default.TOC Web Only"></TocEntry>
   <TocEntry
     Title="HC Standard"
-    conditions="Default.HC"
+    conditions="Default.TOC HC"
     ChapterNumberReset="reset"
     ChapterNumber="1"
     SectionNumberReset="continue"
@@ -23,7 +23,6 @@
     <TocEntry
       Title="Cover Page"
       Link="/Content/Cover Page.htm"
-      conditions="Default.PrintOnly"
       StartSection="false"
       PageType="title"
       PageNumber="1"
@@ -33,17 +32,18 @@
       ChapterNumberReset="continue"
       ReplaceMergeNode="false"
       PageLayout="/Content/Resources/PageLayouts/Default.flpgl"
-      BreakType="chapter" />
+      BreakType="chapter"
+      conditions="Default.TOC Print Only" />
     <TocEntry
       Title="Legal &amp; License Information"
       Link="/Content/User Guide Overview/Legal &amp; License Information.htm"
       VolumeNumberReset="same"
       SectionNumberReset="continue"
       ChapterNumberReset="continue"
-      conditions="Default.PrintOnly"
       BreakType="pageLayout"
       PageLayout="/Content/Resources/PageLayouts/Default.flpgl"
-      StartSection="false"></TocEntry>
+      StartSection="false"
+      conditions="Default.TOC Print Only"></TocEntry>
     <TocEntry
       Title="Table of Contents"
       Link="/Content/Client TOC.htm"
@@ -56,14 +56,14 @@
       VolumeNumberReset="same"
       SectionNumberReset="continue"
       ChapterNumberReset="continue"
-      conditions="Default.PrintOnly"
+      conditions="Default.TOC Print Only"
       BreakType="pageLayout"
       PageLayout="/Content/Resources/PageLayouts/Default.flpgl"></TocEntry>
     <TocEntry
       Title="blank page"
       Link="/Content/Blank Page.htm"
-      conditions="Default.PrintOnly"
-      StartSection="false" />
+      StartSection="false"
+      conditions="Default.TOC Print Only" />
     <TocEntry
       Title="Guide Overview"
       Link="/Content/User Guide Overview/User Guide Overview Chapter Intro.htm"
@@ -713,6 +713,204 @@
     </TocEntry>
   </TocEntry>
   <TocEntry
+    Title="HC Patient Tracking"
+    conditions="Default.TOC Patient Tracking"
+    ChapterNumberReset="reset"
+    ChapterNumber="0"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ComputeToc="false"
+    ReplaceMergeNode="false">
+    <TocEntry
+      Title="HC Patient Tracking for iOS 2.0"
+      ReplaceMergeNode="false"
+      BreakType="none"
+      PageNumberReset="reset"
+      PageNumber="83"
+      StartSection="false"
+      ChapterNumberReset="reset"
+      ChapterNumber="1"
+      SectionNumberReset="continue"
+      VolumeNumberReset="same"
+      conditions="Default.TOC iSO 2_0">
+      <TocEntry
+        Title="[%=System.LinkedFile%]"
+        Link="/Content/Main Cover Page.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+        conditions="Default.TOC Print Only"
+        ChapterNumberReset="continue"
+        ChapterNumber=""
+        SectionNumberReset="continue"
+        VolumeNumberReset="same"></TocEntry>
+      <TocEntry
+        Title="[%=System.LinkedFile%]"
+        Link="/Content/Main Legal &amp; License Information.htm"
+        StartSection="false"
+        conditions="Default.TOC Print Only"
+        ChapterNumberReset="continue"
+        ChapterNumber=""
+        VolumeNumberReset="same"
+        VolumeNumber=""
+        SectionNumberReset="continue"
+        SectionNumber="" />
+      <TocEntry
+        Title="TOC"
+        Link="/Content/Client TOC.htm"
+        BreakType="chapter"
+        StartSection="false"
+        PageLayout="/Content/Resources/PageLayouts/Default.flpgl"
+        PageNumberReset="continue"
+        conditions="Default.TOC Print Only"></TocEntry>
+      <TocEntry
+        Title="Patient Tracking Overview"
+        Link="/Content/Patient Tracking System/PTS Overview.htm"
+        StartChapter="true"
+        PageNumber="1"
+        PageNumberReset="reset"
+        StartSection="false"
+        PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
+        ChapterNumberReset="reset"
+        ChapterNumber="1"
+        SectionNumberReset="continue"
+        VolumeNumberReset="same"
+        conditions="Default.TOC Patient Tracking" />
+      <TocEntry
+        Title="Getting Started"
+        StartChapter="true"
+        PageNumber="1"
+        PageNumberReset="continue"
+        StartSection="false"
+        PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
+        conditions="Default.TOC iSO 2_0"
+        Link="/Content/Patient Tracking System/iSO_2.0/Using_PTS_iSO_2.0.htm" />
+      <TocEntry
+        Title="Working with Individual Patients"
+        StartChapter="true"
+        PageNumber="1"
+        PageNumberReset="continue"
+        StartSection="false"
+        PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
+        conditions="Default.TOC iSO 2_0"
+        Link="/Content/Patient Tracking System/iSO_2.0/Working with Patients_iSO_2.0.htm" />
+      <TocEntry
+        Title="Working with Groups of Patients"
+        VolumeNumberReset="continue"
+        SectionNumberReset="continue"
+        ChapterNumberReset="continue"
+        BreakType="chapter"
+        StartSection="false"
+        PageNumberReset="continue"
+        ComputeToc="false"
+        ReplaceMergeNode="false"
+        PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
+        conditions="Default.TOC iSO 2_0"
+        Link="/Content/Patient Tracking System/iSO_2.0/Working with Groups_iSO_2.0.htm" />
+      <TocEntry
+        Title="Application Settings"
+        BreakType="chapter"
+        StartSection="false"
+        PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
+        PageNumberReset="continue"
+        conditions="Default.TOC iSO 2_0"
+        Link="/Content/Patient Tracking System/iSO_2.0/Settings_iSO_2.0.htm" />
+      <TocEntry
+        Title="HC PTS For iOS Training Videos"
+        Link="/Content/Videos/iOS PTS/Videos.htm"
+        conditions="Default.WebOnly" />
+    </TocEntry>
+    <TocEntry
+      Title="HC Patient Tracking for Android 2.0"
+      ReplaceMergeNode="false"
+      BreakType="none"
+      PageNumberReset="reset"
+      PageNumber="83"
+      StartSection="false"
+      ChapterNumberReset="reset"
+      ChapterNumber="1"
+      SectionNumberReset="continue"
+      VolumeNumberReset="same"
+      conditions="Default.TOC Android 2_0">
+      <TocEntry
+        Title="[%=System.LinkedFile%]"
+        Link="/Content/Main Cover Page.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+        conditions="Default.TOC Print Only"
+        StartSection="false"
+        SectionNumberReset="continue"
+        VolumeNumberReset="same"
+        ChapterNumberReset="continue"
+        ComputeToc="false"
+        ReplaceMergeNode="false"></TocEntry>
+      <TocEntry
+        Title="[%=System.LinkedFile%]"
+        Link="/Content/Main Legal &amp; License Information.htm"
+        StartSection="false"
+        conditions="Default.TOC Print Only" />
+      <TocEntry
+        Title="TOC"
+        Link="/Content/Client TOC.htm"
+        BreakType="chapter"
+        StartSection="false"
+        PageLayout="/Content/Resources/PageLayouts/Default.flpgl"
+        PageNumberReset="continue"
+        conditions="Default.TOC Print Only"></TocEntry>
+      <TocEntry
+        Title="Patient Tracking Overview"
+        Link="/Content/Patient Tracking System/PTS Overview.htm"
+        StartChapter="true"
+        PageNumber="1"
+        PageNumberReset="reset"
+        StartSection="false"
+        PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
+        ChapterNumberReset="reset"
+        ChapterNumber="1"
+        SectionNumberReset="continue"
+        VolumeNumberReset="same"
+        conditions="Default.TOC Patient Tracking" />
+      <TocEntry
+        Title="Getting Started"
+        Link="/Content/Patient Tracking System/Android_2.0/Using PTS_Android_2.0.htm"
+        StartChapter="true"
+        PageNumber="1"
+        PageNumberReset="continue"
+        StartSection="false"
+        PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
+        conditions="Default.TOC Android 2_0" />
+      <TocEntry
+        Title="Working with Individual Patients"
+        Link="/Content/Patient Tracking System/Android_2.0/Working with Patients_Android_2.0.htm"
+        StartChapter="true"
+        PageNumber="1"
+        PageNumberReset="continue"
+        StartSection="false"
+        PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
+        conditions="Default.TOC Android 2_0" />
+      <TocEntry
+        Title="Working with Groups of Patients"
+        Link="/Content/Patient Tracking System/Android_2.0/Working with Groups_Android_2.0.htm"
+        VolumeNumberReset="continue"
+        SectionNumberReset="continue"
+        ChapterNumberReset="continue"
+        BreakType="chapter"
+        StartSection="false"
+        PageNumberReset="continue"
+        ComputeToc="false"
+        ReplaceMergeNode="false"
+        PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
+        conditions="Default.TOC Android 2_0" />
+      <TocEntry
+        Title="Application Settings"
+        Link="/Content/Patient Tracking System/Android_2.0/Settings_Android_2.0.htm"
+        BreakType="chapter"
+        StartSection="false"
+        PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
+        PageNumberReset="continue"
+        conditions="Default.TOC Android 2_0" />
+      <TocEntry
+        Title="HC Standard® Help Center Training Videos"
+        Link="/Content/Videos/iOS PTS/Videos.htm"
+        conditions="Default.WebOnly" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
     Title="HC Hospital Alert Tracking"
     conditions="Default.CHATS"
     ChapterNumberReset="reset"
@@ -788,337 +986,6 @@
         PageNumberReset="continue"
         PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl" />
     </TocEntry>
-  </TocEntry>
-  <TocEntry
-    Title="HC Patient Tracking for Windows 8"
-    ReplaceMergeNode="false"
-    StartSection="false"
-    conditions="Default.NEW Retired">
-    <TocEntry
-      Title="[%=System.LinkedFile%]"
-      Link="/Content/Patient Tracking System/PTS Cover Page Android.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-      conditions="Default.NEW Print Only"></TocEntry>
-    <TocEntry
-      Title="[%=System.LinkedFile%]"
-      Link="/Content/Main Legal &amp; License Information.htm"
-      conditions="Default.PrintOnly"
-      StartSection="false" />
-    <TocEntry
-      Title="TOC"
-      Link="/Content/Client TOC.htm"
-      BreakType="chapter"
-      StartSection="false"
-      PageLayout="/Content/Resources/PageLayouts/Default.flpgl"
-      conditions="Default.PrintOnly"
-      PageNumberReset="continue"></TocEntry>
-    <TocEntry
-      Title="Patient Tracking Overview"
-      Link="/Content/Patient Tracking System/PTS Overview.htm"
-      StartChapter="true"
-      PageNumber="1"
-      PageNumberReset="reset"
-      StartSection="false"
-      PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
-      ChapterNumberReset="reset"
-      ChapterNumber="1"
-      SectionNumberReset="continue"
-      VolumeNumberReset="same"></TocEntry>
-    <TocEntry
-      Title="Getting Started"
-      Link="/Content/Patient Tracking System/Windows 8/Using PTS.htm"
-      BreakType="chapter"
-      StartSection="false"
-      PageNumberReset="continue"
-      PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl" />
-    <TocEntry
-      Title="Working with Individual Patients"
-      Link="/Content/Patient Tracking System/Windows 8/Working with Patients.htm"
-      StartChapter="true"
-      PageNumber="1"
-      PageNumberReset="continue"
-      StartSection="false"
-      PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl" />
-    <TocEntry
-      Title="Working with Groups of Patients"
-      Link="/Content/Patient Tracking System/Windows 8/Working with Groups.htm"
-      VolumeNumberReset="continue"
-      SectionNumberReset="continue"
-      ChapterNumberReset="continue"
-      BreakType="chapter"
-      StartSection="false"
-      PageNumberReset="continue"
-      ComputeToc="false"
-      ReplaceMergeNode="false"
-      PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl" />
-    <TocEntry
-      Title="Settings"
-      Link="/Content/Patient Tracking System/Windows 8/Win 8 Settings.htm"
-      BreakType="chapter"
-      StartSection="false"
-      PageNumberReset="continue"
-      PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl" />
-  </TocEntry>
-  <TocEntry
-    Title="HC Patient Tracking for Windows Mobile"
-    conditions="Default.NEW Retired"
-    ReplaceMergeNode="false"
-    StartSection="false"
-    ComputeToc="false">
-    <TocEntry
-      Title="[%=System.LinkedFile%]"
-      Link="/Content/Patient Tracking System/PTS Cover Page Android.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-      conditions="Default.NEW Print Only"></TocEntry>
-    <TocEntry
-      Title="[%=System.LinkedFile%]"
-      Link="/Content/Main Legal &amp; License Information.htm"
-      conditions="Default.PrintOnly"
-      StartSection="false" />
-    <TocEntry
-      Title="TOC"
-      Link="/Content/Client TOC.htm"
-      BreakType="chapter"
-      StartSection="false"
-      PageLayout="/Content/Resources/PageLayouts/Default.flpgl"
-      conditions="Default.PrintOnly"
-      PageNumberReset="continue"></TocEntry>
-    <TocEntry
-      Title="Patient Tracking Overview"
-      Link="/Content/Patient Tracking System/PTS Overview.htm"
-      StartChapter="true"
-      PageNumber="1"
-      PageNumberReset="reset"
-      StartSection="false"
-      PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
-      ChapterNumberReset="reset"
-      ChapterNumber="1"
-      SectionNumberReset="continue"
-      VolumeNumberReset="same"></TocEntry>
-    <TocEntry
-      Title="HC Standard® PTS for Windows Mobile"
-      Link="/Content/Patient Tracking System/WM/PTS Overview.htm"
-      BreakType="chapter"
-      StartSection="false"
-      PageNumberReset="continue" />
-    <TocEntry
-      Title="Getting Started"
-      Link="/Content/Patient Tracking System/WM/Using PTS WM.htm"
-      BreakType="chapter"
-      StartSection="false"
-      PageNumberReset="continue"
-      PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl" />
-    <TocEntry
-      Title="Working with Individual Patients"
-      Link="/Content/Patient Tracking System/WM/Working with Patients.htm"
-      StartChapter="true"
-      PageNumber="1"
-      PageNumberReset="continue"
-      StartSection="false"
-      PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl" />
-    <TocEntry
-      Title="Working with Groups of Patients"
-      Link="/Content/Patient Tracking System/WM/Working with Groups.htm"
-      VolumeNumberReset="continue"
-      SectionNumberReset="continue"
-      ChapterNumberReset="continue"
-      BreakType="chapter"
-      StartSection="false"
-      PageNumberReset="continue"
-      ComputeToc="false"
-      ReplaceMergeNode="false"
-      PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl" />
-    <TocEntry
-      Title="Connecting a Bluetooth Printer and Printing"
-      Link="/Content/Patient Tracking System/WM/Bluetooth Print.htm"
-      BreakType="chapter"
-      StartSection="false"
-      PageNumberReset="continue"
-      PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl" />
-    <TocEntry
-      Title="Settings"
-      Link="/Content/Patient Tracking System/WM/Settings.htm"
-      BreakType="chapter"
-      StartSection="false"
-      PageNumberReset="continue"
-      PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl" />
-    <TocEntry
-      Title="HCS® PTS Troubleshooting"
-      Link="/Content/Patient Tracking System/WM/Trouble.htm"
-      BreakType="chapter"
-      StartSection="false"
-      PageNumberReset="continue"
-      PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl" />
-  </TocEntry>
-  <TocEntry
-    Title="HC Patient Tracking for Android"
-    ReplaceMergeNode="false"
-    BreakType="none"
-    PageNumberReset="reset"
-    PageNumber="83"
-    StartSection="false"
-    ChapterNumberReset="reset"
-    ChapterNumber="1"
-    SectionNumberReset="continue"
-    VolumeNumberReset="same"
-    conditions="Default.Android">
-    <TocEntry
-      Title="[%=System.LinkedFile%]"
-      Link="/Content/Patient Tracking System/PTS Cover Page Android.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-      conditions="Default.NEW Print Only"></TocEntry>
-    <TocEntry
-      Title="[%=System.LinkedFile%]"
-      Link="/Content/Main Legal &amp; License Information.htm"
-      conditions="Default.PrintOnly"
-      StartSection="false" />
-    <TocEntry
-      Title="TOC"
-      Link="/Content/Client TOC.htm"
-      BreakType="chapter"
-      StartSection="false"
-      PageLayout="/Content/Resources/PageLayouts/Default.flpgl"
-      conditions="Default.PrintOnly"
-      PageNumberReset="continue"></TocEntry>
-    <TocEntry
-      Title="blank page"
-      Link="/Content/Blank Page.htm"
-      conditions="Default.PrintOnly"
-      StartSection="false" />
-    <TocEntry
-      Title="Patient Tracking Overview"
-      Link="/Content/Patient Tracking System/PTS Overview.htm"
-      StartChapter="true"
-      PageNumber="1"
-      PageNumberReset="reset"
-      StartSection="false"
-      PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
-      ChapterNumberReset="reset"
-      ChapterNumber="1"
-      SectionNumberReset="continue"
-      VolumeNumberReset="same" />
-    <TocEntry
-      Title="Getting Started"
-      Link="/Content/Patient Tracking System/Android_2.0/Using PTS_2.0.htm"
-      StartChapter="true"
-      PageNumber="1"
-      PageNumberReset="continue"
-      StartSection="false"
-      PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl" />
-    <TocEntry
-      Title="Working with Individual Patients"
-      Link="/Content/Patient Tracking System/Android_2.0/Working with Patients_2.0.htm"
-      StartChapter="true"
-      PageNumber="1"
-      PageNumberReset="continue"
-      StartSection="false"
-      PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl" />
-    <TocEntry
-      Title="Working with Groups of Patients"
-      Link="/Content/Patient Tracking System/Android_2.0/Working with Groups_2.0.htm"
-      VolumeNumberReset="continue"
-      SectionNumberReset="continue"
-      ChapterNumberReset="continue"
-      BreakType="chapter"
-      StartSection="false"
-      PageNumberReset="continue"
-      ComputeToc="false"
-      ReplaceMergeNode="false"
-      PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl" />
-    <TocEntry
-      Title="Application Settings"
-      Link="/Content/Patient Tracking System/Android_2.0/Settings_Android_2.0.htm"
-      BreakType="chapter"
-      StartSection="false"
-      PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
-      PageNumberReset="continue" />
-    <TocEntry
-      Title="HC Standard® Help Center Training Videos"
-      Link="/Content/Videos/iOS PTS/Videos.htm"
-      conditions="Default.WebOnly" />
-  </TocEntry>
-  <TocEntry
-    Title="HC Patient Tracking for iOS"
-    conditions="Default.iOS"
-    ReplaceMergeNode="false"
-    BreakType="none"
-    PageNumberReset="reset"
-    PageNumber="83"
-    StartSection="false"
-    ChapterNumberReset="reset"
-    ChapterNumber="1"
-    SectionNumberReset="continue"
-    VolumeNumberReset="same">
-    <TocEntry
-      Title="[%=System.LinkedFile%]"
-      Link="/Content/Patient Tracking System/PTS Cover Page iSO.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-      conditions="Default.NEW Print Only" />
-    <TocEntry
-      Title="[%=System.LinkedFile%]"
-      Link="/Content/Main Legal &amp; License Information.htm"
-      conditions="Default.PrintOnly"
-      StartSection="false" />
-    <TocEntry
-      Title="TOC"
-      Link="/Content/Client TOC.htm"
-      BreakType="chapter"
-      StartSection="false"
-      PageLayout="/Content/Resources/PageLayouts/Default.flpgl"
-      conditions="Default.PrintOnly"
-      PageNumberReset="continue"></TocEntry>
-    <TocEntry
-      Title="blank page"
-      Link="/Content/Blank Page.htm"
-      conditions="Default.PrintOnly"
-      StartSection="false" />
-    <TocEntry
-      Title="Patient Tracking Overview"
-      Link="/Content/Patient Tracking System/PTS Overview.htm"
-      StartChapter="true"
-      PageNumber="1"
-      PageNumberReset="reset"
-      StartSection="false"
-      PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
-      ChapterNumberReset="reset"
-      ChapterNumber="1"
-      SectionNumberReset="continue"
-      VolumeNumberReset="same" />
-    <TocEntry
-      Title="Getting Started"
-      Link="/Content/Patient Tracking System/iOS_2.0/Using PTS_2.0.htm"
-      StartChapter="true"
-      PageNumber="1"
-      PageNumberReset="continue"
-      StartSection="false"
-      PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl" />
-    <TocEntry
-      Title="Working with Individual Patients"
-      Link="/Content/Patient Tracking System/iOS_2.0/Working with Patients_2.0.htm"
-      StartChapter="true"
-      PageNumber="1"
-      PageNumberReset="continue"
-      StartSection="false"
-      PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl" />
-    <TocEntry
-      Title="Working with Groups of Patients"
-      Link="/Content/Patient Tracking System/iOS_2.0/Working with Groups_2.0.htm"
-      VolumeNumberReset="continue"
-      SectionNumberReset="continue"
-      ChapterNumberReset="continue"
-      BreakType="chapter"
-      StartSection="false"
-      PageNumberReset="continue"
-      ComputeToc="false"
-      ReplaceMergeNode="false"
-      PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl" />
-    <TocEntry
-      Title="Application Settings"
-      Link="/Content/Patient Tracking System/iOS_2.0/Settings_2.0.htm"
-      BreakType="chapter"
-      StartSection="false"
-      PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
-      PageNumberReset="continue" />
-    <TocEntry
-      Title="HC PTS For iOS Training Videos"
-      Link="/Content/Videos/iOS PTS/Videos.htm"
-      conditions="Default.WebOnly" />
   </TocEntry>
   <TocEntry
     Title="HC Community Paramedicine for Android"
