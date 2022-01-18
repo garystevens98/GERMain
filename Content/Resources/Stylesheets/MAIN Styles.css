@@ -1589,3 +1589,9 @@ img.small_icon_square
 	width: 25px;
 }
 
+img.BeforeAfter
+{
+	mc-thumbnail-max-height: auto;
+	height: 450px;
+}
+
