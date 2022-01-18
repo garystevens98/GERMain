@@ -1352,11 +1352,6 @@
         conditions="Default.PrintOnly"
         PageNumberReset="continue"></TocEntry>
       <TocEntry
-        Title="blank page"
-        Link="/Content/Blank Page.htm"
-        conditions="Default.PrintOnly"
-        StartSection="false" />
-      <TocEntry
         Title="Patient Tracking Overview"
         Link="/Content/Patient Tracking System/PTS Overview.htm"
         StartChapter="true"
@@ -1461,6 +1456,9 @@
         SectionNumberReset="continue"
         VolumeNumberReset="same"
         conditions="Default.TOC Patient Tracking" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Patient Tracking System/Android_2.0/What's New Android 2.0.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
       <TocEntry
         Title="Getting Started"
         Link="/Content/Patient Tracking System/Android_2.0/Using PTS_Android_2.0.htm"

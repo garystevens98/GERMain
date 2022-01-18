@@ -1560,7 +1560,7 @@ p.Title01-sup-R
 	line-height: normal;
 }
 
-img.small_icon
+img.small_icon_rectagular
 {
 	border-left-style: none;
 	border-right-style: none;
@@ -1575,5 +1575,17 @@ img.small_icon
 h3.NoBreak
 {
 	page-break-before: avoid;
+}
+
+img.small_icon_square
+{
+	border-left-style: none;
+	border-right-style: none;
+	border-top-style: none;
+	border-bottom-style: none;
+	clear: left;
+	float: right;
+	height: 25px;
+	width: 25px;
 }
 
