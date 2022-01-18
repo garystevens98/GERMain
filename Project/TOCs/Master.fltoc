@@ -1279,6 +1279,13 @@
         VolumeNumberReset="same"
         conditions="Default.TOC Patient Tracking" />
       <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Patient Tracking System/iSO_2.0/What's New iSO 2.0.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+        BreakType="chapter"
+        StartSection="false"
+        PageNumberReset="continue"
+        conditions="Default.TOC iSO 2_0" />
+      <TocEntry
         Title="Getting Started"
         StartChapter="true"
         PageNumber="1"
