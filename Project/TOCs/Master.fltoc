@@ -1458,7 +1458,8 @@
         conditions="Default.TOC Patient Tracking" />
       <TocEntry
         Title="[%=System.LinkedTitle%]"
-        Link="/Content/Patient Tracking System/Android_2.0/What's New Android 2.0.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        Link="/Content/Patient Tracking System/Android_2.0/What's New Android 2.0.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+        conditions="Default.TOC Android 2_0" />
       <TocEntry
         Title="Getting Started"
         Link="/Content/Patient Tracking System/Android_2.0/Using PTS_Android_2.0.htm"
