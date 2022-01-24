@@ -1001,7 +1001,6 @@
     conditions="Default.NEW Retired,Default.TOC Retired">
     <TocEntry
       Title="Cover Page"
-      Link="/Content/Community Paramedicine/Cover Page-cpm.htm"
       conditions="Default.PrintOnly"
       StartSection="false" />
     <TocEntry
@@ -1075,7 +1074,6 @@
     conditions="Default.NEW Retired,Default.TOC Retired">
     <TocEntry
       Title="Cover Page"
-      Link="/Content/Community Paramedicine/Cover Page-cpm.htm"
       conditions="Default.PrintOnly"
       StartSection="false" />
     <TocEntry

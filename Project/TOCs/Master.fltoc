@@ -19,27 +19,32 @@
     conditions="Default.CPM">
     <TocEntry
       Title="Cover Page"
-      Link="/Content/Community Paramedicine/Cover Page-cpm.htm"
-      conditions="Default.PrintOnly"
-      StartSection="false" />
+      Link="/Content/Main Cover Page.htm"
+      StartSection="false"
+      conditions="Default.TOC Print Only"
+      SectionNumberReset="continue"
+      VolumeNumberReset="same"
+      ChapterNumberReset="continue" />
     <TocEntry
       Title="HC Standard® Administrator Manual"
-      Link="/Content/Community Paramedicine/Acknowledgements-cpm.htm"
-      conditions="Default.PrintOnly"
-      StartSection="false" />
+      Link="/Content/Main Legal &amp; License Information.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      SectionNumberReset="continue"
+      VolumeNumberReset="same"
+      ChapterNumberReset="continue"
+      conditions="Default.TOC Print Only" />
     <TocEntry
       Title="TOC"
       Link="/Content/Client TOC.htm"
       BreakType="chapter"
       StartSection="false"
       PageLayout="/Content/Resources/PageLayouts/Default.flpgl"
-      conditions="Default.PrintOnly"
-      PageNumberReset="continue"></TocEntry>
+      PageNumberReset="continue"
+      conditions="Default.TOC Print Only"></TocEntry>
     <TocEntry
       Title="blank page"
       Link="/Content/Blank Page.htm"
-      conditions="Default.PrintOnly"
-      StartSection="false" />
+      StartSection="false"
+      conditions="Default.TOC Print Only" />
     <TocEntry
       Title="HC Community Paramedicine Overview"
       Link="/Content/Community Paramedicine/CPM Overview.htm"
@@ -51,9 +56,11 @@
       ChapterNumberReset="reset"
       ChapterNumber="1"
       SectionNumberReset="continue"
-      VolumeNumberReset="same" />
+      VolumeNumberReset="same"
+      conditions="Default.TOC iSO 1_3" />
     <TocEntry
-      Title="HC Mobile Community Paramedicine">
+      Title="HC Mobile Community Paramedicine"
+      conditions="Default.TOC iSO 1_3">
       <TocEntry
         Title="Getting Started"
         Link="/Content/Community Paramedicine/iOS/Using CPM.htm"
@@ -61,7 +68,8 @@
         PageNumber="1"
         PageNumberReset="continue"
         StartSection="false"
-        PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl" />
+        PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
+        conditions="Default.TOC iSO 1_3" />
       <TocEntry
         Title="Working with Records"
         Link="/Content/Community Paramedicine/iOS/Working with Records.htm"
@@ -69,14 +77,16 @@
         PageNumber="1"
         PageNumberReset="continue"
         StartSection="false"
-        PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl" />
+        PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
+        conditions="Default.TOC iSO 1_3" />
       <TocEntry
         Title="Application Settings"
         Link="/Content/Patient Tracking System/iOS_1.3/Settings_1.3.htm"
         BreakType="chapter"
         StartSection="false"
         PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
-        PageNumberReset="continue" />
+        PageNumberReset="continue"
+        conditions="Default.TOC iSO 1_3" />
     </TocEntry>
   </TocEntry>
   <TocEntry

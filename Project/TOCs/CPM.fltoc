@@ -15,12 +15,10 @@
     conditions="Default.iOS">
     <TocEntry
       Title="Cover Page"
-      Link="/Content/Community Paramedicine/Cover Page-cpm.htm"
       conditions="Default.PrintOnly"
       StartSection="false" />
     <TocEntry
       Title="HC Standard® Administrator Manual"
-      Link="/Content/Community Paramedicine/Acknowledgements-cpm.htm"
       conditions="Default.PrintOnly"
       StartSection="false" />
     <TocEntry
@@ -89,7 +87,6 @@
     conditions="Default.Android">
     <TocEntry
       Title="Cover Page"
-      Link="/Content/Community Paramedicine/Cover Page-cpm.htm"
       conditions="Default.PrintOnly"
       StartSection="false" />
     <TocEntry

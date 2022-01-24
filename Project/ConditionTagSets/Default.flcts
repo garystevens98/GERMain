@@ -214,4 +214,12 @@
     BackgroundColor="#37d0d0"
     Name="TOC Shelter Tracking"
     Comment="" />
+  <ConditionTag
+    BackgroundColor="#00ff00"
+    Name="CON Community Paramedicine"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#51dede"
+    Name="TOC Community Paramedicine"
+    Comment="" />
 </CatapultConditionTagSet>
