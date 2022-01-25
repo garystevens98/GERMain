@@ -328,18 +328,6 @@
       </TocEntry>
     </TocEntry>
     <TocEntry
-      Title="User Management">
-      <TocEntry
-        Title="[%=System.LinkedTitle%]"
-        Link="/Content/HC Standard/User Management.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-      <TocEntry
-        Title="[%=System.LinkedTitle%]"
-        Link="/Content/HC Standard/New Incident Creation.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-      <TocEntry
-        Title="[%=System.LinkedTitle%]"
-        Link="/Content/HC Standard/Viewing Incident Data.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    </TocEntry>
-    <TocEntry
       Title="Glossary"
       Link="/Content/Glossary.htm"
       conditions="Default.PrintOnly,Default.combined"
