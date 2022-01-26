@@ -998,7 +998,7 @@
     ChapterNumber="1"
     SectionNumberReset="continue"
     VolumeNumberReset="same"
-    conditions="Default.NEW Retired,Default.TOC Retired">
+    conditions="Default.TOC Retired">
     <TocEntry
       Title="Cover Page"
       conditions="Default.PrintOnly"
@@ -1071,7 +1071,7 @@
     ChapterNumber="1"
     SectionNumberReset="continue"
     VolumeNumberReset="same"
-    conditions="Default.NEW Retired,Default.TOC Retired">
+    conditions="Default.TOC Retired">
     <TocEntry
       Title="Cover Page"
       conditions="Default.PrintOnly"

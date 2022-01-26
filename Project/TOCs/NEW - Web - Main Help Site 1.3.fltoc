@@ -716,8 +716,8 @@
         BreakType="chapter"
         StartSection="false"
         PageLayout="/Content/Resources/PageLayouts/Default.flpgl"
-        conditions="Default.PrintOnly"
-        PageNumberReset="continue"></TocEntry>
+        PageNumberReset="continue"
+        conditions="Default.TOC Print Only"></TocEntry>
       <TocEntry
         Title="blank page"
         Link="/Content/Blank Page.htm"
