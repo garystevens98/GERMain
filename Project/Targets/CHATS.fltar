@@ -14,6 +14,8 @@
     ShowUsedBookmarks="false" />
   <Destinations>
     <Destination
-      Link="/Project/Destinations/websitepdfs.fldes" />
+      Link="/Project/Destinations/websitepdfs.fldes"
+      Publish="true"
+      IsResource="false" />
   </Destinations>
 </CatapultTarget>

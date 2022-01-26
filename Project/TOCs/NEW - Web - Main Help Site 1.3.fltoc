@@ -699,8 +699,7 @@
       ChapterNumberReset="reset"
       ChapterNumber="1"
       SectionNumberReset="continue"
-      VolumeNumberReset="same"
-      conditions="Default.NEW Retired">
+      VolumeNumberReset="same">
       <TocEntry
         Title="Cover Page"
         conditions="Default.PrintOnly"
@@ -772,8 +771,7 @@
       ChapterNumberReset="reset"
       ChapterNumber="1"
       SectionNumberReset="continue"
-      VolumeNumberReset="same"
-      conditions="Default.NEW Retired">
+      VolumeNumberReset="same">
       <TocEntry
         Title="Cover Page"
         conditions="Default.PrintOnly"
@@ -1207,8 +1205,7 @@
     <TocEntry
       Title="HC Patient Tracking for Windows 8"
       ReplaceMergeNode="false"
-      StartSection="false"
-      conditions="Default.NEW Retired">
+      StartSection="false">
       <TocEntry
         Title="[%=System.LinkedFile%]"
         Link="/Content/Patient Tracking System/PTS Cover Page Android.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
@@ -1275,7 +1272,6 @@
     </TocEntry>
     <TocEntry
       Title="HC Patient Tracking for Windows Mobile"
-      conditions="Default.NEW Retired"
       ReplaceMergeNode="false"
       StartSection="false"
       ComputeToc="false">
