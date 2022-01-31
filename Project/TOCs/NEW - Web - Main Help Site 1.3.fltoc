@@ -1127,7 +1127,7 @@
       ChapterNumber="1"
       SectionNumberReset="continue"
       VolumeNumberReset="same"
-      conditions="Default.Android,Default.TOC Android">
+      conditions="Default.TOC Android">
       <TocEntry
         Title="[%=System.LinkedFile%]"
         Link="/Content/Patient Tracking System/PTS Cover Page Android.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"

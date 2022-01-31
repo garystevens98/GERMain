@@ -3,7 +3,6 @@
   Version="1">
   <TocEntry
     Title="HC Evacuee Tracking for iOS"
-    conditions="Default.iOS"
     ReplaceMergeNode="false"
     BreakType="none"
     PageNumberReset="reset"

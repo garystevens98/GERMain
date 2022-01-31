@@ -11,8 +11,7 @@
     ChapterNumberReset="reset"
     ChapterNumber="1"
     SectionNumberReset="continue"
-    VolumeNumberReset="same"
-    conditions="Default.iOS">
+    VolumeNumberReset="same">
     <TocEntry
       Title="Cover Page"
       conditions="Default.PrintOnly"
@@ -83,8 +82,7 @@
     ChapterNumberReset="reset"
     ChapterNumber="1"
     SectionNumberReset="continue"
-    VolumeNumberReset="same"
-    conditions="Default.Android">
+    VolumeNumberReset="same">
     <TocEntry
       Title="Cover Page"
       conditions="Default.PrintOnly"

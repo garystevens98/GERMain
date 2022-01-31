@@ -957,7 +957,6 @@
   </TocEntry>
   <TocEntry
     Title="HC Patient Tracking for iOS"
-    conditions="Default.iOS"
     ReplaceMergeNode="false"
     BreakType="none"
     PageNumberReset="reset"
@@ -970,8 +969,7 @@
     <TocEntry
       Title="[%=System.LinkedFile%]"
       Link="/Content/Patient Tracking System/PTS Cover Page iSO.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-      StartSection="false"
-      conditions="Default.NEW Print Only"></TocEntry>
+      StartSection="false"></TocEntry>
     <TocEntry
       Title="[%=System.LinkedFile%]"
       Link="/Content/Main Legal &amp; License Information.htm"
@@ -1047,12 +1045,10 @@
     ChapterNumberReset="reset"
     ChapterNumber="1"
     SectionNumberReset="continue"
-    VolumeNumberReset="same"
-    conditions="Default.Android">
+    VolumeNumberReset="same">
     <TocEntry
       Title="[%=System.LinkedFile%]"
       Link="/Content/Patient Tracking System/PTS Cover Page Android.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-      conditions="Default.NEW Print Only"
       ComputeToc="false"
       ReplaceMergeNode="false" />
     <TocEntry
@@ -1128,7 +1124,6 @@
     <TocEntry
       Title="[%=System.LinkedFile%]"
       Link="/Content/Patient Tracking System/PTS Cover Page Android.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-      conditions="Default.NEW Print Only"
       ComputeToc="false"
       ReplaceMergeNode="false" />
     <TocEntry
@@ -1276,7 +1271,6 @@
   </TocEntry>
   <TocEntry
     Title="HC Decedent Tracking for iOS"
-    conditions="Default.iOS"
     ReplaceMergeNode="false"
     BreakType="none"
     PageNumberReset="reset"

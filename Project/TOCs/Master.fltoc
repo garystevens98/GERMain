@@ -1338,7 +1338,7 @@
       ChapterNumber="1"
       SectionNumberReset="continue"
       VolumeNumberReset="same"
-      conditions="Default.Android,Default.TOC Android 1_3">
+      conditions="Default.TOC Android 1_3">
       <TocEntry
         Title="[%=System.LinkedFile%]"
         Link="/Content/Main Cover Page.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"

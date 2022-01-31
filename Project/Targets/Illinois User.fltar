@@ -5,7 +5,7 @@
   Type="PDF"
   Destinations=""
   GlossaryTermConversion="marked"
-  ConditionTagExpression="include[Default.combined or Default.Generic or Default.HC or Default.IC or Default.iOS or Default.PrintOnly] exclude[Default.Admin or Default.ALL or Default.Android or Default.MIEMSS2 or Default.SubAdmin or Default.WebOnly or Default.Windows8 or Default.WM] "
+  ConditionTagExpression="include[Default.combined or Default.Generic or Default.HC or Default.IC or Default.PrintOnly]exclude[Default.Admin or Default.ALL or Default.MIEMSS2 or Default.SubAdmin or Default.WebOnly or Default.Windows8 or Default.WM]"
   conditions="Default.HC,Default.PrintOnly"
   MasterStylesheet="/Content/Resources/Stylesheets/MAIN Styles.css"
   MasterToc="/Project/TOCs/Illinois.fltoc">

@@ -492,7 +492,6 @@
       ChapterNumber="1"
       SectionNumberReset="continue"
       VolumeNumberReset="continue"
-      conditions="Default.iOS"
       PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl">
       <TocEntry
         Title="[%=System.LinkedFile%]"
@@ -502,8 +501,7 @@
         VolumeNumberReset="continue"
         BreakType="chapter"
         StartSection="false"
-        PageNumberReset="continue"
-        conditions="Default.NEW Print Only" />
+        PageNumberReset="continue" />
       <TocEntry
         Title="Patient Tracking Overview"
         Link="/Content/Patient Tracking System/PTS Overview.htm"
@@ -572,13 +570,11 @@
       ChapterNumber="1"
       SectionNumberReset="continue"
       VolumeNumberReset="same"
-      conditions="Default.Android"
       ComputeToc="false"
       PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl">
       <TocEntry
         Title="[%=System.LinkedFile%]"
-        Link="/Content/Patient Tracking System/PTS Cover Page Android.htm"
-        conditions="Default.NEW Print Only" />
+        Link="/Content/Patient Tracking System/PTS Cover Page Android.htm" />
       <TocEntry
         Title="Patient Tracking Overview"
         Link="/Content/Patient Tracking System/PTS Overview.htm"
@@ -656,8 +652,7 @@
       PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl">
       <TocEntry
         Title="[%=System.LinkedFile%]"
-        Link="/Content/Patient Tracking System/PTS Cover Page Android.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-        conditions="Default.NEW Print Only"></TocEntry>
+        Link="/Content/Patient Tracking System/PTS Cover Page Android.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"></TocEntry>
       <TocEntry
         Title="Patient Tracking Overview"
         Link="/Content/Patient Tracking System/PTS Overview.htm"
@@ -728,7 +723,6 @@
       <TocEntry
         Title="[%=System.LinkedFile%]"
         Link="/Content/Patient Tracking System/PTS Cover Page Android.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-        conditions="Default.NEW Print Only"
         StartSection="false"
         SectionNumberReset="continue"
         VolumeNumberReset="same"

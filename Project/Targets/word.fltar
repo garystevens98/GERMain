@@ -5,7 +5,7 @@
   Type="MsWord"
   Destinations=""
   GlossaryTermConversion="marked"
-  ConditionTagExpression="include[Default.PrintOnly or Default.SubAdmin or Default.WebOnly] exclude[Default.Admin or Default.ALL or Default.Android or Default.combined or Default.HC or Default.IC or Default.iOS or Default.Windows8 or Default.WM] ">
+  ConditionTagExpression="include[Default.PrintOnly or Default.SubAdmin or Default.WebOnly]exclude[Default.Admin or Default.ALL or Default.combined or Default.HC or Default.IC or Default.Windows8 or Default.WM]">
   <PrintedOutput
     CollapseMargins="true" />
 </CatapultTarget>
