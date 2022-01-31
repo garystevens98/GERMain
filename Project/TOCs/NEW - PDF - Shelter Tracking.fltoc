@@ -43,10 +43,6 @@
       ChapterNumberReset="continue"
       BreakType="chapter"></TocEntry>
     <TocEntry
-      Title="[%=System.LinkedFile%]"
-      Link="/Content/Blank Page.htm"
-      StartSection="false" />
-    <TocEntry
       Title="Main Content"
       ChapterNumber="1"
       ChapterNumberReset="reset"
