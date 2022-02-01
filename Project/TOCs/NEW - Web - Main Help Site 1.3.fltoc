@@ -826,7 +826,7 @@
           PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl" />
         <TocEntry
           Title="Application Settings"
-          Link="/Content/Patient Tracking System/iOS_1.3/Settings_1.3.htm"
+          Link="/Content/Patient Tracking System/iOS_1.3/Settings_iSO_1.3.htm"
           BreakType="chapter"
           StartSection="false"
           PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
@@ -1164,7 +1164,7 @@
         VolumeNumberReset="same" />
       <TocEntry
         Title="Getting Started"
-        Link="/Content/Patient Tracking System/Android_1.3/Using PTS_1.3.htm"
+        Link="/Content/Patient Tracking System/Android_1.3/Using PTS_Android_1.3.htm"
         StartChapter="true"
         PageNumber="1"
         PageNumberReset="continue"
@@ -1172,7 +1172,7 @@
         PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl" />
       <TocEntry
         Title="Working with Individual Patients"
-        Link="/Content/Patient Tracking System/Android_1.3/Working with Patients_1.3.htm"
+        Link="/Content/Patient Tracking System/Android_1.3/Working with Patients_Android_1.3.htm"
         StartChapter="true"
         PageNumber="1"
         PageNumberReset="continue"
@@ -1180,7 +1180,7 @@
         PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl" />
       <TocEntry
         Title="Working with Groups of Patients"
-        Link="/Content/Patient Tracking System/Android_1.3/Working with Groups_1.3.htm"
+        Link="/Content/Patient Tracking System/Android_1.3/Working with Groups_Android_1.3.htm"
         VolumeNumberReset="continue"
         SectionNumberReset="continue"
         ChapterNumberReset="continue"
@@ -1192,7 +1192,7 @@
         PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl" />
       <TocEntry
         Title="Application Settings"
-        Link="/Content/Patient Tracking System/Android_1.3/Settings_1.3.htm"
+        Link="/Content/Patient Tracking System/Android_1.3/Settings_Android_1.3.htm"
         BreakType="chapter"
         StartSection="false"
         PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
@@ -1407,7 +1407,7 @@
         VolumeNumberReset="same" />
       <TocEntry
         Title="Getting Started"
-        Link="/Content/Patient Tracking System/iOS_1.3/Using PTS_1.3.htm"
+        Link="/Content/Patient Tracking System/iOS_1.3/Using PTS_iSO_1.3.htm"
         StartChapter="true"
         PageNumber="1"
         PageNumberReset="continue"
@@ -1415,7 +1415,7 @@
         PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl" />
       <TocEntry
         Title="Working with Individual Patients"
-        Link="/Content/Patient Tracking System/iOS_1.3/Working with Patients_1.3.htm"
+        Link="/Content/Patient Tracking System/iOS_1.3/Working with Patients_iSO_1.3.htm"
         StartChapter="true"
         PageNumber="1"
         PageNumberReset="continue"
@@ -1423,7 +1423,7 @@
         PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl" />
       <TocEntry
         Title="Working with Groups of Patients"
-        Link="/Content/Patient Tracking System/iOS_1.3/Working with Groups_1.3.htm"
+        Link="/Content/Patient Tracking System/iOS_1.3/Working with Groups_iSO_1.3.htm"
         VolumeNumberReset="continue"
         SectionNumberReset="continue"
         ChapterNumberReset="continue"
@@ -1435,7 +1435,7 @@
         PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl" />
       <TocEntry
         Title="Application Settings"
-        Link="/Content/Patient Tracking System/iOS_1.3/Settings_1.3.htm"
+        Link="/Content/Patient Tracking System/iOS_1.3/Settings_iSO_1.3.htm"
         BreakType="chapter"
         StartSection="false"
         PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
