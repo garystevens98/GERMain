@@ -5,7 +5,7 @@
   Type="PDF"
   Destinations=""
   GlossaryTermConversion="marked"
-  ConditionTagExpression="include[Default.ALL or Default.PrintOnly]exclude[Default.Admin or Default.combined or Default.EWRAP or Default.Generic or Default.HC or Default.IC or Default.SubAdmin or Default.WebOnly or Default.Windows8 or Default.WM]"
+  ConditionTagExpression="include[Default.ALL or Default.PrintOnly]exclude[Default.Admin or Default.combined or Default.EWRAP or Default.Generic or Default.HC or Default.IC or Default.SubAdmin or Default.WebOnly]"
   MasterStylesheet="/Content/Resources/Stylesheets/MAIN Styles.css"
   MasterToc="/Project/TOCs/DOJ.fltoc">
   <PDF

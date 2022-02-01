@@ -5,7 +5,7 @@
   Type="PDF"
   Destinations=""
   GlossaryTermConversion="marked"
-  ConditionTagExpression="include[Default.ALL or &quot;Default.CON Shelter Tracking&quot; or Default.Generic or Default.PrintOnly or &quot;Default.Shelter Tracking&quot;]exclude[Default.Admin or Default.Analytics or Default.CHATS or Default.combined or &quot;Default.CON Android&quot; or &quot;Default.CON Android 1_3&quot; or &quot;Default.CON Android 2_0&quot; or &quot;Default.CON iSO&quot; or &quot;Default.CON Patient Tracking&quot; or Default.CPM or Default.EWRAP or Default.HAVBED or Default.HC or Default.IC or Default.MIEMSS2 or &quot;Default.Patient Placement&quot; or &quot;Default.Perk Tracker&quot; or Default.SubAdmin or Default.WebOnly or Default.Windows8 or Default.WM]"
+  ConditionTagExpression="include[Default.ALL or &quot;Default.CON Shelter Tracking&quot; or Default.Generic or Default.PrintOnly or &quot;Default.Shelter Tracking&quot;]exclude[Default.Admin or Default.Analytics or Default.CHATS or Default.combined or &quot;Default.CON Android&quot; or &quot;Default.CON Android 1_3&quot; or &quot;Default.CON Android 2_0&quot; or &quot;Default.CON iSO&quot; or &quot;Default.CON Patient Tracking&quot; or Default.CPM or Default.EWRAP or Default.HAVBED or Default.HC or Default.IC or Default.MIEMSS2 or &quot;Default.Patient Placement&quot; or &quot;Default.Perk Tracker&quot; or Default.SubAdmin or Default.WebOnly]"
   MasterStylesheet="/Content/Resources/Stylesheets/MAIN Styles.css">
   <PDF
     ImageCompression="Automatic"

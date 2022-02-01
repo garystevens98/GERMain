@@ -1118,7 +1118,6 @@
   </TocEntry>
   <TocEntry
     Title="HC Patient Tracking for Windows Mobile"
-    conditions="Default.WM"
     ReplaceMergeNode="false"
     StartSection="false">
     <TocEntry

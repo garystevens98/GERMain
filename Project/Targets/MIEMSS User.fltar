@@ -5,7 +5,7 @@
   Type="PDF"
   Destinations=""
   GlossaryTermConversion="marked"
-  ConditionTagExpression="include[Default.combined or Default.HC or Default.IC or Default.MIEMSS2 or Default.PrintOnly or Default.Windows8 or Default.WM]exclude[Default.Admin or Default.ALL or Default.EWRAP or Default.Generic or Default.SubAdmin or Default.WebOnly]"
+  ConditionTagExpression="include[Default.combined or Default.HC or Default.IC or Default.MIEMSS2 or Default.PrintOnly]exclude[Default.Admin or Default.ALL or Default.EWRAP or Default.Generic or Default.SubAdmin or Default.WebOnly]"
   conditions="Default.HC,Default.PrintOnly"
   MasterStylesheet="/Content/Resources/Stylesheets/MAIN Styles.css"
   MasterToc="/Project/TOCs/MIEMSS.fltoc">

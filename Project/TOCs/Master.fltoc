@@ -1322,10 +1322,6 @@
         PageNumberReset="continue"
         conditions="Default.TOC iSO 2_0"
         Link="/Content/Patient Tracking System/iSO_2.0/Settings_iSO_2.0.htm" />
-      <TocEntry
-        Title="HC PTS For iOS Training Videos"
-        Link="/Content/Videos/iOS PTS/Videos.htm"
-        conditions="Default.WebOnly" />
     </TocEntry>
     <TocEntry
       Title="HC Patient Tracking for Android 1.3"
@@ -1342,7 +1338,7 @@
       <TocEntry
         Title="[%=System.LinkedFile%]"
         Link="/Content/Main Cover Page.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-        conditions="Default.TOC Print Only,Default.TOC Android 1_3"></TocEntry>
+        conditions="Default.TOC Print Only"></TocEntry>
       <TocEntry
         Title="[%=System.LinkedFile%]"
         Link="/Content/Main Legal &amp; License Information.htm"
@@ -1354,8 +1350,8 @@
         BreakType="chapter"
         StartSection="false"
         PageLayout="/Content/Resources/PageLayouts/Default.flpgl"
-        conditions="Default.PrintOnly"
-        PageNumberReset="continue"></TocEntry>
+        PageNumberReset="continue"
+        conditions="Default.TOC Print Only"></TocEntry>
       <TocEntry
         Title="Patient Tracking Overview"
         Link="/Content/Patient Tracking System/PTS Overview.htm"
@@ -1507,14 +1503,9 @@
         PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
         PageNumberReset="continue"
         conditions="Default.TOC Android 2_0" />
-      <TocEntry
-        Title="HC Standard® Help Center Training Videos"
-        Link="/Content/Videos/iOS PTS/Videos.htm"
-        conditions="Default.WebOnly" />
     </TocEntry>
     <TocEntry
       Title="HC Patient Tracking for Windows Mobile"
-      conditions="Default.WM"
       ReplaceMergeNode="false"
       StartSection="false">
       <TocEntry
@@ -1604,8 +1595,7 @@
     <TocEntry
       Title="HC Patient Tracking for Windows 8"
       ReplaceMergeNode="false"
-      StartSection="false"
-      conditions="Default.Windows8">
+      StartSection="false">
       <TocEntry
         Title="[%=System.LinkedFile%]"
         Link="/Content/Main Cover Page.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"

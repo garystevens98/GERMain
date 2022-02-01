@@ -16,7 +16,7 @@
   SearchDatabaseChunkSize="100000"
   PreMergeSearchDatabase="false"
   MasterToc="/Project/TOCs/Test.fltoc"
-  ConditionTagExpression="include[Default.Admin or Default.ALL or Default.Analytics or Default.CHATS or Default.EWRAP or Default.Generic or Default.HAVBED or Default.HC or Default.IC or &quot;Default.Perk Tracker&quot; or Default.WebOnly or Default.Windows8 or Default.WM]exclude[Default.combined or Default.CPM or Default.MIEMSS2 or Default.PrintOnly or Default.SubAdmin]"
+  ConditionTagExpression="include[Default.Admin or Default.ALL or Default.Analytics or Default.CHATS or Default.EWRAP or Default.Generic or Default.HAVBED or Default.HC or Default.IC or &quot;Default.Perk Tracker&quot; or Default.WebOnly]exclude[Default.combined or Default.CPM or Default.MIEMSS2 or Default.PrintOnly or Default.SubAdmin]"
   ExcludeUnreferencedContent="true">
   <PrintedOutput
     CollapseMargins="true" />
