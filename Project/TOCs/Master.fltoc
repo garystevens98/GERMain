@@ -908,7 +908,7 @@
     StartSection="false"
     SectionNumberReset="continue"
     VolumeNumberReset="same"
-    conditions="Default.Analytics">
+    conditions="Default.TOC Retired">
     <TocEntry
       Title="Cover Page"
       Link="/Content/Analytics/IllinoisCover.htm"
@@ -1419,7 +1419,8 @@
     <TocEntry
       Title="HC Patient Tracking for Windows Mobile"
       ReplaceMergeNode="false"
-      StartSection="false">
+      StartSection="false"
+      conditions="Default.TOC Retired">
       <TocEntry
         Title="[%=System.LinkedFile%]"
         Link="/Content/Main Cover Page.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
@@ -1507,7 +1508,8 @@
     <TocEntry
       Title="HC Patient Tracking for Windows 8"
       ReplaceMergeNode="false"
-      StartSection="false">
+      StartSection="false"
+      conditions="Default.TOC Retired">
       <TocEntry
         Title="[%=System.LinkedFile%]"
         Link="/Content/Main Cover Page.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
@@ -1976,7 +1978,7 @@
     ChapterNumber="1"
     SectionNumberReset="continue"
     VolumeNumberReset="same"
-    conditions="Default.EWRAP">
+    conditions="Default.TOC Retired">
     <TocEntry
       Title="Cover Page"
       Link="/Content/EWRAP/Cover Page.htm"
