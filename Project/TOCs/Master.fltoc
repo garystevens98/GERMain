@@ -1880,7 +1880,7 @@
     </TocEntry>
   </TocEntry>
   <TocEntry
-    Title="Incident Commander"
+    Title="HC Incident Commander"
     conditions="Default.IC"
     ChapterNumberReset="reset"
     ChapterNumber="1"
