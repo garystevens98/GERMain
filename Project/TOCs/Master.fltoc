@@ -2030,4 +2030,63 @@
       ReplaceMergeNode="false"
       PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl" />
   </TocEntry>
+  <TocEntry
+    Title="HC Decedent Tracking"
+    conditions="Default.TOC Decedent Tracking">
+    <TocEntry
+      Title="iOS">
+      <TocEntry
+        Title="Acknowledgements"
+        Link="/Content/Decedent Tracking/iOS/Acknowledgements.htm"
+        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="Cover Page"
+        Link="/Content/Decedent Tracking/iOS/Cover Page.htm"
+        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="Field Operations Module"
+        Link="/Content/Decedent Tracking/iOS/Field Ops.htm"
+        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="Working with Intake Operations"
+        Link="/Content/Decedent Tracking/iOS/Intake.htm"
+        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="Working with Transport Operations"
+        Link="/Content/Decedent Tracking/iOS/Log Transport.htm"
+        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="Working with Morgue Operations"
+        Link="/Content/Decedent Tracking/iOS/Morgue.htm"
+        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="Mortuary Operations Module"
+        Link="/Content/Decedent Tracking/iOS/Mortuary Ops.htm"
+        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="Decedent Tracking Overview"
+        Link="/Content/Decedent Tracking/iOS/RT Overview.htm"
+        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="Settings"
+        Link="/Content/Decedent Tracking/iOS/Settings.htm"
+        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="Transport Operations Module"
+        Link="/Content/Decedent Tracking/iOS/Transport Ops.htm"
+        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="Using HC Mobile™"
+        Link="/Content/Decedent Tracking/iOS/Using PTS.htm"
+        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="Working with Decedents and Body Parts"
+        Link="/Content/Decedent Tracking/iOS/Working with decedents.htm"
+        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="Working with Groups of Decedents or Body Parts"
+        Link="/Content/Decedent Tracking/iOS/Working with Groups.htm"
+        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    </TocEntry>
+  </TocEntry>
 </CatapultToc>

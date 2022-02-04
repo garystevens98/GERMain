@@ -228,4 +228,12 @@
     BackgroundColor="#9acd32"
     Name="TOC Windows 8"
     Comment="" />
+  <ConditionTag
+    BackgroundColor="#fa8072"
+    Name="CON Decedent Tracking"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#ad00ff"
+    Name="TOC Decedent Tracking"
+    Comment="" />
 </CatapultConditionTagSet>
