@@ -212,4 +212,20 @@
     BackgroundColor="#51dede"
     Name="TOC Community Paramedicine"
     Comment="" />
+  <ConditionTag
+    BackgroundColor="#2f4f4f"
+    Name="CON Windows Mobile"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#9acd32"
+    Name="TOC Windows Mobile"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#2f4f4f"
+    Name="CON Windows 8"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#9acd32"
+    Name="TOC Windows 8"
+    Comment="" />
 </CatapultConditionTagSet>
