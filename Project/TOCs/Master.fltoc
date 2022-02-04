@@ -659,249 +659,6 @@
       conditions="Default.WebOnly" />
   </TocEntry>
   <TocEntry
-    Title="HC Community Paramedicine for iOS"
-    ReplaceMergeNode="false"
-    BreakType="none"
-    PageNumberReset="reset"
-    PageNumber="83"
-    StartSection="false"
-    ChapterNumberReset="reset"
-    ChapterNumber="1"
-    SectionNumberReset="continue"
-    VolumeNumberReset="same"
-    conditions="Default.CPM">
-    <TocEntry
-      Title="Cover Page"
-      Link="/Content/Main Cover Page.htm"
-      StartSection="false"
-      conditions="Default.TOC Print Only"
-      SectionNumberReset="continue"
-      VolumeNumberReset="same"
-      ChapterNumberReset="continue" />
-    <TocEntry
-      Title="HC Standard® Administrator Manual"
-      Link="/Content/Main Legal &amp; License Information.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-      SectionNumberReset="continue"
-      VolumeNumberReset="same"
-      ChapterNumberReset="continue"
-      conditions="Default.TOC Print Only" />
-    <TocEntry
-      Title="TOC"
-      Link="/Content/Client TOC.htm"
-      BreakType="chapter"
-      StartSection="false"
-      PageLayout="/Content/Resources/PageLayouts/Default.flpgl"
-      PageNumberReset="continue"
-      conditions="Default.TOC Print Only"></TocEntry>
-    <TocEntry
-      Title="blank page"
-      Link="/Content/Blank Page.htm"
-      StartSection="false"
-      conditions="Default.TOC Print Only" />
-    <TocEntry
-      Title="HC Community Paramedicine Overview"
-      Link="/Content/Community Paramedicine/CPM Overview.htm"
-      StartChapter="true"
-      PageNumber="1"
-      PageNumberReset="reset"
-      StartSection="false"
-      PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
-      ChapterNumberReset="reset"
-      ChapterNumber="1"
-      SectionNumberReset="continue"
-      VolumeNumberReset="same"
-      conditions="Default.TOC iSO 1_3" />
-    <TocEntry
-      Title="HC Mobile Community Paramedicine"
-      conditions="Default.TOC iSO 1_3">
-      <TocEntry
-        Title="Getting Started"
-        Link="/Content/Community Paramedicine/iOS/Using CPM.htm"
-        StartChapter="true"
-        PageNumber="1"
-        PageNumberReset="continue"
-        StartSection="false"
-        PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
-        conditions="Default.TOC iSO 1_3" />
-      <TocEntry
-        Title="Working with Records"
-        Link="/Content/Community Paramedicine/iOS/Working with Records.htm"
-        StartChapter="true"
-        PageNumber="1"
-        PageNumberReset="continue"
-        StartSection="false"
-        PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
-        conditions="Default.TOC iSO 1_3" />
-      <TocEntry
-        Title="Application Settings"
-        Link="/Content/Patient Tracking System/iOS_1.3/Settings_iSO_1.3.htm"
-        BreakType="chapter"
-        StartSection="false"
-        PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
-        PageNumberReset="continue"
-        conditions="Default.TOC iSO 1_3" />
-    </TocEntry>
-  </TocEntry>
-  <TocEntry
-    Title="HC Hospital Alert Tracking"
-    conditions="Default.CHATS"
-    ChapterNumberReset="reset"
-    ChapterNumber="1"
-    StartSection="false"
-    SectionNumberReset="continue"
-    VolumeNumberReset="same">
-    <TocEntry
-      Title="Cover Page"
-      Link="/Content/CHATS and CHRS/IllinoisCover.htm"
-      conditions="Default.PrintOnly"
-      StartSection="false"
-      PageType="title"
-      PageNumber="1"
-      PageNumberReset="continue"
-      VolumeNumberReset="same"
-      SectionNumberReset="continue"
-      ChapterNumberReset="continue"
-      ReplaceMergeNode="false"
-      PageLayout="/Content/Resources/PageLayouts/Default.flpgl"
-      BreakType="chapter" />
-    <TocEntry
-      Title="Legal &amp; License Information"
-      Link="/Content/CHATS and CHRS/Legal &amp; License Information.htm"
-      VolumeNumberReset="same"
-      SectionNumberReset="continue"
-      ChapterNumberReset="continue"
-      conditions="Default.PrintOnly"
-      BreakType="pageLayout"
-      PageLayout="/Content/Resources/PageLayouts/Default.flpgl"
-      StartSection="false"></TocEntry>
-    <TocEntry
-      Title="Table of Contents"
-      Link="/Content/Client TOC.htm"
-      ReplaceMergeNode="false"
-      ComputeToc="false"
-      PageType="normal"
-      PageNumber="1"
-      PageNumberReset="continue"
-      StartSection="false"
-      VolumeNumberReset="same"
-      SectionNumberReset="continue"
-      ChapterNumberReset="continue"
-      conditions="Default.PrintOnly"
-      BreakType="pageLayout"
-      PageLayout="/Content/Resources/PageLayouts/Default.flpgl"></TocEntry>
-    <TocEntry
-      Title="blank page"
-      Link="/Content/Blank Page.htm"
-      conditions="Default.PrintOnly"
-      StartSection="false" />
-    <TocEntry
-      Title="Getting Started with HC Standard® Hospital Alert Tracking"
-      Link="/Content/CHATS and CHRS/Get Started.htm"
-      ChapterNumber="1"
-      ChapterNumberReset="reset"
-      BreakType="chapter"
-      PageType="title"
-      StartSection="false"
-      PageNumberReset="reset"
-      PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
-      SectionNumberReset="continue"
-      VolumeNumberReset="same"
-      PageNumber="1">
-      <TocEntry
-        Title="Logging In To HC Standard®"
-        Link="/Content/CHATS and CHRS/Log In.htm" />
-      <TocEntry
-        Title="Main Screen"
-        Link="/Content/CHATS and CHRS/Main Screen.htm"
-        BreakType="chapter"
-        StartSection="false"
-        PageNumberReset="continue"
-        PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl" />
-    </TocEntry>
-  </TocEntry>
-  <TocEntry
-    Title="HC HAVBED"
-    conditions="Default.HAVBED"
-    ChapterNumberReset="reset"
-    ChapterNumber="1"
-    StartSection="false"
-    SectionNumberReset="continue"
-    VolumeNumberReset="same">
-    <TocEntry
-      Title="Cover Page"
-      Link="/Content/HAVBED/IllinoisCover.htm"
-      StartSection="false"
-      PageType="title"
-      PageNumber="1"
-      PageNumberReset="continue"
-      VolumeNumberReset="same"
-      SectionNumberReset="continue"
-      ChapterNumberReset="continue"
-      ReplaceMergeNode="false"
-      PageLayout="/Content/Resources/PageLayouts/Default.flpgl"
-      BreakType="chapter"
-      conditions="Default.TOC Print Only" />
-    <TocEntry
-      Title="Legal &amp; License Information"
-      Link="/Content/HAVBED/Legal &amp; License Information.htm"
-      VolumeNumberReset="same"
-      SectionNumberReset="continue"
-      ChapterNumberReset="continue"
-      conditions="Default.PrintOnly"
-      BreakType="pageLayout"
-      PageLayout="/Content/Resources/PageLayouts/Default.flpgl"
-      StartSection="false"></TocEntry>
-    <TocEntry
-      Title="Table of Contents"
-      Link="/Content/Client TOC.htm"
-      ReplaceMergeNode="false"
-      ComputeToc="false"
-      PageType="normal"
-      PageNumber="1"
-      PageNumberReset="continue"
-      StartSection="false"
-      VolumeNumberReset="same"
-      SectionNumberReset="continue"
-      ChapterNumberReset="continue"
-      conditions="Default.PrintOnly"
-      BreakType="pageLayout"
-      PageLayout="/Content/Resources/PageLayouts/Default.flpgl"></TocEntry>
-    <TocEntry
-      Title="blank page"
-      Link="/Content/Blank Page.htm"
-      conditions="Default.PrintOnly"
-      StartSection="false"
-      BreakType="pageLayout"
-      PageLayout="/Content/Resources/PageLayouts/Default.flpgl" />
-    <TocEntry
-      Title="Getting Started with HC Standard® HAvBED"
-      Link="/Content/HAVBED/Get Started.htm"
-      ChapterNumber="1"
-      ChapterNumberReset="reset"
-      BreakType="chapter"
-      PageType="title"
-      StartSection="false"
-      PageNumberReset="reset"
-      PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
-      SectionNumberReset="continue"
-      VolumeNumberReset="same"
-      PageNumber="1">
-      <TocEntry
-        Title="Logging In To HC Standard®"
-        Link="/Content/HAVBED/Log In.htm" />
-      <TocEntry
-        Title="Main Screen"
-        Link="/Content/HAVBED/Main Screen.htm"
-        BreakType="chapter"
-        StartSection="false"
-        PageNumberReset="continue"
-        PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
-        SectionNumberReset="continue"
-        VolumeNumberReset="same"
-        ChapterNumberReset="continue" />
-    </TocEntry>
-  </TocEntry>
-  <TocEntry
     Title="HC Analytics"
     ChapterNumberReset="reset"
     ChapterNumber="1"
@@ -1035,6 +792,598 @@
       SectionNumberReset="continue"
       VolumeNumberReset="same"
       ChapterNumberReset="continue"></TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="HC Community Paramedicine for iOS"
+    ReplaceMergeNode="false"
+    BreakType="none"
+    PageNumberReset="reset"
+    PageNumber="83"
+    StartSection="false"
+    ChapterNumberReset="reset"
+    ChapterNumber="1"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    conditions="Default.CPM">
+    <TocEntry
+      Title="Cover Page"
+      Link="/Content/Main Cover Page.htm"
+      StartSection="false"
+      conditions="Default.TOC Print Only"
+      SectionNumberReset="continue"
+      VolumeNumberReset="same"
+      ChapterNumberReset="continue" />
+    <TocEntry
+      Title="HC Standard® Administrator Manual"
+      Link="/Content/Main Legal &amp; License Information.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      SectionNumberReset="continue"
+      VolumeNumberReset="same"
+      ChapterNumberReset="continue"
+      conditions="Default.TOC Print Only" />
+    <TocEntry
+      Title="TOC"
+      Link="/Content/Client TOC.htm"
+      BreakType="chapter"
+      StartSection="false"
+      PageLayout="/Content/Resources/PageLayouts/Default.flpgl"
+      PageNumberReset="continue"
+      conditions="Default.TOC Print Only"></TocEntry>
+    <TocEntry
+      Title="blank page"
+      Link="/Content/Blank Page.htm"
+      StartSection="false"
+      conditions="Default.TOC Print Only" />
+    <TocEntry
+      Title="HC Community Paramedicine Overview"
+      Link="/Content/Community Paramedicine/CPM Overview.htm"
+      StartChapter="true"
+      PageNumber="1"
+      PageNumberReset="reset"
+      StartSection="false"
+      PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
+      ChapterNumberReset="reset"
+      ChapterNumber="1"
+      SectionNumberReset="continue"
+      VolumeNumberReset="same"
+      conditions="Default.TOC iSO 1_3" />
+    <TocEntry
+      Title="HC Mobile Community Paramedicine"
+      conditions="Default.TOC iSO 1_3">
+      <TocEntry
+        Title="Getting Started"
+        Link="/Content/Community Paramedicine/iOS/Using CPM.htm"
+        StartChapter="true"
+        PageNumber="1"
+        PageNumberReset="continue"
+        StartSection="false"
+        PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
+        conditions="Default.TOC iSO 1_3" />
+      <TocEntry
+        Title="Working with Records"
+        Link="/Content/Community Paramedicine/iOS/Working with Records.htm"
+        StartChapter="true"
+        PageNumber="1"
+        PageNumberReset="continue"
+        StartSection="false"
+        PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
+        conditions="Default.TOC iSO 1_3" />
+      <TocEntry
+        Title="Application Settings"
+        Link="/Content/Patient Tracking System/iOS_1.3/Settings_iSO_1.3.htm"
+        BreakType="chapter"
+        StartSection="false"
+        PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
+        PageNumberReset="continue"
+        conditions="Default.TOC iSO 1_3" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="HC Decedent Tracking"
+    conditions="Default.TOC Decedent Tracking">
+    <TocEntry
+      Title="iOS">
+      <TocEntry
+        Title="Acknowledgements"
+        Link="/Content/Decedent Tracking/iOS/Acknowledgements.htm"
+        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="Cover Page"
+        Link="/Content/Decedent Tracking/iOS/Cover Page.htm"
+        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="Field Operations Module"
+        Link="/Content/Decedent Tracking/iOS/Field Ops.htm"
+        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="Working with Intake Operations"
+        Link="/Content/Decedent Tracking/iOS/Intake.htm"
+        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="Working with Transport Operations"
+        Link="/Content/Decedent Tracking/iOS/Log Transport.htm"
+        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="Working with Morgue Operations"
+        Link="/Content/Decedent Tracking/iOS/Morgue.htm"
+        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="Mortuary Operations Module"
+        Link="/Content/Decedent Tracking/iOS/Mortuary Ops.htm"
+        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="Decedent Tracking Overview"
+        Link="/Content/Decedent Tracking/iOS/RT Overview.htm"
+        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="Settings"
+        Link="/Content/Decedent Tracking/iOS/Settings.htm"
+        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="Transport Operations Module"
+        Link="/Content/Decedent Tracking/iOS/Transport Ops.htm"
+        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="Using HC Mobile™"
+        Link="/Content/Decedent Tracking/iOS/Using PTS.htm"
+        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="Working with Decedents and Body Parts"
+        Link="/Content/Decedent Tracking/iOS/Working with decedents.htm"
+        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="Working with Groups of Decedents or Body Parts"
+        Link="/Content/Decedent Tracking/iOS/Working with Groups.htm"
+        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="HC HAVBED"
+    conditions="Default.HAVBED"
+    ChapterNumberReset="reset"
+    ChapterNumber="1"
+    StartSection="false"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same">
+    <TocEntry
+      Title="Cover Page"
+      Link="/Content/HAVBED/IllinoisCover.htm"
+      StartSection="false"
+      PageType="title"
+      PageNumber="1"
+      PageNumberReset="continue"
+      VolumeNumberReset="same"
+      SectionNumberReset="continue"
+      ChapterNumberReset="continue"
+      ReplaceMergeNode="false"
+      PageLayout="/Content/Resources/PageLayouts/Default.flpgl"
+      BreakType="chapter"
+      conditions="Default.TOC Print Only" />
+    <TocEntry
+      Title="Legal &amp; License Information"
+      Link="/Content/HAVBED/Legal &amp; License Information.htm"
+      VolumeNumberReset="same"
+      SectionNumberReset="continue"
+      ChapterNumberReset="continue"
+      conditions="Default.PrintOnly"
+      BreakType="pageLayout"
+      PageLayout="/Content/Resources/PageLayouts/Default.flpgl"
+      StartSection="false"></TocEntry>
+    <TocEntry
+      Title="Table of Contents"
+      Link="/Content/Client TOC.htm"
+      ReplaceMergeNode="false"
+      ComputeToc="false"
+      PageType="normal"
+      PageNumber="1"
+      PageNumberReset="continue"
+      StartSection="false"
+      VolumeNumberReset="same"
+      SectionNumberReset="continue"
+      ChapterNumberReset="continue"
+      conditions="Default.PrintOnly"
+      BreakType="pageLayout"
+      PageLayout="/Content/Resources/PageLayouts/Default.flpgl"></TocEntry>
+    <TocEntry
+      Title="blank page"
+      Link="/Content/Blank Page.htm"
+      conditions="Default.PrintOnly"
+      StartSection="false"
+      BreakType="pageLayout"
+      PageLayout="/Content/Resources/PageLayouts/Default.flpgl" />
+    <TocEntry
+      Title="Getting Started with HC Standard® HAvBED"
+      Link="/Content/HAVBED/Get Started.htm"
+      ChapterNumber="1"
+      ChapterNumberReset="reset"
+      BreakType="chapter"
+      PageType="title"
+      StartSection="false"
+      PageNumberReset="reset"
+      PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
+      SectionNumberReset="continue"
+      VolumeNumberReset="same"
+      PageNumber="1">
+      <TocEntry
+        Title="Logging In To HC Standard®"
+        Link="/Content/HAVBED/Log In.htm" />
+      <TocEntry
+        Title="Main Screen"
+        Link="/Content/HAVBED/Main Screen.htm"
+        BreakType="chapter"
+        StartSection="false"
+        PageNumberReset="continue"
+        PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
+        SectionNumberReset="continue"
+        VolumeNumberReset="same"
+        ChapterNumberReset="continue" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="HC Hospital Alert Tracking"
+    conditions="Default.CHATS"
+    ChapterNumberReset="reset"
+    ChapterNumber="1"
+    StartSection="false"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same">
+    <TocEntry
+      Title="Cover Page"
+      Link="/Content/CHATS and CHRS/IllinoisCover.htm"
+      conditions="Default.PrintOnly"
+      StartSection="false"
+      PageType="title"
+      PageNumber="1"
+      PageNumberReset="continue"
+      VolumeNumberReset="same"
+      SectionNumberReset="continue"
+      ChapterNumberReset="continue"
+      ReplaceMergeNode="false"
+      PageLayout="/Content/Resources/PageLayouts/Default.flpgl"
+      BreakType="chapter" />
+    <TocEntry
+      Title="Legal &amp; License Information"
+      Link="/Content/CHATS and CHRS/Legal &amp; License Information.htm"
+      VolumeNumberReset="same"
+      SectionNumberReset="continue"
+      ChapterNumberReset="continue"
+      conditions="Default.PrintOnly"
+      BreakType="pageLayout"
+      PageLayout="/Content/Resources/PageLayouts/Default.flpgl"
+      StartSection="false"></TocEntry>
+    <TocEntry
+      Title="Table of Contents"
+      Link="/Content/Client TOC.htm"
+      ReplaceMergeNode="false"
+      ComputeToc="false"
+      PageType="normal"
+      PageNumber="1"
+      PageNumberReset="continue"
+      StartSection="false"
+      VolumeNumberReset="same"
+      SectionNumberReset="continue"
+      ChapterNumberReset="continue"
+      conditions="Default.PrintOnly"
+      BreakType="pageLayout"
+      PageLayout="/Content/Resources/PageLayouts/Default.flpgl"></TocEntry>
+    <TocEntry
+      Title="blank page"
+      Link="/Content/Blank Page.htm"
+      conditions="Default.PrintOnly"
+      StartSection="false" />
+    <TocEntry
+      Title="Getting Started with HC Standard® Hospital Alert Tracking"
+      Link="/Content/CHATS and CHRS/Get Started.htm"
+      ChapterNumber="1"
+      ChapterNumberReset="reset"
+      BreakType="chapter"
+      PageType="title"
+      StartSection="false"
+      PageNumberReset="reset"
+      PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
+      SectionNumberReset="continue"
+      VolumeNumberReset="same"
+      PageNumber="1">
+      <TocEntry
+        Title="Logging In To HC Standard®"
+        Link="/Content/CHATS and CHRS/Log In.htm" />
+      <TocEntry
+        Title="Main Screen"
+        Link="/Content/CHATS and CHRS/Main Screen.htm"
+        BreakType="chapter"
+        StartSection="false"
+        PageNumberReset="continue"
+        PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="HC Incident Commander"
+    conditions="Default.IC"
+    ChapterNumberReset="reset"
+    ChapterNumber="1"
+    StartSection="false"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same">
+    <TocEntry
+      Title="Cover Page"
+      Link="/Content/Cover Page.htm"
+      conditions="Default.PrintOnly"
+      StartSection="false"
+      PageType="title"
+      PageNumber="1"
+      PageNumberReset="continue"
+      VolumeNumberReset="same"
+      SectionNumberReset="continue"
+      ChapterNumberReset="continue"
+      ReplaceMergeNode="false"
+      PageLayout="/Content/Resources/PageLayouts/Default.flpgl"
+      BreakType="chapter" />
+    <TocEntry
+      Title="Legal &amp; License Information"
+      Link="/Content/User Guide Overview/Legal &amp; License Information.htm"
+      VolumeNumberReset="same"
+      SectionNumberReset="continue"
+      ChapterNumberReset="continue"
+      conditions="Default.PrintOnly"
+      BreakType="pageLayout"
+      PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
+      StartSection="false"></TocEntry>
+    <TocEntry
+      Title="Table of Contents"
+      Link="/Content/Client TOC.htm"
+      ReplaceMergeNode="false"
+      ComputeToc="false"
+      PageType="normal"
+      PageNumber="1"
+      PageNumberReset="continue"
+      StartSection="false"
+      VolumeNumberReset="same"
+      SectionNumberReset="continue"
+      ChapterNumberReset="continue"
+      conditions="Default.PrintOnly"
+      BreakType="pageLayout"
+      PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"></TocEntry>
+    <TocEntry
+      Title="blank page"
+      Link="/Content/Blank Page.htm"
+      conditions="Default.PrintOnly"
+      StartSection="false" />
+    <TocEntry
+      Title="Getting Started with HC Standard® Incident Commander"
+      Link="/Content/Incident Commander/Get Started with IC.htm"
+      ChapterNumber="1"
+      ChapterNumberReset="reset"
+      BreakType="chapter"
+      PageType="title"
+      StartSection="false"
+      PageNumberReset="continue"
+      PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
+      SectionNumberReset="continue"
+      VolumeNumberReset="same">
+      <TocEntry
+        Title="Logging In To HC Standard®"
+        Link="/Content/Incident Commander/Log In.htm" />
+      <TocEntry
+        Title="Main Screen"
+        Link="/Content/Incident Commander/Main Screen.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Admin Note"
+      Link="/Content/Incident Commander/Admin Note.htm"
+      BreakType="none"
+      PageType="continue"
+      StartSection="false"
+      PageNumberReset="continue"
+      PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
+      ChapterNumberReset="reset"
+      SectionNumberReset="same"
+      ChapterNumber="2"
+      VolumeNumberReset="same">
+      <TocEntry
+        Title="Admin Notes"
+        Link="/Content/Incident Commander/Copy of Admin Note.htm" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="HC Patient Placement"
+    ChapterNumberReset="reset"
+    ChapterNumber="1"
+    StartSection="false"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    conditions="Default.Patient Placement">
+    <TocEntry
+      Title="Cover Page"
+      Link="/Content/Patient Placement/Cover Page.htm"
+      conditions="Default.PrintOnly"
+      StartSection="false"
+      PageType="title"
+      PageNumber="1"
+      PageNumberReset="continue"
+      VolumeNumberReset="same"
+      SectionNumberReset="continue"
+      ChapterNumberReset="continue"
+      ReplaceMergeNode="false"
+      PageLayout="/Content/Resources/PageLayouts/Default.flpgl"
+      BreakType="chapter" />
+    <TocEntry
+      Title="Legal &amp; License Information"
+      Link="/Content/Patient Placement/Acknowledgements-TDH.htm"
+      VolumeNumberReset="same"
+      SectionNumberReset="continue"
+      ChapterNumberReset="continue"
+      conditions="Default.PrintOnly"
+      BreakType="pageLayout"
+      PageLayout="/Content/Resources/PageLayouts/Default.flpgl"
+      StartSection="false"></TocEntry>
+    <TocEntry
+      Title="Table of Contents"
+      Link="/Content/Client TOC.htm"
+      ReplaceMergeNode="false"
+      ComputeToc="false"
+      PageType="normal"
+      PageNumber="1"
+      PageNumberReset="continue"
+      StartSection="false"
+      VolumeNumberReset="same"
+      SectionNumberReset="continue"
+      ChapterNumberReset="continue"
+      conditions="Default.PrintOnly"
+      BreakType="pageLayout"
+      PageLayout="/Content/Resources/PageLayouts/Default.flpgl"></TocEntry>
+    <TocEntry
+      Title="blank page"
+      Link="/Content/Blank Page.htm"
+      conditions="Default.PrintOnly"
+      StartSection="false" />
+    <TocEntry
+      Title="Getting Started with HC Patient Placement"
+      BreakType="chapter"
+      PageNumberReset="reset"
+      StartSection="false"
+      PageNumber="1"
+      SectionNumberReset="continue"
+      VolumeNumberReset="same"
+      ChapterNumberReset="reset"
+      ChapterNumber="1">
+      <TocEntry
+        Title="Getting Started with HC Standard®Patient Placement"
+        Link="/Content/Patient Placement/Get Started with PT.htm"
+        BreakType="pageLayout"
+        PageNumberReset="reset"
+        PageType="title"
+        StartSection="false"
+        PageNumber="1"
+        PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
+        ChapterNumberReset="reset"
+        ChapterNumber="1"
+        SectionNumberReset="continue"
+        VolumeNumberReset="same" />
+      <TocEntry
+        Title="Logging In to HC Patient Placement"
+        Link="/Content/Patient Placement/Log In.htm"
+        BreakType="none"
+        PageType="title"
+        StartSection="false"
+        PageNumberReset="continue"
+        PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
+        SectionNumberReset="continue"
+        VolumeNumberReset="same"
+        ChapterNumberReset="continue" />
+    </TocEntry>
+    <TocEntry
+      Title="Evacuating Facilities"
+      BreakType="chapter"
+      PageType="title"
+      StartSection="false"
+      PageNumberReset="continue"
+      PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
+      Link="/Content/Patient Placement/Evacuating Facilities/evacpatients.htm">
+      <TocEntry
+        Title="Create Patients"
+        Link="/Content/Patient Placement/Evacuating Facilities/Create Patient.htm"
+        BreakType="none"
+        PageType="title"
+        StartSection="false"
+        PageNumberReset="continue"
+        PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl" />
+      <TocEntry
+        Title="View Patients"
+        Link="/Content/Patient Placement/Evacuating Facilities/Viewpatients.htm" />
+      <TocEntry
+        Title="Transport Patients"
+        Link="/Content/Patient Placement/Evacuating Facilities/Transport Patients.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Receiving Facilities"
+      BreakType="chapter"
+      PageType="title"
+      StartSection="false"
+      PageNumberReset="continue"
+      PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
+      Link="/Content/Patient Placement/Receiving Facilities/Receiving Fac.htm">
+      <TocEntry
+        Title="State Wide Requests"
+        Link="/Content/Patient Placement/Receiving Facilities/Statewide Requests.htm" />
+      <TocEntry
+        Title="My Facility"
+        Link="/Content/Patient Placement/Receiving Facilities/My Facility.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="EMS"
+      BreakType="chapter"
+      PageType="title"
+      StartSection="false"
+      PageNumberReset="continue"
+      PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
+      Link="/Content/Patient Placement/EMS/EMS.htm">
+      <TocEntry
+        Title="View Patients"
+        Link="/Content/Patient Placement/EMS/View Patients.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Public Health"
+      BreakType="chapter"
+      PageType="title"
+      Link="/Content/Patient Placement/Public Health/PH.htm"
+      StartSection="false"
+      PageNumberReset="continue"
+      PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl">
+      <TocEntry
+        Title="View Patients"
+        Link="/Content/Patient Placement/Public Health/Transport Boards.htm" />
+      <TocEntry
+        Title="Placement Boards"
+        Link="/Content/Patient Placement/Public Health/Placement Boards.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Common Actions"
+      Link="/Content/Patient Placement/Common Actions_1.htm"
+      BreakType="chapter"
+      PageType="title"
+      StartSection="false"
+      PageNumberReset="continue"
+      PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
+      SectionNumberReset="continue"
+      VolumeNumberReset="same"
+      ChapterNumberReset="continue">
+      <TocEntry
+        Title="Editting Records"
+        Link="/Content/Patient Placement/Editting Records.htm"
+        BreakType="none"
+        PageType="title"
+        StartSection="false"
+        PageNumberReset="continue"
+        PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
+        SectionNumberReset="continue"
+        VolumeNumberReset="same"
+        ChapterNumberReset="continue"></TocEntry>
+      <TocEntry
+        Title="Deleting Records"
+        Link="/Content/Patient Placement/Deleting Records.htm"
+        BreakType="none"
+        PageType="title"
+        StartSection="false"
+        PageNumberReset="continue"
+        PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
+        SectionNumberReset="continue"
+        VolumeNumberReset="same"
+        ChapterNumberReset="continue" />
+      <TocEntry
+        Title="Using Quick Filters"
+        Link="/Content/Patient Placement/Quick Filters.htm" />
+      <TocEntry
+        Title="Using Display"
+        Link="/Content/Patient Placement/Display.htm" />
+      <TocEntry
+        Title="Sorting and Filtering Records"
+        Link="/Content/Patient Placement/Sorting Patients.htm" />
+      <TocEntry
+        Title="Upload CSV File"
+        Link="/Content/Patient Placement/CSV Upload.htm" />
+      <TocEntry
+        Title="Grid Actions"
+        Link="/Content/Patient Placement/Grid Actions.htm" />
+    </TocEntry>
   </TocEntry>
   <TocEntry
     Title="HC Patient Tracking"
@@ -1576,208 +1925,6 @@
     </TocEntry>
   </TocEntry>
   <TocEntry
-    Title="HC Patient Placement"
-    ChapterNumberReset="reset"
-    ChapterNumber="1"
-    StartSection="false"
-    SectionNumberReset="continue"
-    VolumeNumberReset="same"
-    conditions="Default.Patient Placement">
-    <TocEntry
-      Title="Cover Page"
-      Link="/Content/Patient Placement/Cover Page.htm"
-      conditions="Default.PrintOnly"
-      StartSection="false"
-      PageType="title"
-      PageNumber="1"
-      PageNumberReset="continue"
-      VolumeNumberReset="same"
-      SectionNumberReset="continue"
-      ChapterNumberReset="continue"
-      ReplaceMergeNode="false"
-      PageLayout="/Content/Resources/PageLayouts/Default.flpgl"
-      BreakType="chapter" />
-    <TocEntry
-      Title="Legal &amp; License Information"
-      Link="/Content/Patient Placement/Acknowledgements-TDH.htm"
-      VolumeNumberReset="same"
-      SectionNumberReset="continue"
-      ChapterNumberReset="continue"
-      conditions="Default.PrintOnly"
-      BreakType="pageLayout"
-      PageLayout="/Content/Resources/PageLayouts/Default.flpgl"
-      StartSection="false"></TocEntry>
-    <TocEntry
-      Title="Table of Contents"
-      Link="/Content/Client TOC.htm"
-      ReplaceMergeNode="false"
-      ComputeToc="false"
-      PageType="normal"
-      PageNumber="1"
-      PageNumberReset="continue"
-      StartSection="false"
-      VolumeNumberReset="same"
-      SectionNumberReset="continue"
-      ChapterNumberReset="continue"
-      conditions="Default.PrintOnly"
-      BreakType="pageLayout"
-      PageLayout="/Content/Resources/PageLayouts/Default.flpgl"></TocEntry>
-    <TocEntry
-      Title="blank page"
-      Link="/Content/Blank Page.htm"
-      conditions="Default.PrintOnly"
-      StartSection="false" />
-    <TocEntry
-      Title="Getting Started with HC Patient Placement"
-      BreakType="chapter"
-      PageNumberReset="reset"
-      StartSection="false"
-      PageNumber="1"
-      SectionNumberReset="continue"
-      VolumeNumberReset="same"
-      ChapterNumberReset="reset"
-      ChapterNumber="1">
-      <TocEntry
-        Title="Getting Started with HC Standard®Patient Placement"
-        Link="/Content/Patient Placement/Get Started with PT.htm"
-        BreakType="pageLayout"
-        PageNumberReset="reset"
-        PageType="title"
-        StartSection="false"
-        PageNumber="1"
-        PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
-        ChapterNumberReset="reset"
-        ChapterNumber="1"
-        SectionNumberReset="continue"
-        VolumeNumberReset="same" />
-      <TocEntry
-        Title="Logging In to HC Patient Placement"
-        Link="/Content/Patient Placement/Log In.htm"
-        BreakType="none"
-        PageType="title"
-        StartSection="false"
-        PageNumberReset="continue"
-        PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
-        SectionNumberReset="continue"
-        VolumeNumberReset="same"
-        ChapterNumberReset="continue" />
-    </TocEntry>
-    <TocEntry
-      Title="Evacuating Facilities"
-      BreakType="chapter"
-      PageType="title"
-      StartSection="false"
-      PageNumberReset="continue"
-      PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
-      Link="/Content/Patient Placement/Evacuating Facilities/evacpatients.htm">
-      <TocEntry
-        Title="Create Patients"
-        Link="/Content/Patient Placement/Evacuating Facilities/Create Patient.htm"
-        BreakType="none"
-        PageType="title"
-        StartSection="false"
-        PageNumberReset="continue"
-        PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl" />
-      <TocEntry
-        Title="View Patients"
-        Link="/Content/Patient Placement/Evacuating Facilities/Viewpatients.htm" />
-      <TocEntry
-        Title="Transport Patients"
-        Link="/Content/Patient Placement/Evacuating Facilities/Transport Patients.htm" />
-    </TocEntry>
-    <TocEntry
-      Title="Receiving Facilities"
-      BreakType="chapter"
-      PageType="title"
-      StartSection="false"
-      PageNumberReset="continue"
-      PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
-      Link="/Content/Patient Placement/Receiving Facilities/Receiving Fac.htm">
-      <TocEntry
-        Title="State Wide Requests"
-        Link="/Content/Patient Placement/Receiving Facilities/Statewide Requests.htm" />
-      <TocEntry
-        Title="My Facility"
-        Link="/Content/Patient Placement/Receiving Facilities/My Facility.htm" />
-    </TocEntry>
-    <TocEntry
-      Title="EMS"
-      BreakType="chapter"
-      PageType="title"
-      StartSection="false"
-      PageNumberReset="continue"
-      PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
-      Link="/Content/Patient Placement/EMS/EMS.htm">
-      <TocEntry
-        Title="View Patients"
-        Link="/Content/Patient Placement/EMS/View Patients.htm" />
-    </TocEntry>
-    <TocEntry
-      Title="Public Health"
-      BreakType="chapter"
-      PageType="title"
-      Link="/Content/Patient Placement/Public Health/PH.htm"
-      StartSection="false"
-      PageNumberReset="continue"
-      PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl">
-      <TocEntry
-        Title="View Patients"
-        Link="/Content/Patient Placement/Public Health/Transport Boards.htm" />
-      <TocEntry
-        Title="Placement Boards"
-        Link="/Content/Patient Placement/Public Health/Placement Boards.htm" />
-    </TocEntry>
-    <TocEntry
-      Title="Common Actions"
-      Link="/Content/Patient Placement/Common Actions_1.htm"
-      BreakType="chapter"
-      PageType="title"
-      StartSection="false"
-      PageNumberReset="continue"
-      PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
-      SectionNumberReset="continue"
-      VolumeNumberReset="same"
-      ChapterNumberReset="continue">
-      <TocEntry
-        Title="Editting Records"
-        Link="/Content/Patient Placement/Editting Records.htm"
-        BreakType="none"
-        PageType="title"
-        StartSection="false"
-        PageNumberReset="continue"
-        PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
-        SectionNumberReset="continue"
-        VolumeNumberReset="same"
-        ChapterNumberReset="continue"></TocEntry>
-      <TocEntry
-        Title="Deleting Records"
-        Link="/Content/Patient Placement/Deleting Records.htm"
-        BreakType="none"
-        PageType="title"
-        StartSection="false"
-        PageNumberReset="continue"
-        PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
-        SectionNumberReset="continue"
-        VolumeNumberReset="same"
-        ChapterNumberReset="continue" />
-      <TocEntry
-        Title="Using Quick Filters"
-        Link="/Content/Patient Placement/Quick Filters.htm" />
-      <TocEntry
-        Title="Using Display"
-        Link="/Content/Patient Placement/Display.htm" />
-      <TocEntry
-        Title="Sorting and Filtering Records"
-        Link="/Content/Patient Placement/Sorting Patients.htm" />
-      <TocEntry
-        Title="Upload CSV File"
-        Link="/Content/Patient Placement/CSV Upload.htm" />
-      <TocEntry
-        Title="Grid Actions"
-        Link="/Content/Patient Placement/Grid Actions.htm" />
-    </TocEntry>
-  </TocEntry>
-  <TocEntry
     Title="HC Shelter Tracking"
     ChapterNumberReset="reset"
     ChapterNumber="1"
@@ -1880,94 +2027,6 @@
     </TocEntry>
   </TocEntry>
   <TocEntry
-    Title="HC Incident Commander"
-    conditions="Default.IC"
-    ChapterNumberReset="reset"
-    ChapterNumber="1"
-    StartSection="false"
-    SectionNumberReset="continue"
-    VolumeNumberReset="same">
-    <TocEntry
-      Title="Cover Page"
-      Link="/Content/Cover Page.htm"
-      conditions="Default.PrintOnly"
-      StartSection="false"
-      PageType="title"
-      PageNumber="1"
-      PageNumberReset="continue"
-      VolumeNumberReset="same"
-      SectionNumberReset="continue"
-      ChapterNumberReset="continue"
-      ReplaceMergeNode="false"
-      PageLayout="/Content/Resources/PageLayouts/Default.flpgl"
-      BreakType="chapter" />
-    <TocEntry
-      Title="Legal &amp; License Information"
-      Link="/Content/User Guide Overview/Legal &amp; License Information.htm"
-      VolumeNumberReset="same"
-      SectionNumberReset="continue"
-      ChapterNumberReset="continue"
-      conditions="Default.PrintOnly"
-      BreakType="pageLayout"
-      PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
-      StartSection="false"></TocEntry>
-    <TocEntry
-      Title="Table of Contents"
-      Link="/Content/Client TOC.htm"
-      ReplaceMergeNode="false"
-      ComputeToc="false"
-      PageType="normal"
-      PageNumber="1"
-      PageNumberReset="continue"
-      StartSection="false"
-      VolumeNumberReset="same"
-      SectionNumberReset="continue"
-      ChapterNumberReset="continue"
-      conditions="Default.PrintOnly"
-      BreakType="pageLayout"
-      PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"></TocEntry>
-    <TocEntry
-      Title="blank page"
-      Link="/Content/Blank Page.htm"
-      conditions="Default.PrintOnly"
-      StartSection="false" />
-    <TocEntry
-      Title="Getting Started with HC Standard® Incident Commander"
-      Link="/Content/Incident Commander/Get Started with IC.htm"
-      ChapterNumber="1"
-      ChapterNumberReset="reset"
-      BreakType="chapter"
-      PageType="title"
-      StartSection="false"
-      PageNumberReset="continue"
-      PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
-      SectionNumberReset="continue"
-      VolumeNumberReset="same">
-      <TocEntry
-        Title="Logging In To HC Standard®"
-        Link="/Content/Incident Commander/Log In.htm" />
-      <TocEntry
-        Title="Main Screen"
-        Link="/Content/Incident Commander/Main Screen.htm" />
-    </TocEntry>
-    <TocEntry
-      Title="Admin Note"
-      Link="/Content/Incident Commander/Admin Note.htm"
-      BreakType="none"
-      PageType="continue"
-      StartSection="false"
-      PageNumberReset="continue"
-      PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
-      ChapterNumberReset="reset"
-      SectionNumberReset="same"
-      ChapterNumber="2"
-      VolumeNumberReset="same">
-      <TocEntry
-        Title="Admin Notes"
-        Link="/Content/Incident Commander/Copy of Admin Note.htm" />
-    </TocEntry>
-  </TocEntry>
-  <TocEntry
     Title="EWRAP"
     ReplaceMergeNode="false"
     BreakType="none"
@@ -2029,64 +2088,5 @@
       ComputeToc="false"
       ReplaceMergeNode="false"
       PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl" />
-  </TocEntry>
-  <TocEntry
-    Title="HC Decedent Tracking"
-    conditions="Default.TOC Decedent Tracking">
-    <TocEntry
-      Title="iOS">
-      <TocEntry
-        Title="Acknowledgements"
-        Link="/Content/Decedent Tracking/iOS/Acknowledgements.htm"
-        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-      <TocEntry
-        Title="Cover Page"
-        Link="/Content/Decedent Tracking/iOS/Cover Page.htm"
-        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-      <TocEntry
-        Title="Field Operations Module"
-        Link="/Content/Decedent Tracking/iOS/Field Ops.htm"
-        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-      <TocEntry
-        Title="Working with Intake Operations"
-        Link="/Content/Decedent Tracking/iOS/Intake.htm"
-        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-      <TocEntry
-        Title="Working with Transport Operations"
-        Link="/Content/Decedent Tracking/iOS/Log Transport.htm"
-        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-      <TocEntry
-        Title="Working with Morgue Operations"
-        Link="/Content/Decedent Tracking/iOS/Morgue.htm"
-        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-      <TocEntry
-        Title="Mortuary Operations Module"
-        Link="/Content/Decedent Tracking/iOS/Mortuary Ops.htm"
-        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-      <TocEntry
-        Title="Decedent Tracking Overview"
-        Link="/Content/Decedent Tracking/iOS/RT Overview.htm"
-        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-      <TocEntry
-        Title="Settings"
-        Link="/Content/Decedent Tracking/iOS/Settings.htm"
-        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-      <TocEntry
-        Title="Transport Operations Module"
-        Link="/Content/Decedent Tracking/iOS/Transport Ops.htm"
-        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-      <TocEntry
-        Title="Using HC Mobile™"
-        Link="/Content/Decedent Tracking/iOS/Using PTS.htm"
-        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-      <TocEntry
-        Title="Working with Decedents and Body Parts"
-        Link="/Content/Decedent Tracking/iOS/Working with decedents.htm"
-        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-      <TocEntry
-        Title="Working with Groups of Decedents or Body Parts"
-        Link="/Content/Decedent Tracking/iOS/Working with Groups.htm"
-        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    </TocEntry>
   </TocEntry>
 </CatapultToc>
