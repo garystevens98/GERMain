@@ -61,7 +61,7 @@
       PageLayout="/Content/Resources/PageLayouts/Default.flpgl"></TocEntry>
     <TocEntry
       Title="blank page"
-      Link="/Content/Blank Page.htm"
+      Link="/Content/OTHER CONTENT/Blank Page.htm"
       StartSection="false"
       conditions="Default.TOC Print Only" />
     <TocEntry
@@ -673,7 +673,7 @@
       PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"></TocEntry>
     <TocEntry
       Title="blank page"
-      Link="/Content/Blank Page.htm"
+      Link="/Content/OTHER CONTENT/Blank Page.htm"
       conditions="Default.PrintOnly"
       StartSection="false" />
     <TocEntry
@@ -959,7 +959,7 @@
       PageLayout="/Content/Resources/PageLayouts/Default.flpgl"></TocEntry>
     <TocEntry
       Title="blank page"
-      Link="/Content/Blank Page.htm"
+      Link="/Content/OTHER CONTENT/Blank Page.htm"
       conditions="Default.PrintOnly"
       StartSection="false" />
     <TocEntry
@@ -1018,7 +1018,7 @@
       conditions="Default.TOC Print Only"></TocEntry>
     <TocEntry
       Title="blank page"
-      Link="/Content/Blank Page.htm"
+      Link="/Content/OTHER CONTENT/Blank Page.htm"
       StartSection="false"
       conditions="Default.TOC Print Only" />
     <TocEntry
@@ -1091,7 +1091,7 @@
       PageNumberReset="continue"></TocEntry>
     <TocEntry
       Title="blank page"
-      Link="/Content/Blank Page.htm"
+      Link="/Content/OTHER CONTENT/Blank Page.htm"
       conditions="Default.PrintOnly"
       StartSection="false" />
     <TocEntry
@@ -1244,7 +1244,7 @@
       PageLayout="/Content/Resources/PageLayouts/Default.flpgl"></TocEntry>
     <TocEntry
       Title="blank page"
-      Link="/Content/Blank Page.htm"
+      Link="/Content/OTHER CONTENT/Blank Page.htm"
       conditions="Default.PrintOnly"
       StartSection="false" />
     <TocEntry
@@ -1444,7 +1444,7 @@
       BreakType="chapter"></TocEntry>
     <TocEntry
       Title="blank page"
-      Link="/Content/Blank Page.htm"
+      Link="/Content/OTHER CONTENT/Blank Page.htm"
       conditions="Default.PrintOnly"
       StartSection="false" />
     <TocEntry

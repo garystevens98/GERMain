@@ -49,7 +49,7 @@
       PageLayout="/Content/Resources/PageLayouts/Default.flpgl"></TocEntry>
     <TocEntry
       Title="blank page"
-      Link="/Content/Blank Page.htm"
+      Link="/Content/OTHER CONTENT/Blank Page.htm"
       conditions="Default.PrintOnly"
       StartSection="false" />
     <TocEntry

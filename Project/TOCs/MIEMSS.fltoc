@@ -290,7 +290,7 @@
       PageLayout="/Content/Resources/PageLayouts/Default.flpgl"></TocEntry>
     <TocEntry
       Title="blank page"
-      Link="/Content/Blank Page.htm"
+      Link="/Content/OTHER CONTENT/Blank Page.htm"
       conditions="Default.PrintOnly"
       StartSection="false" />
     <TocEntry
@@ -634,7 +634,7 @@
     </TocEntry>
     <TocEntry
       Title="blank page"
-      Link="/Content/blank page - intentional.htm"
+      Link="/Content/OTHER CONTENT/blank page - intentional.htm"
       conditions="Default.PrintOnly"
       StartSection="false"
       BreakType="pageLayout"
@@ -857,7 +857,7 @@
     </TocEntry>
     <TocEntry
       Title="blank page"
-      Link="/Content/blank page - intentional.htm"
+      Link="/Content/OTHER CONTENT/blank page - intentional.htm"
       conditions="Default.PrintOnly"
       StartSection="false"
       BreakType="pageLayout"
@@ -904,7 +904,7 @@
       PageLayout="/Content/Resources/PageLayouts/Default.flpgl"></TocEntry>
     <TocEntry
       Title="blank page"
-      Link="/Content/Blank Page.htm"
+      Link="/Content/OTHER CONTENT/Blank Page.htm"
       conditions="Default.PrintOnly"
       StartSection="false" />
     <TocEntry
