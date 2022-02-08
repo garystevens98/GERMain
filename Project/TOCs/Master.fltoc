@@ -3,7 +3,7 @@
   Version="1">
   <TocEntry
     Title="Index"
-    Link="/Content/Index.htm"
+    Link="/Content/OTHER CONTENT/Index.htm"
     conditions="Default.WebOnly"></TocEntry>
   <TocEntry
     Title="HC Admin"
@@ -19,7 +19,7 @@
     SectionNumber="">
     <TocEntry
       Title="Cover Page"
-      Link="/Content/Cover Page.htm"
+      Link="/Content/OTHER CONTENT/Cover Page.htm"
       conditions="Default.PrintOnly"
       StartSection="false"
       PageNumber="1"
@@ -40,7 +40,7 @@
       PageLayout="/Content/Resources/PageLayouts/Default.flpgl" />
     <TocEntry
       Title="Table of Contents"
-      Link="/Content/Client TOC.htm"
+      Link="/Content/OTHER CONTENT/Client TOC.htm"
       ReplaceMergeNode="false"
       ComputeToc="false"
       PageType="normal"
@@ -273,7 +273,7 @@
     </TocEntry>
     <TocEntry
       Title="Glossary"
-      Link="/Content/Glossary.htm"
+      Link="/Content/OTHER CONTENT/Glossary.htm"
       conditions="Default.PrintOnly,Default.combined"
       StartSection="false"
       BreakType="chapter"
@@ -302,7 +302,7 @@
     conditions="Default.SubAdmin">
     <TocEntry
       Title="Cover Page"
-      Link="/Content/Cover Page.htm"
+      Link="/Content/OTHER CONTENT/Cover Page.htm"
       conditions="Default.PrintOnly"
       StartSection="false"
       PageNumber="1"
@@ -323,7 +323,7 @@
       PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl" />
     <TocEntry
       Title="Table of Contents"
-      Link="/Content/Client TOC.htm"
+      Link="/Content/OTHER CONTENT/Client TOC.htm"
       ReplaceMergeNode="false"
       ComputeToc="false"
       PageType="normal"
@@ -411,7 +411,7 @@
     StartSection="false">
     <TocEntry
       Title="Cover Page"
-      Link="/Content/Cover Page.htm"
+      Link="/Content/OTHER CONTENT/Cover Page.htm"
       conditions="Default.PrintOnly"
       StartSection="false"
       PageType="title"
@@ -435,7 +435,7 @@
       StartSection="false"></TocEntry>
     <TocEntry
       Title="Table of Contents"
-      Link="/Content/Client TOC.htm"
+      Link="/Content/OTHER CONTENT/Client TOC.htm"
       ReplaceMergeNode="false"
       ComputeToc="false"
       PageType="normal"
@@ -641,7 +641,7 @@
     </TocEntry>
     <TocEntry
       Title="Glossary"
-      Link="/Content/Glossary.htm"
+      Link="/Content/OTHER CONTENT/Glossary.htm"
       conditions="Default.PrintOnly,Default.combined"
       StartSection="false"
       BreakType="chapter"
@@ -692,7 +692,7 @@
       StartSection="false"></TocEntry>
     <TocEntry
       Title="Table of Contents"
-      Link="/Content/Client TOC.htm"
+      Link="/Content/OTHER CONTENT/Client TOC.htm"
       ReplaceMergeNode="false"
       ComputeToc="false"
       PageType="normal"
@@ -807,7 +807,7 @@
     conditions="Default.CPM">
     <TocEntry
       Title="Cover Page"
-      Link="/Content/Main Cover Page.htm"
+      Link="/Content/OTHER CONTENT/Main Cover Page.htm"
       StartSection="false"
       conditions="Default.TOC Print Only"
       SectionNumberReset="continue"
@@ -815,14 +815,14 @@
       ChapterNumberReset="continue" />
     <TocEntry
       Title="HC Standard® Administrator Manual"
-      Link="/Content/Main Legal &amp; License Information.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      Link="/Content/OTHER CONTENT/Main Legal &amp; License Information.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
       SectionNumberReset="continue"
       VolumeNumberReset="same"
       ChapterNumberReset="continue"
       conditions="Default.TOC Print Only" />
     <TocEntry
       Title="TOC"
-      Link="/Content/Client TOC.htm"
+      Link="/Content/OTHER CONTENT/Client TOC.htm"
       BreakType="chapter"
       StartSection="false"
       PageLayout="/Content/Resources/PageLayouts/Default.flpgl"
@@ -970,7 +970,7 @@
       StartSection="false"></TocEntry>
     <TocEntry
       Title="Table of Contents"
-      Link="/Content/Client TOC.htm"
+      Link="/Content/OTHER CONTENT/Client TOC.htm"
       ReplaceMergeNode="false"
       ComputeToc="false"
       PageType="normal"
@@ -1052,7 +1052,7 @@
       StartSection="false"></TocEntry>
     <TocEntry
       Title="Table of Contents"
-      Link="/Content/Client TOC.htm"
+      Link="/Content/OTHER CONTENT/Client TOC.htm"
       ReplaceMergeNode="false"
       ComputeToc="false"
       PageType="normal"
@@ -1105,7 +1105,7 @@
     VolumeNumberReset="same">
     <TocEntry
       Title="Cover Page"
-      Link="/Content/Cover Page.htm"
+      Link="/Content/OTHER CONTENT/Cover Page.htm"
       conditions="Default.PrintOnly"
       StartSection="false"
       PageType="title"
@@ -1129,7 +1129,7 @@
       StartSection="false"></TocEntry>
     <TocEntry
       Title="Table of Contents"
-      Link="/Content/Client TOC.htm"
+      Link="/Content/OTHER CONTENT/Client TOC.htm"
       ReplaceMergeNode="false"
       ComputeToc="false"
       PageType="normal"
@@ -1217,7 +1217,7 @@
       StartSection="false"></TocEntry>
     <TocEntry
       Title="Table of Contents"
-      Link="/Content/Client TOC.htm"
+      Link="/Content/OTHER CONTENT/Client TOC.htm"
       ReplaceMergeNode="false"
       ComputeToc="false"
       PageType="normal"
@@ -1408,16 +1408,16 @@
       conditions="Default.TOC Android 1_3">
       <TocEntry
         Title="[%=System.LinkedFile%]"
-        Link="/Content/Main Cover Page.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+        Link="/Content/OTHER CONTENT/Main Cover Page.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
         conditions="Default.TOC Print Only"></TocEntry>
       <TocEntry
         Title="[%=System.LinkedFile%]"
-        Link="/Content/Main Legal &amp; License Information.htm"
+        Link="/Content/OTHER CONTENT/Main Legal &amp; License Information.htm"
         conditions="Default.PrintOnly"
         StartSection="false" />
       <TocEntry
         Title="TOC"
-        Link="/Content/Client TOC.htm"
+        Link="/Content/OTHER CONTENT/Client TOC.htm"
         BreakType="chapter"
         StartSection="false"
         PageLayout="/Content/Resources/PageLayouts/Default.flpgl"
@@ -1494,16 +1494,16 @@
       conditions="Default.TOC iSO 1_3">
       <TocEntry
         Title="[%=System.LinkedTitle%]"
-        Link="/Content/Main Cover Page.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+        Link="/Content/OTHER CONTENT/Main Cover Page.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
         conditions="Default.TOC Print Only" />
       <TocEntry
         Title="[%=System.LinkedFile%]"
-        Link="/Content/Main Legal &amp; License Information.htm"
+        Link="/Content/OTHER CONTENT/Main Legal &amp; License Information.htm"
         conditions="Default.PrintOnly"
         StartSection="false" />
       <TocEntry
         Title="TOC"
-        Link="/Content/Client TOC.htm"
+        Link="/Content/OTHER CONTENT/Client TOC.htm"
         BreakType="chapter"
         StartSection="false"
         PageLayout="/Content/Resources/PageLayouts/Default.flpgl"
@@ -1585,7 +1585,7 @@
       conditions="Default.TOC Android 2_0">
       <TocEntry
         Title="[%=System.LinkedFile%]"
-        Link="/Content/Main Cover Page.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+        Link="/Content/OTHER CONTENT/Main Cover Page.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
         conditions="Default.TOC Print Only"
         StartSection="false"
         SectionNumberReset="continue"
@@ -1595,12 +1595,12 @@
         ReplaceMergeNode="false"></TocEntry>
       <TocEntry
         Title="[%=System.LinkedFile%]"
-        Link="/Content/Main Legal &amp; License Information.htm"
+        Link="/Content/OTHER CONTENT/Main Legal &amp; License Information.htm"
         StartSection="false"
         conditions="Default.TOC Print Only" />
       <TocEntry
         Title="TOC"
-        Link="/Content/Client TOC.htm"
+        Link="/Content/OTHER CONTENT/Client TOC.htm"
         BreakType="chapter"
         StartSection="false"
         PageLayout="/Content/Resources/PageLayouts/Default.flpgl"
@@ -1680,7 +1680,7 @@
       conditions="Default.TOC iSO 2_0">
       <TocEntry
         Title="[%=System.LinkedFile%]"
-        Link="/Content/Main Cover Page.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+        Link="/Content/OTHER CONTENT/Main Cover Page.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
         conditions="Default.TOC Print Only"
         ChapterNumberReset="continue"
         ChapterNumber=""
@@ -1688,7 +1688,7 @@
         VolumeNumberReset="same"></TocEntry>
       <TocEntry
         Title="[%=System.LinkedFile%]"
-        Link="/Content/Main Legal &amp; License Information.htm"
+        Link="/Content/OTHER CONTENT/Main Legal &amp; License Information.htm"
         StartSection="false"
         conditions="Default.TOC Print Only"
         ChapterNumberReset="continue"
@@ -1699,7 +1699,7 @@
         SectionNumber="" />
       <TocEntry
         Title="TOC"
-        Link="/Content/Client TOC.htm"
+        Link="/Content/OTHER CONTENT/Client TOC.htm"
         BreakType="chapter"
         StartSection="false"
         PageLayout="/Content/Resources/PageLayouts/Default.flpgl"
@@ -1772,16 +1772,16 @@
       conditions="Default.TOC Retired">
       <TocEntry
         Title="[%=System.LinkedFile%]"
-        Link="/Content/Main Cover Page.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+        Link="/Content/OTHER CONTENT/Main Cover Page.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
         conditions="Default.TOC Print Only"></TocEntry>
       <TocEntry
         Title="[%=System.LinkedFile%]"
-        Link="/Content/Main Legal &amp; License Information.htm"
+        Link="/Content/OTHER CONTENT/Main Legal &amp; License Information.htm"
         conditions="Default.PrintOnly"
         StartSection="false" />
       <TocEntry
         Title="TOC"
-        Link="/Content/Client TOC.htm"
+        Link="/Content/OTHER CONTENT/Client TOC.htm"
         BreakType="chapter"
         StartSection="false"
         PageLayout="/Content/Resources/PageLayouts/Default.flpgl"
@@ -1861,16 +1861,16 @@
       conditions="Default.TOC Retired">
       <TocEntry
         Title="[%=System.LinkedFile%]"
-        Link="/Content/Main Cover Page.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+        Link="/Content/OTHER CONTENT/Main Cover Page.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
         conditions="Default.TOC Print Only" />
       <TocEntry
         Title="[%=System.LinkedFile%]"
-        Link="/Content/Main Legal &amp; License Information.htm"
+        Link="/Content/OTHER CONTENT/Main Legal &amp; License Information.htm"
         conditions="Default.PrintOnly"
         StartSection="false" />
       <TocEntry
         Title="TOC"
-        Link="/Content/Client TOC.htm"
+        Link="/Content/OTHER CONTENT/Client TOC.htm"
         BreakType="chapter"
         StartSection="false"
         PageLayout="/Content/Resources/PageLayouts/Default.flpgl"
@@ -1947,7 +1947,7 @@
       BreakType="chapter" />
     <TocEntry
       Title="Legal &amp; License Information"
-      Link="/Content/Main Legal &amp; License Information.htm"
+      Link="/Content/OTHER CONTENT/Main Legal &amp; License Information.htm"
       VolumeNumberReset="same"
       SectionNumberReset="continue"
       ChapterNumberReset="continue"
@@ -1957,7 +1957,7 @@
       StartSection="false"></TocEntry>
     <TocEntry
       Title="Table of Contents"
-      Link="/Content/Client TOC.htm"
+      Link="/Content/OTHER CONTENT/Client TOC.htm"
       ReplaceMergeNode="false"
       ComputeToc="false"
       PageType="normal"
@@ -2050,7 +2050,7 @@
       StartSection="false" />
     <TocEntry
       Title="TOC"
-      Link="/Content/Client TOC.htm"
+      Link="/Content/OTHER CONTENT/Client TOC.htm"
       BreakType="chapter"
       StartSection="false"
       PageLayout="/Content/Resources/PageLayouts/Default.flpgl"

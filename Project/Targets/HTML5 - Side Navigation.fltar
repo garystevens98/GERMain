@@ -13,7 +13,7 @@
   TopNavTocPath="true"
   Skin="/Project/Skins/HTML5 - Side Navigation Skin.flskn"
   ReplaceSpacesWithUnderscores="true"
-  DefaultUrl="/Content/Home.htm"
+  DefaultUrl="/Content/OTHER CONTENT/Home.htm"
   MasterStylesheet="/Content/Resources/Stylesheets/Styles.css"
   MasterStylesheetOverride="false"
   TopicToolbarSkin="/Project/Skins/Toolbar.flskn"

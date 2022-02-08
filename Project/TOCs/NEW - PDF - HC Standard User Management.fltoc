@@ -20,10 +20,10 @@
       PageNumberReset="continue"
       PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
       ChapterNumber=""
-      Link="/Content/Main Cover Page.htm" />
+      Link="/Content/OTHER CONTENT/Main Cover Page.htm" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/Main Legal &amp; License Information.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      Link="/Content/OTHER CONTENT/Main Legal &amp; License Information.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
       BreakType="pageLayout"
       StartSection="false"
       PageLayout="/Content/Resources/PageLayouts/Default.flpgl" />

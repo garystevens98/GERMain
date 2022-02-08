@@ -3,7 +3,7 @@
   Version="1">
   <TocEntry
     Title="Index"
-    Link="/Content/Index.htm"
+    Link="/Content/OTHER CONTENT/Index.htm"
     conditions="Default.WebOnly"></TocEntry>
   <TocEntry
     Title="What Is New In HC Standard 4.4?"
@@ -36,7 +36,7 @@
       StartSection="false" />
     <TocEntry
       Title="TOC"
-      Link="/Content/Client TOC.htm"
+      Link="/Content/OTHER CONTENT/Client TOC.htm"
       BreakType="chapter"
       StartSection="false"
       PageLayout="/Content/Resources/PageLayouts/Default.flpgl"
@@ -89,7 +89,7 @@
     SectionNumber="">
     <TocEntry
       Title="Cover Page"
-      Link="/Content/Cover Page.htm"
+      Link="/Content/OTHER CONTENT/Cover Page.htm"
       conditions="Default.PrintOnly"
       StartSection="false"
       PageNumber="1"
@@ -110,7 +110,7 @@
       PageLayout="/Content/Resources/PageLayouts/Default.flpgl" />
     <TocEntry
       Title="Table of Contents"
-      Link="/Content/Client TOC.htm"
+      Link="/Content/OTHER CONTENT/Client TOC.htm"
       ReplaceMergeNode="false"
       ComputeToc="false"
       PageType="normal"
@@ -343,7 +343,7 @@
     </TocEntry>
     <TocEntry
       Title="Glossary"
-      Link="/Content/Glossary.htm"
+      Link="/Content/OTHER CONTENT/Glossary.htm"
       conditions="Default.PrintOnly,Default.combined"
       StartSection="false"
       BreakType="chapter"
@@ -383,7 +383,7 @@
         ChapterNumberReset="continue" />
       <TocEntry
         Title="Table of Contents"
-        Link="/Content/Client TOC.htm"
+        Link="/Content/OTHER CONTENT/Client TOC.htm"
         ReplaceMergeNode="false"
         ComputeToc="false"
         PageType="normal"
@@ -440,7 +440,7 @@
     StartSection="false">
     <TocEntry
       Title="Cover Page"
-      Link="/Content/Cover Page.htm"
+      Link="/Content/OTHER CONTENT/Cover Page.htm"
       conditions="Default.PrintOnly"
       StartSection="false"
       PageType="title"
@@ -464,7 +464,7 @@
       StartSection="false"></TocEntry>
     <TocEntry
       Title="Table of Contents"
-      Link="/Content/Client TOC.htm"
+      Link="/Content/OTHER CONTENT/Client TOC.htm"
       ReplaceMergeNode="false"
       ComputeToc="false"
       PageType="normal"
@@ -670,7 +670,7 @@
     </TocEntry>
     <TocEntry
       Title="Glossary"
-      Link="/Content/Glossary.htm"
+      Link="/Content/OTHER CONTENT/Glossary.htm"
       conditions="Default.PrintOnly,Default.combined"
       StartSection="false"
       BreakType="chapter"
@@ -706,12 +706,12 @@
         StartSection="false" />
       <TocEntry
         Title="[%=System.LinkedFile%]"
-        Link="/Content/Main Legal &amp; License Information.htm"
+        Link="/Content/OTHER CONTENT/Main Legal &amp; License Information.htm"
         conditions="Default.PrintOnly"
         StartSection="false" />
       <TocEntry
         Title="TOC"
-        Link="/Content/Client TOC.htm"
+        Link="/Content/OTHER CONTENT/Client TOC.htm"
         BreakType="chapter"
         StartSection="false"
         PageLayout="/Content/Resources/PageLayouts/Default.flpgl"
@@ -778,12 +778,12 @@
         StartSection="false" />
       <TocEntry
         Title="[%=System.LinkedFile%]"
-        Link="/Content/Main Legal &amp; License Information.htm"
+        Link="/Content/OTHER CONTENT/Main Legal &amp; License Information.htm"
         conditions="Default.PrintOnly"
         StartSection="false" />
       <TocEntry
         Title="TOC"
-        Link="/Content/Client TOC.htm"
+        Link="/Content/OTHER CONTENT/Client TOC.htm"
         BreakType="chapter"
         StartSection="false"
         PageLayout="/Content/Resources/PageLayouts/Default.flpgl"
@@ -868,7 +868,7 @@
       StartSection="false"></TocEntry>
     <TocEntry
       Title="Table of Contents"
-      Link="/Content/Client TOC.htm"
+      Link="/Content/OTHER CONTENT/Client TOC.htm"
       ReplaceMergeNode="false"
       ComputeToc="false"
       PageType="normal"
@@ -945,7 +945,7 @@
       StartSection="false"></TocEntry>
     <TocEntry
       Title="Table of Contents"
-      Link="/Content/Client TOC.htm"
+      Link="/Content/OTHER CONTENT/Client TOC.htm"
       ReplaceMergeNode="false"
       ComputeToc="false"
       PageType="normal"
@@ -1134,12 +1134,12 @@
         conditions="Default.TOC Print Only" />
       <TocEntry
         Title="[%=System.LinkedFile%]"
-        Link="/Content/Main Legal &amp; License Information.htm"
+        Link="/Content/OTHER CONTENT/Main Legal &amp; License Information.htm"
         conditions="Default.PrintOnly"
         StartSection="false" />
       <TocEntry
         Title="TOC"
-        Link="/Content/Client TOC.htm"
+        Link="/Content/OTHER CONTENT/Client TOC.htm"
         BreakType="chapter"
         StartSection="false"
         PageLayout="/Content/Resources/PageLayouts/Default.flpgl"
@@ -1212,12 +1212,12 @@
         conditions="Default.TOC Print Only"></TocEntry>
       <TocEntry
         Title="[%=System.LinkedFile%]"
-        Link="/Content/Main Legal &amp; License Information.htm"
+        Link="/Content/OTHER CONTENT/Main Legal &amp; License Information.htm"
         conditions="Default.PrintOnly"
         StartSection="false" />
       <TocEntry
         Title="TOC"
-        Link="/Content/Client TOC.htm"
+        Link="/Content/OTHER CONTENT/Client TOC.htm"
         BreakType="chapter"
         StartSection="false"
         PageLayout="/Content/Resources/PageLayouts/Default.flpgl"
@@ -1281,12 +1281,12 @@
         conditions="Default.TOC Print Only" />
       <TocEntry
         Title="[%=System.LinkedFile%]"
-        Link="/Content/Main Legal &amp; License Information.htm"
+        Link="/Content/OTHER CONTENT/Main Legal &amp; License Information.htm"
         conditions="Default.PrintOnly"
         StartSection="false" />
       <TocEntry
         Title="TOC"
-        Link="/Content/Client TOC.htm"
+        Link="/Content/OTHER CONTENT/Client TOC.htm"
         BreakType="chapter"
         StartSection="false"
         PageLayout="/Content/Resources/PageLayouts/Default.flpgl"
@@ -1377,12 +1377,12 @@
         conditions="Default.TOC Print Only" />
       <TocEntry
         Title="[%=System.LinkedFile%]"
-        Link="/Content/Main Legal &amp; License Information.htm"
+        Link="/Content/OTHER CONTENT/Main Legal &amp; License Information.htm"
         conditions="Default.PrintOnly"
         StartSection="false" />
       <TocEntry
         Title="TOC"
-        Link="/Content/Client TOC.htm"
+        Link="/Content/OTHER CONTENT/Client TOC.htm"
         BreakType="chapter"
         StartSection="false"
         PageLayout="/Content/Resources/PageLayouts/Default.flpgl"
@@ -1469,7 +1469,7 @@
       BreakType="chapter" />
     <TocEntry
       Title="Legal &amp; License Information"
-      Link="/Content/Main Legal &amp; License Information.htm"
+      Link="/Content/OTHER CONTENT/Main Legal &amp; License Information.htm"
       VolumeNumberReset="same"
       SectionNumberReset="continue"
       ChapterNumberReset="continue"
@@ -1479,7 +1479,7 @@
       StartSection="false"></TocEntry>
     <TocEntry
       Title="Table of Contents"
-      Link="/Content/Client TOC.htm"
+      Link="/Content/OTHER CONTENT/Client TOC.htm"
       ReplaceMergeNode="false"
       ComputeToc="false"
       PageType="normal"
@@ -1525,7 +1525,7 @@
     VolumeNumberReset="same">
     <TocEntry
       Title="Cover Page"
-      Link="/Content/Cover Page.htm"
+      Link="/Content/OTHER CONTENT/Cover Page.htm"
       conditions="Default.PrintOnly"
       StartSection="false"
       PageType="title"
@@ -1549,7 +1549,7 @@
       StartSection="false"></TocEntry>
     <TocEntry
       Title="Table of Contents"
-      Link="/Content/Client TOC.htm"
+      Link="/Content/OTHER CONTENT/Client TOC.htm"
       ReplaceMergeNode="false"
       ComputeToc="false"
       PageType="normal"

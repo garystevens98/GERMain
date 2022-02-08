@@ -3,7 +3,7 @@
   Version="1">
   <TocEntry
     Title="Index"
-    Link="/Content/Index.htm"
+    Link="/Content/OTHER CONTENT/Index.htm"
     conditions="Default.WebOnly"></TocEntry>
   <TocEntry
     Title="What Is New In HC Standard 4.0?"
@@ -22,7 +22,7 @@
     StartSection="false">
     <TocEntry
       Title="Cover Page"
-      Link="/Content/IllinoisCover.htm"
+      Link="/Content/OTHER CONTENT/IllinoisCover.htm"
       conditions="Default.PrintOnly"
       StartSection="false"
       PageType="title"
@@ -46,7 +46,7 @@
       StartSection="false"></TocEntry>
     <TocEntry
       Title="Table of Contents"
-      Link="/Content/Client TOC.htm"
+      Link="/Content/OTHER CONTENT/Client TOC.htm"
       ReplaceMergeNode="false"
       ComputeToc="false"
       PageType="normal"
@@ -252,7 +252,7 @@
     </TocEntry>
     <TocEntry
       Title="Glossary"
-      Link="/Content/Glossary.htm"
+      Link="/Content/OTHER CONTENT/Glossary.htm"
       conditions="Default.PrintOnly,Default.combined"
       StartSection="false"
       BreakType="chapter"
@@ -331,7 +331,7 @@
     </TocEntry>
     <TocEntry
       Title="Glossary"
-      Link="/Content/Glossary.htm"
+      Link="/Content/OTHER CONTENT/Glossary.htm"
       conditions="Default.PrintOnly,Default.combined"
       StartSection="false"
       BreakType="chapter"

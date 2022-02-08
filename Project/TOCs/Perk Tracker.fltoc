@@ -35,7 +35,7 @@
       StartSection="false"></TocEntry>
     <TocEntry
       Title="Table of Contents"
-      Link="/Content/Client TOC.htm"
+      Link="/Content/OTHER CONTENT/Client TOC.htm"
       ReplaceMergeNode="false"
       ComputeToc="false"
       PageType="normal"

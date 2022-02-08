@@ -22,7 +22,7 @@
       StartSection="false" />
     <TocEntry
       Title="TOC"
-      Link="/Content/Client TOC.htm"
+      Link="/Content/OTHER CONTENT/Client TOC.htm"
       BreakType="chapter"
       StartSection="false"
       PageLayout="/Content/Resources/PageLayouts/Default.flpgl"
@@ -94,7 +94,7 @@
       StartSection="false" />
     <TocEntry
       Title="TOC"
-      Link="/Content/Client TOC.htm"
+      Link="/Content/OTHER CONTENT/Client TOC.htm"
       BreakType="chapter"
       StartSection="false"
       PageLayout="/Content/Resources/PageLayouts/Default.flpgl"
