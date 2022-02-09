@@ -2090,7 +2090,7 @@
       PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl" />
   </TocEntry>
   <TocEntry
-    Title="[%=System.LinkedTitle%]"
+    Title="TEST TOPIC"
     Link="/Content/OTHER CONTENT/TEST TOPIC.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
     conditions="Default.TOC Health Chart" />
 </CatapultToc>
