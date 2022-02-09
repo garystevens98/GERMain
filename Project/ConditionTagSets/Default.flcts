@@ -236,4 +236,12 @@
     BackgroundColor="#ad00ff"
     Name="TOC Decedent Tracking"
     Comment="" />
+  <ConditionTag
+    BackgroundColor="#eb00ff"
+    Name="TOC Health Chart"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#792ec0"
+    Name="CON Health Chart"
+    Comment="" />
 </CatapultConditionTagSet>
