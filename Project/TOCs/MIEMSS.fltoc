@@ -250,7 +250,7 @@
     conditions="Default.HC">
     <TocEntry
       Title="Cover Page"
-      Link="/Content/MIEMSS User Cover Page.htm"
+      Link="/Content/OTHER CONTENT/MIEMSS User Cover Page.htm"
       conditions="Default.PrintOnly"
       StartSection="false"
       PageType="normal"

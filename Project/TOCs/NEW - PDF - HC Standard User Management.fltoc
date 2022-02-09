@@ -29,7 +29,7 @@
       PageLayout="/Content/Resources/PageLayouts/Default.flpgl" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/NEW Client TOC.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      Link="/Content/OTHER CONTENT/NEW Client TOC.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
       StartSection="false"
       ChapterNumberReset="continue"
       ChapterNumber=""
