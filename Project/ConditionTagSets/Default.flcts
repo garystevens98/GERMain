@@ -244,4 +244,12 @@
     BackgroundColor="#792ec0"
     Name="CON Health Chart"
     Comment="" />
+  <ConditionTag
+    BackgroundColor="#801f1f"
+    Name="CON Perk Tracking"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#851818"
+    Name="TOC Perk Tracking"
+    Comment="" />
 </CatapultConditionTagSet>
