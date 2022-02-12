@@ -1925,6 +1925,77 @@
     </TocEntry>
   </TocEntry>
   <TocEntry
+    Title="HC Perk Tracking"
+    conditions="Default.Perk Tracker">
+    <TocEntry
+      Title="Workflows">
+      <TocEntry
+        Title="Forensic Nurse Examiner/Children's National Medical Center Guide"
+        Link="/Content/PERK/Workflows/Agency Workflows Intro.htm"
+        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="Department of Forensic Sciences Guide"
+        Link="/Content/PERK/Workflows/DFS Workflow.htm"
+        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="Forensic Biology Unit Guide"
+        Link="/Content/PERK/Workflows/FBU Workflow.htm"
+        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="Metropolitan Police Department/Metropolitan Police Department - Youth Division Guide"
+        Link="/Content/PERK/Workflows/MPD Workflow.htm"
+        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="Office of the Chief Medical Examiner Guide"
+        Link="/Content/PERK/Workflows/OCME Workflow.htm"
+        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    </TocEntry>
+    <TocEntry
+      Title="Acknowledgements-TDH-Adam"
+      Link="/Content/PERK/Acknowledgements-TDH-Adam.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Acknowledgements-TDH"
+      Link="/Content/PERK/Acknowledgements-TDH.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Using HC PERK Tracker Mobile"
+      Link="/Content/PERK/Copy of Using PTM.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Cover Page"
+      Link="/Content/PERK/Cover Page.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Getting Started with HC Standard® PERK Tracking"
+      Link="/Content/PERK/Get Started with PT.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Using HC PERK Tracking Web"
+      Link="/Content/PERK/Log In-Adam.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Using HC PERK Tracking Web"
+      Link="/Content/PERK/Log In.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Using HC PERK Tracking Mobile"
+      Link="/Content/PERK/Using PTM.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Survivor PERK Tracker Portal"
+      Link="/Content/PERK/Victim Views-Adam.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Survivor PERK Tracking Portal"
+      Link="/Content/PERK/Victim Views.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Entering Record Information"
+      Link="/Content/PERK/Working with Records.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
     Title="HC Shelter Tracking"
     ChapterNumberReset="reset"
     ChapterNumber="1"
@@ -2027,6 +2098,14 @@
     </TocEntry>
   </TocEntry>
   <TocEntry
+    Title="Health Chart"
+    conditions="Default.TOC Health Chart">
+    <TocEntry
+      Title="Chapter One"
+      Link="/Content/Health Chart/Chapter One.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
     Title="EWRAP"
     ReplaceMergeNode="false"
     BreakType="none"
@@ -2088,80 +2167,5 @@
       ComputeToc="false"
       ReplaceMergeNode="false"
       PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl" />
-  </TocEntry>
-  <TocEntry
-    Title="Health Chart"
-    Link="/Content/OTHER CONTENT/TEST TOPIC.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-    conditions="Default.TOC Health Chart" />
-  <TocEntry
-    Title="HC Perk Tracking"
-    conditions="Default.Perk Tracker">
-    <TocEntry
-      Title="Workflows">
-      <TocEntry
-        Title="Forensic Nurse Examiner/Children's National Medical Center Guide"
-        Link="/Content/PERK/Workflows/Agency Workflows Intro.htm"
-        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-      <TocEntry
-        Title="Department of Forensic Sciences Guide"
-        Link="/Content/PERK/Workflows/DFS Workflow.htm"
-        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-      <TocEntry
-        Title="Forensic Biology Unit Guide"
-        Link="/Content/PERK/Workflows/FBU Workflow.htm"
-        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-      <TocEntry
-        Title="Metropolitan Police Department/Metropolitan Police Department - Youth Division Guide"
-        Link="/Content/PERK/Workflows/MPD Workflow.htm"
-        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-      <TocEntry
-        Title="Office of the Chief Medical Examiner Guide"
-        Link="/Content/PERK/Workflows/OCME Workflow.htm"
-        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    </TocEntry>
-    <TocEntry
-      Title="Acknowledgements-TDH-Adam"
-      Link="/Content/PERK/Acknowledgements-TDH-Adam.htm"
-      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="Acknowledgements-TDH"
-      Link="/Content/PERK/Acknowledgements-TDH.htm"
-      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="Using HC PERK Tracker Mobile"
-      Link="/Content/PERK/Copy of Using PTM.htm"
-      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="Cover Page"
-      Link="/Content/PERK/Cover Page.htm"
-      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="Getting Started with HC Standard® PERK Tracking"
-      Link="/Content/PERK/Get Started with PT.htm"
-      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="Using HC PERK Tracking Web"
-      Link="/Content/PERK/Log In-Adam.htm"
-      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="Using HC PERK Tracking Web"
-      Link="/Content/PERK/Log In.htm"
-      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="Using HC PERK Tracking Mobile"
-      Link="/Content/PERK/Using PTM.htm"
-      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="Survivor PERK Tracker Portal"
-      Link="/Content/PERK/Victim Views-Adam.htm"
-      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="Survivor PERK Tracking Portal"
-      Link="/Content/PERK/Victim Views.htm"
-      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="Entering Record Information"
-      Link="/Content/PERK/Working with Records.htm"
-      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
   </TocEntry>
 </CatapultToc>
