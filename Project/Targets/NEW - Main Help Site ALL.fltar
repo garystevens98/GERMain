@@ -6,7 +6,7 @@
   Destinations=""
   GlossaryTermConversion="marked"
   DefaultUrl="/Content/Startup Topics/Index.htm"
-  Skin="/Project/Skins/Copy of DefaultHTML5.flskn"
+  Skin="/Project/Skins/NEW-HTLM5.flskn"
   GenerateWebSafeImages="false"
   ServerEnabled="false"
   MasterPage="/Content/Resources/MasterPages/NewPage.flmsp"

@@ -31,7 +31,53 @@
             Name="BackgroundImage">url('HC%20LOGO2.jpg')</Property>
         </Properties>
       </Style>
+      <Medium
+        Name="Mobile">
+        <Style
+          Name="Header">
+          <Properties>
+            <Property
+              Name="BackgroundGradient">vertical #000000 #adadad</Property>
+            <Property
+              Name="PaddingLeft">1em</Property>
+            <Property
+              Name="PaddingRight">1em</Property>
+            <Property
+              Name="PaddingTop">15px</Property>
+            <Property
+              Name="MaxWidth">100%</Property>
+          </Properties>
+        </Style>
+        <Style
+          Name="Logo">
+          <Properties />
+        </Style>
+      </Medium>
+      <Style
+        Name="Header">
+        <Properties>
+          <Property
+            Name="BackgroundColor">#666666</Property>
+          <Property
+            Name="BackgroundGradient">vertical #000000 #4d4d4d</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Side Navigation Menu">
+        <Properties>
+          <Property
+            Name="BackgroundColor">#4d4d4d</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Side Navigation Menu Item">
+        <Properties>
+          <Property
+            Name="Color">#ffffff</Property>
+        </Properties>
+      </Style>
     </Styles>
+    <Stylesheet></Stylesheet>
   </Stylesheet>
   <Strings />
 </CatapultSkin>

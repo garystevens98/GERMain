@@ -12,7 +12,8 @@
   UseDeviceWidth="true"
   PreCompileScaledImages="false"
   MasterPage="/Content/Resources/MasterPages/NewPage.flmsp"
-  Medium="non-print">
+  Medium="non-print"
+  ContentInclusionType="Referenced">
   <PrintedOutput
     CollapseMargins="true"
     GenerateTOCProxy="true"
