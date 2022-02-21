@@ -252,4 +252,8 @@
     BackgroundColor="#851818"
     Name="TOC Perk Tracking"
     Comment="" />
+  <ConditionTag
+    BackgroundColor="#ead749"
+    Name="TOC HC 4_0"
+    Comment="" />
 </CatapultConditionTagSet>

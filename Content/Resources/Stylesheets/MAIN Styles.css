@@ -441,40 +441,40 @@ sup
 	vertical-align: text-top;
 }
 
-div.NewRowClass1	/*This is a custom responsive layout row style (div class) in your stylesheet. To provide your own description for this style: (1) Open the stylesheet; (2) Find and select the div class with this name; and (3) In the Comment field, replace this text with your own. For more information on adding comments to styles, see the online Help.*/
+div.I-C-II-R	/*This is a custom responsive layout row style (div class) in your stylesheet. To provide your own description for this style: (1) Open the stylesheet; (2) Find and select the div class with this name; and (3) In the Comment field, replace this text with your own. For more information on adding comments to styles, see the online Help.*/
 {
 	mc-grid-row: true;
 	margin-left: auto;
 	margin-right: auto;
 }
 
-div.NewRowClass1::before
+div.I-C-II-R::before
 {
 	content: ' ';
 	display: table;
 }
 
-div.NewRowClass1::after
+div.I-C-II-R::after
 {
 	content: ' ';
 	display: table;
 	clear: both;
 }
 
-div.NewRowClass1 > div
+div.I-C-II-R > div
 {
 	float: left;
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
 }
 
-div.NewRowClass1 > div:nth-child(1)
+div.I-C-II-R > div:nth-child(1)
 {
 	width: 50%;
 	margin-left: 0%;
 }
 
-div.NewRowClass1 > div:nth-child(2)
+div.I-C-II-R > div:nth-child(2)
 {
 	width: 50%;
 	margin-left: 0%;
@@ -1636,13 +1636,13 @@ img.BeforeAfter
 
 @media tablet
 {
-	div.NewRowClass1 > div:nth-child(1)
+	div.I-C-II-R > div:nth-child(1)
 	{
 		width: 50%;
 		margin-left: 0%;
 	}
 
-	div.NewRowClass1 > div:nth-child(2)
+	div.I-C-II-R > div:nth-child(2)
 	{
 		width: 50%;
 		margin-left: 0%;
@@ -1651,13 +1651,13 @@ img.BeforeAfter
 
 @media mobile
 {
-	div.NewRowClass1 > div:nth-child(1)
+	div.I-C-II-R > div:nth-child(1)
 	{
 		width: 100%;
 		margin-left: 0%;
 	}
 
-	div.NewRowClass1 > div:nth-child(2)
+	div.I-C-II-R > div:nth-child(2)
 	{
 		width: 100%;
 		margin-left: 0%;

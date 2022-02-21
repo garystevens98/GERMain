@@ -5,7 +5,7 @@
   Type="WebHelp2"
   Destinations=""
   GlossaryTermConversion="marked"
-  DefaultUrl="/Content/Startup Topics/Index.htm"
+  DefaultUrl="/Content/Startup Topics/Main Index.htm"
   Skin="/Project/Skins/Copy of DefaultHTML5.flskn"
   GenerateWebSafeImages="false"
   ServerEnabled="false"
