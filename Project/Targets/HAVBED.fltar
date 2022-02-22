@@ -8,7 +8,7 @@
   ConditionTagExpression="include[Default.ALL or Default.HAVBED or Default.PrintOnly]exclude[Default.Admin or Default.CHATS or Default.combined or Default.EWRAP or Default.Generic or Default.HC or Default.IC or Default.MIEMSS2 or Default.SubAdmin or Default.WebOnly]"
   conditions="Default.PrintOnly,Default.CHATS"
   MasterStylesheet="/Content/Resources/Stylesheets/MAIN Styles.css"
-  MasterToc="/Project/TOCs/Test.fltoc">
+  MasterToc="/Project/TOCs/NEW - Test.fltoc">
   <PDF
     DownsampleImages="false"
     ImageCompression="Automatic"
