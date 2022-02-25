@@ -450,14 +450,13 @@ div.I-C-II-R	/*This is a custom responsive layout row style (div class) in your 
 div.I-C-II-R::before
 {
 	content: ' ';
-	display: table;
 }
 
 div.I-C-II-R::after
 {
 	content: ' ';
-	display: table;
 	clear: both;
+	display: table;
 }
 
 div.I-C-II-R > div
@@ -473,6 +472,7 @@ div.I-C-II-R > div:nth-child(1)
 {
 	width: 50%;
 	margin-left: 0%;
+	min-width: 250px;
 }
 
 div.I-C-II-R > div:nth-child(2)
