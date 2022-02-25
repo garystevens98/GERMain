@@ -12,7 +12,8 @@
   UseDeviceWidth="false"
   TabletBreakpoint="0"
   MobileBreakpoint="0"
-  MasterToc="/Project/TOCs/NEW - Test.fltoc">
+  MasterToc="/Project/TOCs/NEW - Test.fltoc"
+  MasterStylesheet="/Content/Resources/Stylesheets/MAIN Styles.css">
   <PrintedOutput
     CollapseMargins="true"
     GenerateTOCProxy="true"

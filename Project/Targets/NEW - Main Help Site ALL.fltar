@@ -18,7 +18,8 @@
   UseDeviceWidth="true"
   MobileBreakpoint="516"
   ContentInclusionType="Referenced"
-  Skin="/Project/Skins/NEW-HTLM5 (Orig) - Playground.flskn">
+  Skin="/Project/Skins/NEW-HTLM5 (Orig) - Playground.flskn"
+  MasterStylesheet="/Content/Resources/Stylesheets/MAIN Styles.css">
   <PrintedOutput
     CollapseMargins="true"
     OutputFormat="doc" />
