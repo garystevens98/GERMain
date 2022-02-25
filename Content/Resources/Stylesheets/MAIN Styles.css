@@ -1825,3 +1825,9 @@ p.Arial13ptsBold
 	font-weight: bold;
 }
 
+p.Segoe10pts
+{
+	font-size: 10pt;
+	font-family: 'Segoe UI';
+}
+

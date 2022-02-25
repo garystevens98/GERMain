@@ -25,6 +25,40 @@
             Name="BackgroundGradient">vertical #131315 #45494C</Property>
         </Properties>
       </Style>
+      <Style
+        Name="Side Navigation Menu Item">
+        <Properties>
+          <Property
+            Name="LineHeight">10pt</Property>
+          <Property
+            Name="TextIndent">0px</Property>
+          <Property
+            Name="WhiteSpace">normal</Property>
+          <Property
+            Name="FontWeight">normal</Property>
+          <Property
+            Name="FontSize">90%</Property>
+          <Property
+            Name="FontFamily">Segoe UI</Property>
+          <Property
+            Name="BorderBottom">solid 2px #303335</Property>
+          <Property
+            Name="BorderTopLeftRadius">0px</Property>
+          <Property
+            Name="BorderBottomLeftRadius">0px</Property>
+          <Property
+            Name="BorderLeft">none 0px transparent</Property>
+        </Properties>
+        <Classes>
+          <StyleClass
+            Name="2nd Level">
+            <Properties>
+              <Property
+                Name="BorderLeft">none 0px transparent</Property>
+            </Properties>
+          </StyleClass>
+        </Classes>
+      </Style>
     </Styles>
   </Stylesheet>
   <Strings />
