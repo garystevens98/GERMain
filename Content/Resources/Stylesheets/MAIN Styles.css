@@ -1811,3 +1811,17 @@ img.BeforeAfter
 	}
 }
 
+p.Arial14ptsBold
+{
+	font-size: 14pt;
+	font-family: Arial;
+	font-weight: bold;
+}
+
+p.Arial13ptsBold
+{
+	font-size: 13;
+	font-family: Arial;
+	font-weight: bold;
+}
+
