@@ -269,5 +269,14 @@
   <ConditionTag
     BackgroundColor="#faebd7"
     Name="CON HC 4_4"
+    Comment=""
+    OriginalName="CON HC 4_4" />
+  <ConditionTag
+    BackgroundColor="#ccff99"
+    Name="TOC HC Admin"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#ccff99"
+    Name="CON HC Admin"
     Comment="" />
 </CatapultConditionTagSet>

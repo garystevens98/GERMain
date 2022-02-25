@@ -3,7 +3,7 @@
   Version="1">
   <TocEntry
     Title="Home"
-    Link="/Content/Startup Topics/Main Index.htm"
+    Link="/Content/Startup Topics/Home.htm"
     conditions="Default.WebOnly"></TocEntry>
   <TocEntry
     Title="HC Admin"

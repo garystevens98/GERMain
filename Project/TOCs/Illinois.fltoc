@@ -3,7 +3,7 @@
   Version="1">
   <TocEntry
     Title="Index"
-    Link="/Content/Startup Topics/Main Index.htm"
+    Link="/Content/Startup Topics/Home.htm"
     conditions="Default.WebOnly"></TocEntry>
   <TocEntry
     Title="What Is New In HC Standard 4.0?"
