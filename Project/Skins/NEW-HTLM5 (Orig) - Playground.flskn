@@ -16,7 +16,12 @@
     <Styles>
       <Style
         Name="Side Navigation Menu">
-        <Properties />
+        <Properties>
+          <Property
+            Name="Width">20%</Property>
+          <Property
+            Name="PaddingLeft">20px</Property>
+        </Properties>
       </Style>
       <Style
         Name="Header">
@@ -48,6 +53,8 @@
             Name="BorderBottomLeftRadius">0px</Property>
           <Property
             Name="BorderLeft">none 0px transparent</Property>
+          <Property
+            Name="TextAlign">left</Property>
         </Properties>
         <Classes>
           <StyleClass
@@ -55,6 +62,20 @@
             <Properties>
               <Property
                 Name="BorderLeft">none 0px transparent</Property>
+            </Properties>
+          </StyleClass>
+        </Classes>
+      </Style>
+      <Style
+        Name="Side Navigation Menu Item (hover)">
+        <Classes>
+          <StyleClass
+            Name="Expander Icon">
+            <Properties>
+              <Property
+                Name="ExpanderBorderWidth">8px</Property>
+              <Property
+                Name="ExpanderBorderColor">#a1a8ac</Property>
             </Properties>
           </StyleClass>
         </Classes>
