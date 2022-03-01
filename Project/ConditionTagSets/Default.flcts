@@ -246,11 +246,11 @@
     Comment="" />
   <ConditionTag
     BackgroundColor="#801f1f"
-    Name="CON Perk Tracking"
+    Name="CON PERK Tracking"
     Comment="" />
   <ConditionTag
     BackgroundColor="#851818"
-    Name="TOC Perk Tracking"
+    Name="TOC PERK Tracking"
     Comment="" />
   <ConditionTag
     BackgroundColor="#ead749"

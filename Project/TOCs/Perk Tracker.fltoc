@@ -10,8 +10,8 @@
     VolumeNumberReset="same"
     conditions="Default.Perk Tracker">
     <TocEntry
-      Title="Cover Page"
-      Link="/Content/PERK/Cover Page.htm"
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/OTHER CONTENT/Main Cover Page.htm"
       conditions="Default.PrintOnly"
       StartSection="false"
       PageType="title"
@@ -24,8 +24,8 @@
       PageLayout="/Content/Resources/PageLayouts/Default.flpgl"
       BreakType="chapter" />
     <TocEntry
-      Title="Legal &amp; License Information"
-      Link="/Content/PERK/Acknowledgements-TDH.htm"
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/OTHER CONTENT/Main Legal &amp; License Information.htm"
       VolumeNumberReset="same"
       SectionNumberReset="continue"
       ChapterNumberReset="continue"

@@ -679,7 +679,7 @@
       BreakType="chapter" />
     <TocEntry
       Title="Legal &amp; License Information"
-      Link="/Content/PERK/Acknowledgements-TDH.htm"
+      Link="/Content/PERK/Acknowledgements.htm"
       VolumeNumberReset="same"
       SectionNumberReset="continue"
       ChapterNumberReset="continue"
