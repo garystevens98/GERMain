@@ -5,7 +5,6 @@
   Type="WebHelp2"
   Destinations=""
   GlossaryTermConversion="marked"
-  DefaultUrl="/Content/Startup Topics/Home.htm"
   GenerateWebSafeImages="false"
   ServerEnabled="false"
   MasterPage="/Content/Resources/MasterPages/NewPage.flmsp"
@@ -19,7 +18,8 @@
   MobileBreakpoint="516"
   ContentInclusionType="Referenced"
   Skin="/Project/Skins/NEW-HTLM5 (Orig) - Playground.flskn"
-  MasterStylesheet="/Content/Resources/Stylesheets/MAIN Styles.css">
+  MasterStylesheet="/Content/Resources/Stylesheets/MAIN Styles.css"
+  TopicToolbarSkin="/Project/Skins/NEW-HTLM5 (Orig) - Topic Tool Bar.flskn">
   <PrintedOutput
     CollapseMargins="true"
     OutputFormat="doc" />
