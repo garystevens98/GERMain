@@ -71,7 +71,7 @@
     Name="CPM"
     Comment="" />
   <ConditionTag
-    BackgroundColor="#00bfff"
+    BackgroundColor="#00ffff"
     Name="Perk Tracker"
     Comment="" />
   <ConditionTag
@@ -245,11 +245,11 @@
     Name="CON Health Chart"
     Comment="" />
   <ConditionTag
-    BackgroundColor="#801f1f"
+    BackgroundColor="#00ffff"
     Name="CON PERK Tracking"
     Comment="" />
   <ConditionTag
-    BackgroundColor="#851818"
+    BackgroundColor="#00ffff"
     Name="TOC PERK Tracking"
     Comment="" />
   <ConditionTag

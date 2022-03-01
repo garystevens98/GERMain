@@ -8,7 +8,7 @@
     StartSection="false"
     SectionNumberReset="continue"
     VolumeNumberReset="same"
-    conditions="Default.Perk Tracker">
+    conditions="Default.TOC PERK Tracking">
     <TocEntry
       Title="[%=System.LinkedTitle%]"
       Link="/Content/OTHER CONTENT/Main Cover Page.htm"
