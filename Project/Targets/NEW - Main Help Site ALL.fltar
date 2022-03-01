@@ -19,7 +19,8 @@
   ContentInclusionType="Referenced"
   Skin="/Project/Skins/NEW-HTLM5 (Orig) - Playground.flskn"
   MasterStylesheet="/Content/Resources/Stylesheets/MAIN Styles.css"
-  TopicToolbarSkin="/Project/Skins/NEW-HTLM5 (Orig) - Topic Tool Bar.flskn">
+  TopicToolbarSkin="/Project/Skins/NEW-HTLM5 (Orig) - Topic Tool Bar.flskn"
+  MasterToc="/Project/TOCs/Master.fltoc">
   <PrintedOutput
     CollapseMargins="true"
     OutputFormat="doc" />
