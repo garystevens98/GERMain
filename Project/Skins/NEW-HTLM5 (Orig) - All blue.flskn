@@ -24,7 +24,7 @@
           <Property
             Name="BackgroundRepeat">no-repeat</Property>
           <Property
-            Name="BackgroundSize">fixed</Property>
+            Name="BackgroundSize">cover</Property>
           <Property
             Name="Width">15%</Property>
           <Property
