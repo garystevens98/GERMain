@@ -1925,75 +1925,144 @@
     </TocEntry>
   </TocEntry>
   <TocEntry
-    Title="HC Perk Tracking"
-    conditions="Default.Perk Tracker">
+    Title="HC PERK Tracker"
+    ChapterNumberReset="reset"
+    ChapterNumber="1"
+    StartSection="false"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    conditions="Default.TOC PERK Tracking">
     <TocEntry
-      Title="Workflows">
-      <TocEntry
-        Title="Forensic Nurse Examiner/Children's National Medical Center Guide"
-        Link="/Content/PERK/Workflows/Agency Workflows Intro.htm"
-        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-      <TocEntry
-        Title="Department of Forensic Sciences Guide"
-        Link="/Content/PERK/Workflows/DFS Workflow.htm"
-        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-      <TocEntry
-        Title="Forensic Biology Unit Guide"
-        Link="/Content/PERK/Workflows/FBU Workflow.htm"
-        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-      <TocEntry
-        Title="Metropolitan Police Department/Metropolitan Police Department - Youth Division Guide"
-        Link="/Content/PERK/Workflows/MPD Workflow.htm"
-        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-      <TocEntry
-        Title="Office of the Chief Medical Examiner Guide"
-        Link="/Content/PERK/Workflows/OCME Workflow.htm"
-        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    </TocEntry>
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/OTHER CONTENT/Main Cover Page.htm"
+      conditions="Default.PrintOnly"
+      StartSection="false"
+      PageType="title"
+      PageNumber="1"
+      PageNumberReset="continue"
+      VolumeNumberReset="same"
+      SectionNumberReset="continue"
+      ChapterNumberReset="continue"
+      ReplaceMergeNode="false"
+      PageLayout="/Content/Resources/PageLayouts/Default.flpgl"
+      BreakType="chapter" />
     <TocEntry
-      Title="Acknowledgements-TDH-Adam"
-      Link="/Content/PERK/Acknowledgements-TDH-Adam.htm"
-      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/OTHER CONTENT/Main Legal &amp; License Information.htm"
+      VolumeNumberReset="same"
+      SectionNumberReset="continue"
+      ChapterNumberReset="continue"
+      conditions="Default.PrintOnly"
+      BreakType="pageLayout"
+      PageLayout="/Content/Resources/PageLayouts/Default.flpgl"
+      StartSection="false"></TocEntry>
     <TocEntry
-      Title="Acknowledgements-TDH"
-      Link="/Content/PERK/Acknowledgements-TDH.htm"
-      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      Title="Table of Contents"
+      Link="/Content/OTHER CONTENT/Client TOC.htm"
+      ReplaceMergeNode="false"
+      ComputeToc="false"
+      PageType="normal"
+      PageNumber="1"
+      PageNumberReset="continue"
+      StartSection="false"
+      VolumeNumberReset="same"
+      SectionNumberReset="continue"
+      ChapterNumberReset="continue"
+      conditions="Default.PrintOnly"
+      BreakType="pageLayout"
+      PageLayout="/Content/Resources/PageLayouts/Default.flpgl"></TocEntry>
     <TocEntry
-      Title="Using HC PERK Tracker Mobile"
-      Link="/Content/PERK/Copy of Using PTM.htm"
-      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="Cover Page"
-      Link="/Content/PERK/Cover Page.htm"
-      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      Title="blank page"
+      Link="/Content/OTHER CONTENT/Blank Page.htm"
+      conditions="Default.PrintOnly"
+      StartSection="false" />
     <TocEntry
       Title="Getting Started with HC Standard® PERK Tracking"
       Link="/Content/PERK/Get Started with PT.htm"
-      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      BreakType="chapter"
+      PageNumberReset="reset"
+      PageType="title"
+      StartSection="false"
+      PageNumber="1"
+      PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
+      ChapterNumberReset="reset"
+      ChapterNumber="1"
+      SectionNumberReset="continue"
+      VolumeNumberReset="same" />
     <TocEntry
-      Title="Using HC PERK Tracking Web"
-      Link="/Content/PERK/Log In-Adam.htm"
-      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      Title="HC PERK Tracking Web"
+      BreakType="chapter"
+      PageNumberReset="continue"
+      StartSection="false"
+      PageNumber="1"
+      SectionNumberReset="continue"
+      VolumeNumberReset="same"
+      ChapterNumberReset="continue">
+      <TocEntry
+        Title="Using Perk Tracker Web"
+        Link="/Content/PERK/Log In.htm"
+        BreakType="none"
+        PageType="title"
+        StartSection="false"
+        PageNumberReset="continue"
+        PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
+        SectionNumberReset="continue"
+        VolumeNumberReset="same"
+        ChapterNumberReset="continue" />
+    </TocEntry>
     <TocEntry
-      Title="Using HC PERK Tracking Web"
-      Link="/Content/PERK/Log In.htm"
-      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      Title="HC PERK Tracking Mobile"
+      BreakType="chapter"
+      StartSection="false"
+      PageNumberReset="continue"
+      PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
+      Link="/Content/PERK/Using PTM.htm">
+      <TocEntry
+        Title="Working with a PERK Record"
+        Link="/Content/PERK/Working with Records.htm" />
+    </TocEntry>
     <TocEntry
-      Title="Using HC PERK Tracking Mobile"
-      Link="/Content/PERK/Using PTM.htm"
-      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      Title="HC PERK Tracking  Victim Portal"
+      BreakType="chapter"
+      PageType="title"
+      StartSection="false"
+      PageNumberReset="continue"
+      PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
+      SectionNumberReset="continue"
+      VolumeNumberReset="same"
+      ChapterNumberReset="continue">
+      <TocEntry
+        Title="Victim PERK Tracker Portal"
+        Link="/Content/PERK/Victim Views.htm" />
+    </TocEntry>
     <TocEntry
-      Title="Survivor PERK Tracker Portal"
-      Link="/Content/PERK/Victim Views-Adam.htm"
-      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="Survivor PERK Tracking Portal"
-      Link="/Content/PERK/Victim Views.htm"
-      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="Entering Record Information"
-      Link="/Content/PERK/Working with Records.htm"
-      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      Title="Workflows">
+      <TocEntry
+        Title="FNE/CNMC Workflows"
+        BreakType="chapter"
+        StartSection="false"
+        PageNumberReset="continue"
+        PageType="title"
+        PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
+        Link="/Content/PERK/Workflows/Agency Workflows Intro.htm"></TocEntry>
+      <TocEntry
+        Title="MPD/MPD-Y Workflows"
+        BreakType="none"
+        StartSection="false"
+        PageNumberReset="continue"
+        PageType="title"
+        PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
+        Link="/Content/PERK/Workflows/MPD Workflow.htm"></TocEntry>
+      <TocEntry
+        Title="DFS Workflows"
+        Link="/Content/PERK/Workflows/DFS Workflow.htm" />
+      <TocEntry
+        Title="OCME Workflows"
+        Link="/Content/PERK/Workflows/OCME Workflow.htm" />
+      <TocEntry
+        Title="FBU Workflows"
+        Link="/Content/PERK/Workflows/FBU Workflow.htm" />
+    </TocEntry>
   </TocEntry>
   <TocEntry
     Title="HC Shelter Tracking"

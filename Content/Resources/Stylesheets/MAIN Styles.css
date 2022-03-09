@@ -1853,3 +1853,8 @@ p.Segoe16Bold
 	font-weight: bold;
 }
 
+p.ButtonPadding
+{
+	padding-left: 20px;
+}
+
