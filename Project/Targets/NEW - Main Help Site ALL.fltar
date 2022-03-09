@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultTarget
   Version="2"
   Comment="New Target"
@@ -17,7 +17,7 @@
   UseDeviceWidth="true"
   MobileBreakpoint="516"
   ContentInclusionType="Referenced"
-  Skin="/Project/Skins/NEW-HTLM5 (Orig) - All blue.flskn"
+  Skin="/Project/Skins/Copy of DefaultHTML5.flskn"
   MasterStylesheet="/Content/Resources/Stylesheets/MAIN Styles.css"
   MasterToc="/Project/TOCs/Master.fltoc">
   <PrintedOutput
