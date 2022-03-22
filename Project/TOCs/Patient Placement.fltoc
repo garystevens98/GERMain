@@ -24,7 +24,6 @@
       BreakType="chapter" />
     <TocEntry
       Title="Legal &amp; License Information"
-      Link="/Content/Patient Placement/Acknowledgements-TDH.htm"
       VolumeNumberReset="same"
       SectionNumberReset="continue"
       ChapterNumberReset="continue"

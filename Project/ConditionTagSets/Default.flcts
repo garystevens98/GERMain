@@ -33,10 +33,10 @@
     Name="ALL"
     Comment="" />
   <ConditionTag
-    BackgroundColor="#ff00ff"
     Name="CON iOS 1_3"
     Comment=""
-    OriginalName="CONT iOS 1_3" />
+    OriginalName="CONT iOS 1_3"
+    BackgroundColor="#eb00ff" />
   <ConditionTag
     BackgroundColor="#fa8072"
     Name="CON Android 1_3"
@@ -100,7 +100,7 @@
   <ConditionTag
     Name="CON Android 2_0"
     Comment=""
-    BackgroundColor="#00ffa5"
+    BackgroundColor="#0800ff"
     OriginalName="CON Android 2_0" />
   <ConditionTag
     BackgroundColor="#8b4513"
@@ -122,47 +122,47 @@
     Name="TOC Android 1_3"
     Comment="" />
   <ConditionTag
-    BackgroundColor="#0000ff"
     Name="TOC Android 2_0"
-    Comment="" />
+    Comment=""
+    BackgroundColor="#0800ff" />
   <ConditionTag
-    BackgroundColor="#008000"
+    BackgroundColor="#eb00ff"
     Name="TOC iSO 1_3"
     Comment="" />
   <ConditionTag
-    BackgroundColor="#ffa500"
+    BackgroundColor="#fffb00"
     Name="TOC iSO 2_0"
     Comment="" />
   <ConditionTag
-    BackgroundColor="#7582cd"
+    BackgroundColor="#6699ff"
     Name="CON Android"
     Comment=""
     OriginalName="CON Android" />
   <ConditionTag
-    BackgroundColor="#9acd32"
-    Name="CON iSO"
+    BackgroundColor="#00ff00"
+    Name="CON iOS"
     Comment=""
     OriginalName="CON iSO" />
   <ConditionTag
-    BackgroundColor="#fa8072"
+    BackgroundColor="#ff7600"
     Name="CON Shelter Tracking"
     Comment="" />
   <ConditionTag
-    BackgroundColor="#8b008b"
+    BackgroundColor="#fffb00"
     Name="CON Patient Tracking"
     Comment="" />
   <ConditionTag
-    BackgroundColor="#00bfff"
+    BackgroundColor="#6699ff"
     Name="TOC Android"
     Comment=""
     OriginalName="TOC Android" />
   <ConditionTag
     BackgroundColor="#00ff00"
-    Name="TOC iSO"
+    Name="TOC iOS"
     Comment=""
     OriginalName="TOC iSO" />
   <ConditionTag
-    BackgroundColor="#b1c056"
+    BackgroundColor="#00bfff"
     Name="TOC Patient Placement"
     Comment=""
     OriginalName="TOC Patient Placement" />
@@ -183,7 +183,7 @@
     Name="CON HC"
     Comment="" />
   <ConditionTag
-    BackgroundColor="#ff00ff"
+    BackgroundColor="#00bfff"
     Name="TOC HC"
     Comment="" />
   <ConditionTag
@@ -201,7 +201,7 @@
     Name="TOC Retired"
     Comment="" />
   <ConditionTag
-    BackgroundColor="#37d0d0"
+    BackgroundColor="#ff7600"
     Name="TOC Shelter Tracking"
     Comment="" />
   <ConditionTag
@@ -209,7 +209,7 @@
     Name="CON Community Paramedicine"
     Comment="" />
   <ConditionTag
-    BackgroundColor="#51dede"
+    BackgroundColor="#00ff00"
     Name="TOC Community Paramedicine"
     Comment="" />
   <ConditionTag
@@ -276,4 +276,8 @@
     Name="CON HC Admin"
     Comment=""
     OriginalName="CON HC Admin" />
+  <ConditionTag
+    BackgroundColor="#00bfff"
+    Name="CON Patient Placement"
+    Comment="" />
 </CatapultConditionTagSet>
