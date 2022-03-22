@@ -163,7 +163,7 @@
     OriginalName="TOC iSO" />
   <ConditionTag
     BackgroundColor="#00bfff"
-    Name="TOC Patient Placement"
+    Name="TOC Patient Placement Version A"
     Comment=""
     OriginalName="TOC Patient Placement" />
   <ConditionTag
@@ -278,6 +278,14 @@
     OriginalName="CON HC Admin" />
   <ConditionTag
     BackgroundColor="#00bfff"
-    Name="CON Patient Placement"
+    Name="CON Patient Placement Version A"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#ff00ff"
+    Name="TOC Patient Placement Version B"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#ff00ff"
+    Name="CON Patient Placement Version B"
     Comment="" />
 </CatapultConditionTagSet>

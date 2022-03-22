@@ -5,7 +5,8 @@
     Name="CompanyName">Global Emergency Resources</Variable>
   <Variable
     Comment=""
-    Name="PhoneNumber">1-866-404-6911</Variable>
+    Name="GER Support Desk"
+    EvaluatedDefinition="1-866 404 6911">1-866 404 6911</Variable>
   <Variable
     Name="Figures"
     Comment="Sets Figure Numbering for objects"
@@ -20,9 +21,9 @@
     Comment="Copyright"
     EvaluatedDefinition="Copyright 2005-2021, Global Emergency Response, Inc.  All Rights Reserved.">Copyright 2005-2021, Global Emergency Response, Inc.  All Rights Reserved.</Variable>
   <Variable
-    Name="GER Support Phone Number"
+    Name="GER Support"
     Comment=""
-    EvaluatedDefinition="1.866.242.4035">1.866.242.4035</Variable>
+    EvaluatedDefinition="1-866 242 4035">1-866 242 4035</Variable>
   <Variable
     Name="GER Support Email"
     Comment=""
@@ -59,4 +60,8 @@
     Name="GER Address Part 2of2"
     Comment=""
     EvaluatedDefinition="Augusta, GA 30901">Augusta, GA 30901</Variable>
+  <Variable
+    Name="Patient Placement Website"
+    Comment=""
+    EvaluatedDefinition="https://patienttracking.gha911.org/patientplacement">https://patienttracking.gha911.org/patientplacement</Variable>
 </CatapultVariableSet>
