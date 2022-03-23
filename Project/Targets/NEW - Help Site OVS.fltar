@@ -16,7 +16,11 @@
   ContentInclusionType="Referenced"
   MasterToc="/Project/TOCs/Master.fltoc"
   PartialWordSearch="false"
-  SearchDatabaseChunkSize="100000">
+  SearchDatabaseChunkSize="100000"
+  OutputAnalyticsServer="https://api.madcapcentral.com/"
+  OutputAnalyticsLicenseId="21216"
+  LiveHelpType="Central"
+  OutputAnalyticsKey="137ffc62-f225-488c-989f-9b0c590f86da">
   <PrintedOutput
     CollapseMargins="true"
     GenerateTOCProxy="true"
