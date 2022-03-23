@@ -1437,6 +1437,15 @@
       ChapterNumberReset="reset"
       ChapterNumber="1"
       PageLayout="/Content/Resources/PageLayouts/Default.flpgl" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Patient Placement/Version B/Placement Boards.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      SectionNumberReset="continue"
+      VolumeNumberReset="same"
+      ChapterNumberReset="continue"
+      BreakType="chapter"
+      StartSection="false"
+      PageNumberReset="continue" />
   </TocEntry>
   <TocEntry
     Title="HC Patient Tracking"
