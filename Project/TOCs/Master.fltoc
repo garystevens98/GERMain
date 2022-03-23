@@ -1381,15 +1381,33 @@
   </TocEntry>
   <TocEntry
     Title="HC Patient Placement"
-    conditions="Default.TOC Patient Placement Version B">
+    conditions="Default.TOC Patient Placement Version B"
+    ChapterNumberReset="reset"
+    ChapterNumber="1"
+    StartSection="false"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same">
     <TocEntry
       Title="[%=System.LinkedTitle%]"
       Link="/Content/OTHER CONTENT/Main Cover Page.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-      conditions="Default.TOC Print Only" />
+      conditions="Default.TOC Print Only"
+      BreakType="none"
+      StartSection="false"
+      PageNumberReset="continue"
+      PageLayout="/Content/Resources/PageLayouts/Default.flpgl"
+      SectionNumberReset="continue"
+      VolumeNumberReset="same"
+      ChapterNumberReset="continue" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
       Link="/Content/OTHER CONTENT/Main Legal &amp; License Information.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-      conditions="Default.TOC Print Only" />
+      conditions="Default.TOC Print Only"
+      BreakType="pageLayout"
+      StartSection="false"
+      PageLayout="/Content/Resources/PageLayouts/Default.flpgl"
+      SectionNumberReset="continue"
+      VolumeNumberReset="same"
+      ChapterNumberReset="continue" />
     <TocEntry
       Title="Table of Contents"
       Link="/Content/OTHER CONTENT/Client TOC.htm"
@@ -1401,13 +1419,24 @@
       StartSection="false"
       VolumeNumberReset="same"
       SectionNumberReset="continue"
-      ChapterNumberReset="continue"
+      ChapterNumberReset="reset"
       conditions="Default.TOC Print Only"
       BreakType="pageLayout"
-      PageLayout="/Content/Resources/PageLayouts/Default.flpgl"></TocEntry>
+      PageLayout="/Content/Resources/PageLayouts/Default.flpgl"
+      ChapterNumber="0"></TocEntry>
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/Patient Placement/Version B/Overview.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      Link="/Content/Patient Placement/Version B/Overview.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      BreakType="chapter"
+      StartSection="false"
+      PageNumberReset="reset"
+      PageNumber="1"
+      PageType="normal"
+      SectionNumberReset="continue"
+      VolumeNumberReset="same"
+      ChapterNumberReset="reset"
+      ChapterNumber="1"
+      PageLayout="/Content/Resources/PageLayouts/Default.flpgl" />
   </TocEntry>
   <TocEntry
     Title="HC Patient Tracking"

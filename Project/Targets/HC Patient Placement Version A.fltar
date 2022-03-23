@@ -13,8 +13,5 @@
     DownsampleImages="false"
     ImageCompression="Automatic"
     ShowUsedBookmarks="false" />
-  <Destinations>
-    <Destination
-      Link="/Project/Destinations/websitepdfs.fldes" />
-  </Destinations>
+  <Destinations></Destinations>
 </CatapultTarget>
