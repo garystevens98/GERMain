@@ -19,7 +19,11 @@
   ContentInclusionType="Referenced"
   Skin="/Project/Skins/Copy of DefaultHTML5.flskn"
   MasterStylesheet="/Content/Resources/Stylesheets/MAIN Styles.css"
-  MasterToc="/Project/TOCs/Master.fltoc">
+  MasterToc="/Project/TOCs/Master.fltoc"
+  OutputAnalyticsServer="https://api.madcapcentral.com/"
+  OutputAnalyticsLicenseId="21216"
+  LiveHelpType="Central"
+  OutputAnalyticsKey="92662f16-bb02-4db4-b476-de42b12cbf1c">
   <PrintedOutput
     CollapseMargins="true"
     OutputFormat="doc" />
