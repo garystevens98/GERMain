@@ -9,7 +9,7 @@
   ServerEnabled="false"
   MasterPage="/Content/Resources/MasterPages/NewPage.flmsp"
   Medium="non-print"
-  PreCompileScaledImages="false"
+  PreCompileScaledImages="true"
   PartialWordSearch="true"
   SearchDatabaseChunkSize="100000"
   PreMergeSearchDatabase="false"
