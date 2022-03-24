@@ -1858,3 +1858,8 @@ p.ButtonPadding
 	padding-left: 20px;
 }
 
+h2.NoBreakUnderlined
+{
+	border-bottom: solid 1px #000000;
+}
+
