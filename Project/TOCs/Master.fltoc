@@ -1192,7 +1192,7 @@
     StartSection="false"
     SectionNumberReset="continue"
     VolumeNumberReset="same"
-    conditions="Default.Patient Placement">
+    conditions="Default.CON Patient Placement Version A,Default.TOC Patient Placement Version 1_0">
     <TocEntry
       Title="Cover Page"
       Link="/Content/OTHER CONTENT/Main Cover Page.htm"
@@ -1215,7 +1215,8 @@
       BreakType="pageLayout"
       PageLayout="/Content/Resources/PageLayouts/Default.flpgl"
       StartSection="false"
-      conditions="Default.TOC Print Only"></TocEntry>
+      conditions="Default.TOC Print Only"
+      Link="/Content/OTHER CONTENT/Main Legal &amp; License Information.htm"></TocEntry>
     <TocEntry
       Title="Table of Contents"
       Link="/Content/OTHER CONTENT/Client TOC.htm"
@@ -1388,7 +1389,7 @@
     StartSection="false"
     SectionNumberReset="continue"
     VolumeNumberReset="same"
-    conditions="Default.Patient Placement">
+    conditions="Default.TOC Patient Placement Version 1_3">
     <TocEntry
       Title="Cover Page"
       Link="/Content/OTHER CONTENT/Main Cover Page.htm"
