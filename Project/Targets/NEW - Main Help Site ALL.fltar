@@ -18,7 +18,6 @@
   MobileBreakpoint="516"
   ContentInclusionType="Referenced"
   Skin="/Project/Skins/Copy of DefaultHTML5.flskn"
-  MasterStylesheet="/Content/Resources/Stylesheets/MAIN Styles.css"
   MasterToc="/Project/TOCs/Master.fltoc"
   OutputAnalyticsServer="https://api.madcapcentral.com/"
   OutputAnalyticsLicenseId="21216"
