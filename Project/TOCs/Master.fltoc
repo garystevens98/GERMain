@@ -1432,13 +1432,17 @@
     <TocEntry
       Title="Getting Started with HC Patient Placement"
       BreakType="chapter"
-      PageNumberReset="reset"
+      PageNumberReset="continue"
       StartSection="false"
       PageNumber="1"
       SectionNumberReset="continue"
       VolumeNumberReset="same"
-      ChapterNumberReset="reset"
-      ChapterNumber="1">
+      ChapterNumberReset="continue"
+      ChapterNumber="1"
+      Link="/Content/Patient Placement/1.3/Get Started with PT.htm"
+      PageType="title"
+      PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
+      ReplaceMergeNode="false">
       <TocEntry
         Title="Getting Started with HC Standard®Patient Placement"
         Link="/Content/Patient Placement/1.3/Get Started with PT.htm"
