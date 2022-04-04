@@ -13,7 +13,7 @@
   MobileBreakpoint="0"
   MasterToc="/Project/TOCs/NEW - Test.fltoc"
   MasterStylesheet="/Content/Resources/Stylesheets/MAIN Styles.css"
-  Skin="/Project/Skins/NEW-HTLM5 (Orig) - All blue.flskn">
+  Skin="/Project/Skins/Copy of DefaultHTML5.flskn">
   <PrintedOutput
     CollapseMargins="true"
     GenerateTOCProxy="true"
