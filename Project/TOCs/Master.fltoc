@@ -1444,7 +1444,7 @@
       ReplaceMergeNode="false">
       <TocEntry
         Title="Getting Started with HC Standard®Patient Placement"
-        Link="/Content/Patient Placement/1.3/Get Started with PT.htm"
+        Link="/Content/Patient Placement/3.0/Get Started with PT.htm"
         BreakType="pageLayout"
         PageNumberReset="reset"
         PageType="title"
@@ -1457,7 +1457,7 @@
         VolumeNumberReset="same" />
       <TocEntry
         Title="Logging In to HC Patient Placement"
-        Link="/Content/Patient Placement/1.3/Log In.htm"
+        Link="/Content/Patient Placement/3.0/Log In.htm"
         BreakType="none"
         PageType="title"
         StartSection="false"
@@ -1474,10 +1474,10 @@
       StartSection="false"
       PageNumberReset="continue"
       PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
-      Link="/Content/Patient Placement/1.3/Evacuating Facilities/evacpatients.htm">
+      Link="/Content/Patient Placement/3.0/Evacuating Facilities/evacpatients.htm">
       <TocEntry
         Title="Create Patients"
-        Link="/Content/Patient Placement/1.3/Evacuating Facilities/Create Patient.htm"
+        Link="/Content/Patient Placement/3.0/Evacuating Facilities/Create Patient.htm"
         BreakType="none"
         PageType="title"
         StartSection="false"
@@ -1485,10 +1485,10 @@
         PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl" />
       <TocEntry
         Title="View Patients"
-        Link="/Content/Patient Placement/1.3/Evacuating Facilities/Viewpatients.htm" />
+        Link="/Content/Patient Placement/3.0/Evacuating Facilities/Viewpatients.htm" />
       <TocEntry
         Title="Transport Patients"
-        Link="/Content/Patient Placement/1.3/Evacuating Facilities/Transport Patients.htm" />
+        Link="/Content/Patient Placement/3.0/Evacuating Facilities/Transport Patients.htm" />
     </TocEntry>
     <TocEntry
       Title="Receiving Facilities"
@@ -1497,13 +1497,13 @@
       StartSection="false"
       PageNumberReset="continue"
       PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
-      Link="/Content/Patient Placement/1.3/Receiving Facilities/Receiving Fac.htm">
+      Link="/Content/Patient Placement/3.0/Receiving Facilities/Receiving Fac.htm">
       <TocEntry
         Title="State Wide Requests"
-        Link="/Content/Patient Placement/1.3/Receiving Facilities/Statewide Requests.htm" />
+        Link="/Content/Patient Placement/3.0/Receiving Facilities/Statewide Requests.htm" />
       <TocEntry
         Title="My Facility"
-        Link="/Content/Patient Placement/1.3/Receiving Facilities/My Facility.htm" />
+        Link="/Content/Patient Placement/3.0/Receiving Facilities/My Facility.htm" />
     </TocEntry>
     <TocEntry
       Title="EMS"
@@ -1512,29 +1512,29 @@
       StartSection="false"
       PageNumberReset="continue"
       PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
-      Link="/Content/Patient Placement/1.3/EMS/EMS.htm">
+      Link="/Content/Patient Placement/3.0/EMS/EMS.htm">
       <TocEntry
         Title="View Patients"
-        Link="/Content/Patient Placement/1.3/EMS/View Patients.htm" />
+        Link="/Content/Patient Placement/3.0/EMS/View Patients.htm" />
     </TocEntry>
     <TocEntry
       Title="Public Health"
       BreakType="chapter"
       PageType="title"
-      Link="/Content/Patient Placement/1.3/Public Health/PH.htm"
+      Link="/Content/Patient Placement/3.0/Public Health/PH.htm"
       StartSection="false"
       PageNumberReset="continue"
       PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl">
       <TocEntry
         Title="View Patients"
-        Link="/Content/Patient Placement/1.3/Public Health/Transport Boards.htm" />
+        Link="/Content/Patient Placement/3.0/Public Health/Transport Boards.htm" />
       <TocEntry
         Title="Placement Boards"
-        Link="/Content/Patient Placement/1.3/Public Health/Placement Boards.htm" />
+        Link="/Content/Patient Placement/3.0/Public Health/Placement Boards.htm" />
     </TocEntry>
     <TocEntry
       Title="Common Actions"
-      Link="/Content/Patient Placement/1.3/Common Actions_1.htm"
+      Link="/Content/Patient Placement/3.0/Common Actions_1.htm"
       BreakType="chapter"
       PageType="title"
       StartSection="false"
@@ -1545,7 +1545,7 @@
       ChapterNumberReset="continue">
       <TocEntry
         Title="Editting Records"
-        Link="/Content/Patient Placement/1.3/Editting Records.htm"
+        Link="/Content/Patient Placement/3.0/Editting Records.htm"
         BreakType="none"
         PageType="title"
         StartSection="false"
@@ -1556,7 +1556,7 @@
         ChapterNumberReset="continue"></TocEntry>
       <TocEntry
         Title="Deleting Records"
-        Link="/Content/Patient Placement/1.3/Deleting Records.htm"
+        Link="/Content/Patient Placement/3.0/Deleting Records.htm"
         BreakType="none"
         PageType="title"
         StartSection="false"
@@ -1567,19 +1567,19 @@
         ChapterNumberReset="continue" />
       <TocEntry
         Title="Using Quick Filters"
-        Link="/Content/Patient Placement/1.3/Quick Filters.htm" />
+        Link="/Content/Patient Placement/3.0/Quick Filters.htm" />
       <TocEntry
         Title="Using Display"
-        Link="/Content/Patient Placement/1.3/Display.htm" />
+        Link="/Content/Patient Placement/3.0/Display.htm" />
       <TocEntry
         Title="Sorting and Filtering Records"
-        Link="/Content/Patient Placement/1.3/Sorting Patients.htm" />
+        Link="/Content/Patient Placement/3.0/Sorting Patients.htm" />
       <TocEntry
         Title="Upload CSV File"
-        Link="/Content/Patient Placement/1.3/CSV Upload.htm" />
+        Link="/Content/Patient Placement/3.0/CSV Upload.htm" />
       <TocEntry
         Title="Grid Actions"
-        Link="/Content/Patient Placement/1.3/Grid Actions.htm" />
+        Link="/Content/Patient Placement/3.0/Grid Actions.htm" />
     </TocEntry>
   </TocEntry>
   <TocEntry
