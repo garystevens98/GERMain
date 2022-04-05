@@ -1474,7 +1474,7 @@
       StartSection="false"
       PageNumberReset="continue"
       PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
-      Link="/Content/Patient Placement/1.0/Evacuating Facilities/evacpatients.htm">
+      Link="/Content/Patient Placement/1.3/Evacuating Facilities/evacpatients.htm">
       <TocEntry
         Title="Create Patients"
         Link="/Content/Patient Placement/1.3/Evacuating Facilities/Create Patient.htm"
@@ -1497,7 +1497,7 @@
       StartSection="false"
       PageNumberReset="continue"
       PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
-      Link="/Content/Patient Placement/1.0/Receiving Facilities/Receiving Fac.htm">
+      Link="/Content/Patient Placement/1.3/Receiving Facilities/Receiving Fac.htm">
       <TocEntry
         Title="State Wide Requests"
         Link="/Content/Patient Placement/1.3/Receiving Facilities/Statewide Requests.htm" />
@@ -1512,7 +1512,7 @@
       StartSection="false"
       PageNumberReset="continue"
       PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
-      Link="/Content/Patient Placement/1.0/EMS/EMS.htm">
+      Link="/Content/Patient Placement/1.3/EMS/EMS.htm">
       <TocEntry
         Title="View Patients"
         Link="/Content/Patient Placement/1.3/EMS/View Patients.htm" />
@@ -1521,7 +1521,7 @@
       Title="Public Health"
       BreakType="chapter"
       PageType="title"
-      Link="/Content/Patient Placement/1.0/Public Health/PH.htm"
+      Link="/Content/Patient Placement/1.3/Public Health/PH.htm"
       StartSection="false"
       PageNumberReset="continue"
       PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl">
@@ -1534,7 +1534,7 @@
     </TocEntry>
     <TocEntry
       Title="Common Actions"
-      Link="/Content/Patient Placement/1.0/Common Actions_1.htm"
+      Link="/Content/Patient Placement/1.3/Common Actions_1.htm"
       BreakType="chapter"
       PageType="title"
       StartSection="false"
