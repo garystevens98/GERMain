@@ -1439,7 +1439,6 @@
       VolumeNumberReset="same"
       ChapterNumberReset="continue"
       ChapterNumber="1"
-      Link="/Content/Patient Placement/1.3/Get Started with PT.htm"
       PageType="title"
       PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
       ReplaceMergeNode="false">
