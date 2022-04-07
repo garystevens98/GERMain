@@ -1506,31 +1506,19 @@
         Link="/Content/Patient Placement/3.0/Receiving Facilities/My Facility.htm" />
     </TocEntry>
     <TocEntry
-      Title="EMS"
-      BreakType="chapter"
-      PageType="title"
-      StartSection="false"
-      PageNumberReset="continue"
-      PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl"
-      Link="/Content/Patient Placement/3.0/EMS/EMS.htm">
-      <TocEntry
-        Title="View Patients"
-        Link="/Content/Patient Placement/3.0/EMS/View Patients.htm" />
-    </TocEntry>
-    <TocEntry
       Title="Public Health"
       BreakType="chapter"
       PageType="title"
-      Link="/Content/Patient Placement/3.0/Public Health/PH.htm"
+      Link="/Content/Patient Placement/3.0/Coordinating User/PH.htm"
       StartSection="false"
       PageNumberReset="continue"
       PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl">
       <TocEntry
         Title="View Patients"
-        Link="/Content/Patient Placement/3.0/Public Health/Transport Boards.htm" />
+        Link="/Content/Patient Placement/3.0/Coordinating User/Transport Boards.htm" />
       <TocEntry
         Title="Placement Boards"
-        Link="/Content/Patient Placement/3.0/Public Health/Placement Boards.htm" />
+        Link="/Content/Patient Placement/3.0/Coordinating User/Placement Boards.htm" />
     </TocEntry>
     <TocEntry
       Title="Common Actions"
