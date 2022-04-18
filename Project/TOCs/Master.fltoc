@@ -1561,16 +1561,10 @@
         Link="/Content/Patient Placement/3.0/Common Actions/Quick Filters.htm" />
       <TocEntry
         Title="Using Display"
-        Link="/Content/Patient Placement/3.0/Common Actions/Display.htm" />
+        Link="/Content/Patient Placement/3.0/Common Actions/Column Visibility.htm" />
       <TocEntry
         Title="Sorting and Filtering Records"
         Link="/Content/Patient Placement/3.0/Common Actions/Sorting Patients.htm" />
-      <TocEntry
-        Title="Upload CSV File"
-        Link="/Content/Patient Placement/3.0/Common Actions/CSV Upload.htm" />
-      <TocEntry
-        Title="Grid Actions"
-        Link="/Content/Patient Placement/3.0/Common Actions/Grid Actions.htm" />
     </TocEntry>
   </TocEntry>
   <TocEntry
