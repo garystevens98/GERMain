@@ -1522,7 +1522,7 @@
     </TocEntry>
     <TocEntry
       Title="Common Actions"
-      Link="/Content/Patient Placement/3.0/Common Actions_1.htm"
+      Link="/Content/Patient Placement/3.0/Common Actions/Common Actions.htm"
       BreakType="chapter"
       PageType="title"
       StartSection="false"
@@ -1532,8 +1532,11 @@
       VolumeNumberReset="same"
       ChapterNumberReset="continue">
       <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Patient Placement/3.0/Common Actions/General Options.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
         Title="Editting Records"
-        Link="/Content/Patient Placement/3.0/Editting Records.htm"
+        Link="/Content/Patient Placement/3.0/Common Actions/Editting Records.htm"
         BreakType="none"
         PageType="title"
         StartSection="false"
@@ -1544,7 +1547,7 @@
         ChapterNumberReset="continue"></TocEntry>
       <TocEntry
         Title="Deleting Records"
-        Link="/Content/Patient Placement/3.0/Deleting Records.htm"
+        Link="/Content/Patient Placement/3.0/Common Actions/Deleting Records.htm"
         BreakType="none"
         PageType="title"
         StartSection="false"
@@ -1555,19 +1558,19 @@
         ChapterNumberReset="continue" />
       <TocEntry
         Title="Using Quick Filters"
-        Link="/Content/Patient Placement/3.0/Quick Filters.htm" />
+        Link="/Content/Patient Placement/3.0/Common Actions/Quick Filters.htm" />
       <TocEntry
         Title="Using Display"
-        Link="/Content/Patient Placement/3.0/Display.htm" />
+        Link="/Content/Patient Placement/3.0/Common Actions/Display.htm" />
       <TocEntry
         Title="Sorting and Filtering Records"
-        Link="/Content/Patient Placement/3.0/Sorting Patients.htm" />
+        Link="/Content/Patient Placement/3.0/Common Actions/Sorting Patients.htm" />
       <TocEntry
         Title="Upload CSV File"
-        Link="/Content/Patient Placement/3.0/CSV Upload.htm" />
+        Link="/Content/Patient Placement/3.0/Common Actions/CSV Upload.htm" />
       <TocEntry
         Title="Grid Actions"
-        Link="/Content/Patient Placement/3.0/Grid Actions.htm" />
+        Link="/Content/Patient Placement/3.0/Common Actions/Grid Actions.htm" />
     </TocEntry>
   </TocEntry>
   <TocEntry
