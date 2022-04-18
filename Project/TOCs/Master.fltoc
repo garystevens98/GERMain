@@ -1506,7 +1506,7 @@
         Link="/Content/Patient Placement/3.0/Receiving Facilities/My Facility.htm" />
     </TocEntry>
     <TocEntry
-      Title="Public Health"
+      Title="Coordinatin User"
       BreakType="chapter"
       PageType="title"
       Link="/Content/Patient Placement/3.0/Coordinating User/PH.htm"
@@ -1515,10 +1515,10 @@
       PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl">
       <TocEntry
         Title="View Patients"
-        Link="/Content/Patient Placement/3.0/Coordinating User/Transport Boards.htm" />
+        Link="/Content/Patient Placement/3.0/Coordinating User/Transport.htm" />
       <TocEntry
         Title="Placement Boards"
-        Link="/Content/Patient Placement/3.0/Coordinating User/Placement Boards.htm" />
+        Link="/Content/Patient Placement/3.0/Coordinating User/Placement.htm" />
     </TocEntry>
     <TocEntry
       Title="Common Actions"
