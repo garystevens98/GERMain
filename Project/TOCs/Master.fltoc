@@ -1515,7 +1515,7 @@
       PageLayout="/Content/Resources/PageLayouts/Chapter Introduction.flpgl">
       <TocEntry
         Title="View Patients"
-        Link="/Content/Patient Placement/3.0/Coordinating User/Transport.htm" />
+        Link="/Content/Patient Placement/3.0/Coordinating User/Transportation.htm" />
       <TocEntry
         Title="Placement Boards"
         Link="/Content/Patient Placement/3.0/Coordinating User/Placement.htm" />
